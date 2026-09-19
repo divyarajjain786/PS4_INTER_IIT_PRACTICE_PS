@@ -1,0 +1,2151 @@
+Input,labels
+"yeah, leave everything running while I'm gone... activate away mode",5
+apparently the AC can hide from me; tell me its status,2
+"yaar, is the heater running",17
+fan off please,10
+door ka status batao before I walk into a surprise,8
+"bro, main ghar se ja rahi hoon",20
+"yaar, morning",13
+"good night, because apparently sleep is finally allowed",14
+"bro, please lock the door",24
+heater band kar do before it gets ridiculous,15
+"hey, urgent emergency at home please",9
+heater chala do please,16
+check the temperature please,33
+please khidki khuli hai kya bro,42
+please close the door,6
+"hey, i'm leaving home please",20
+AC band kar do before we need jackets indoors,0
+"bro, music off please",26
+please lights on yaar,22
+what is the fan status,12
+"main ghar aa gaya, finally",39
+apparently guessing the temperature is enough; tell me the current temperature,33
+please what is the humidity!,19
+heater chala do bro,16
+"great, time to leave the comfort of home; I'm leaving",20
+sone ka mode laga do bro,31
+please window close karo,40
+fan off,10
+please morning everyone!,13
+temp thoda decrease karo please,32
+"yaar, temperature kam kar do bro",32
+"yeah, I'll just guess which fans are running; check them",12
+"great, another light nobody needs; turn it off",21
+decrease the temperature bro,32
+"TV chala do, unless the blank screen is tonight's entertainment",36
+close the window,40
+apparently the TV should stay off forever; turn it on,36
+apparently privacy is optional; door close karo,6
+"yaar, room light bujha do",21
+stop the TV,35
+"yeah, I'll guess whether music is playing; check it",28
+night! time to stop pretending I'm productive,14
+"yeah, I'll magically know if the AC is running; check it",2
+lock the main door,24
+"TV band kar do, unless the empty screen has a show",35
+apparently we're living in a freezer; temperature up,34
+"yeah, let me keep sweating — just kidding, fan on",11
+apparently I wanted a sauna; turn the AC on,1
+"bro, room temperature batao",33
+"bro, check the music bro",28
+please open the door,7
+darwaza khula hai kya yaar,8
+"yeah, let's leave the door wide open... close it",6
+what is the window status,42
+"yeah, I'll just stare at the wall and guess; check the TV",37
+"hey, temp thoda increase karo",34
+"hey, current humidity batao yaar",19
+apparently sleep mode is optional; turn it on,31
+please alarm deactivate karo yaar,3
+please close the door,6
+"bro, sone ka mode laga do bro",31
+"hey, check the security please",30
+"yeah, fresh air is clearly overrated... open the window",41
+please AC off yaar,0
+"hey, emergency mode activate karo please",9
+"hey, heater off karo bro",15
+switch the AC on,1
+"yaar, open the room window bro",41
+"yaar, stop the fan",10
+room light on karo yaar,22
+"hey, khidki khol do!",41
+please sleep mode on karo yaar,31
+"fan band kar do, we're not powering the whole neighborhood",10
+"hey, make the room cooler",32
+"bro, is the window open",42
+"alarm band kar do, enough drama",3
+"yeah, let's watch a blank screen all night... TV off",35
+apparently sweating is the plan; temp down,32
+"hey, turn on sleep mode",31
+"alarm band kar do, enough drama",3
+"yeah, let's let the alarm scream forever... turn it off",3
+"yaar, AC on kar do",1
+"bro, turn on the TV please",36
+apparently silence and music sound identical now; tell me the status,28
+decrease the temperature,32
+heater on kar do!,16
+"yeah, being cold is fun... heater on please",16
+TV on bro,36
+please party mode on karo,29
+please door open karo bro,7
+please TV off karo,35
+"main ghar aa gaya, finally",39
+"yaar, unlock the main door",38
+lights off,21
+"hey, heater off",15
+apparently the alarm needs the last word; alarm off,3
+"yaar, temperature up yaar",34
+"yaar, darwaza khula hai kya!",8
+"yaar, what is the home status please",18
+"fan ka status batao, no guessing",12
+"yaar, what is the home status",18
+sleep mode on karo before I accidentally wake the whole house,31
+"yeah, let's guess whether the window is open; check it",42
+"hey, what is the TV status",37
+"yaar, close the main door",6
+apparently Antarctica is the goal; turn the AC off,0
+lights ka status batao before I start checking every room,23
+please turn off the AC yaar,0
+door lock karo,24
+"hey, prepare the house for a party yaar",29
+start the fan please,11
+"yeah, let's keep everyone outside forever... unlock the door",38
+good night home please,14
+"yaar, AC chal raha hai kya",2
+"bro, turn off the heater!",15
+"hey, heater on",16
+"yeah, I'll magically know if the AC is running; check it",2
+party mode on karo!,29
+"hey, main door unlock karo yaar",38
+"hey, check the fans",12
+turn on the heater please,16
+deactivate the alarm please,3
+"yeah, let's just assume the house is secure; check security",30
+open the window yaar,41
+please humidity kitni hai bro,19
+heater off karo,15
+apparently the house can look after itself; set away mode,5
+door ka status batao before I walk into a surprise,8
+please stop the AC bro,0
+apparently the house can look after itself; set away mode,5
+check the AC,2
+"yaar, darwaza lock kar do bro",24
+"something is wrong, emergency!",9
+apparently we need a wind tunnel; window close karo,40
+TV on kar do please,36
+"yeah, let's watch a blank screen all night... TV off",35
+please check the home,18
+darwaza lock kar do before we forget again,24
+please close the window bro,40
+please good night home,14
+"yaar, turn off the light",21
+"bro, please close the window",40
+turn on party mode yaar,29
+please stop the TV!,35
+"yaar, fan band kar do yaar",10
+please set sleep mode bro,31
+"yaar, open the room window bro",41
+apparently privacy is optional; door close karo,6
+please turn off the fan please,10
+please switch the fan off bro,10
+apparently the house can look after itself; set away mode,5
+"yaar, party mode on karo",29
+"yeah, let's watch a movie with every light blazing... movie mode on",25
+music ka status batao please,28
+khidki kholo bro,41
+"hey, main door ko lock karo!",24
+darwaza unlock kar do please,38
+please activate sleep mode please,31
+door open karo yaar,7
+"main ja raha hoon, house ko sambhal lena",20
+"yaar, suprabhat yaar",13
+"bro, room light bujha do",21
+"yeah, obviously I want the light on",22
+"bro, i'm home!",39
+apparently the TV should stay off forever; turn it on,36
+because apparently the room is supposed to stay dark — turn the light on,22
+prepare the house for sleep yaar,31
+please party mode on karo!,29
+"hey, heater on kar do",16
+"hey, TV off yaar",35
+"fan ka status batao, no guessing",12
+AC off karo please,0
+turn on movie mode!,25
+close the room window,40
+apparently nobody is watching; turn the TV off,35
+are the fans on!,12
+stop the fan bro,10
+please switch the TV on,36
+"yaar, how is everything at home",18
+humidity kitni hai? let's actually check,19
+"yeah, keep the fan running forever... turn it off",10
+"good morning, because apparently it's morning again",13
+heater band kar do before it gets ridiculous,15
+"bro, stop the fan",10
+"hey, check the heater",17
+main door band karo yaar,6
+"fan ka status batao, no guessing",12
+"bro, humidity kya hai please",19
+"yeah, freezing is my favorite; raise the temperature",34
+AC on,1
+"yaar, activate movie mode yaar",25
+"TV band kar do, unless the empty screen has a show",35
+"hey, check the home",18
+gaane band kar do before the whole building joins,26
+"hey, music off karo bro",26
+apparently the air is moving by magic; turn the fan on,11
+apparently the house can look after itself; set away mode,5
+"bro, urgent emergency at home!",9
+"yeah, freezing is my favorite; raise the temperature",34
+sleep mode on karo,31
+apparently silence and music sound identical now; tell me the status,28
+please please unlock the door yaar,38
+"yaar, open the window!",41
+are the fans on please,12
+"yaar, door unlock karo!",38
+"good night, house!",14
+please turn off the TV please,35
+"yeah, let's guess whether the heater is on; check it",17
+what is the fan status please,12
+turn on away mode yaar,5
+"yeah, my imaginary humidity sensor is broken — check it",19
+i am leaving yaar,20
+"yeah, this is definitely not a time for jokes — emergency",9
+apparently the door should stay closed; open the door,7
+temperature down,32
+door unlock karo!,38
+"hey, lock the door bro",24
+apparently doors don't have status; tell me if it's open,8
+"yaar, gaane chal rahe hain kya!",28
+are the lights on please,23
+please TV ka status batao yaar,37
+"hey, turn on away mode please",5
+music chala do before this silence becomes dramatic,27
+fan chala do before I melt,11
+"bro, AC chala do",1
+check the home!,18
+humidity kitni hai? let's actually check,19
+"hey, suprabhat!",13
+"bro, is the window open yaar",42
+"bro, turn on away mode yaar",5
+"bro, set away mode",5
+apparently I wanted stale air; window open karo,41
+"yaar, turn off the fan",10
+apparently anyone should be able to walk in; lock it,24
+please heater band kar do please,15
+"TV ka status batao, no detective work from me",37
+please TV chal raha hai kya bro,37
+window ka status batao,42
+apparently we need a wind tunnel; window close karo,40
+"hey, night everyone",14
+"yeah, let me keep sweating — just kidding, fan on",11
+apparently we don't need a tropical climate indoors; heater off,15
+"yaar, window close karo yaar",40
+AC band kar do before we need jackets indoors,0
+which lights are on,23
+"bro, turn on the TV",36
+"hey, check the security please",30
+"hey, please unlock the door",38
+temp badha do before I become a snowman,34
+"yaar, disable the alarm!",3
+khidki band karo!,40
+"bro, is the window closed please",42
+"yeah, staring at a blank screen is my hobby... TV on",36
+"yeah, I'll guess whether the door is open; check it",8
+"yeah, my imaginary humidity sensor is broken — check it",19
+"bro, light band kar do yaar",21
+because apparently we love wasting electricity — light off,21
+"morning! yes, another day has arrived",13
+heater off karo!,15
+"yeah, staring at a blank screen is my hobby... TV on",36
+fan off karo yaar,10
+good morning home bro,13
+please temp thoda decrease karo,32
+good morning please,13
+please is the window closed,42
+"good night, because apparently sleep is finally allowed",14
+"hey, window ka status batao",42
+"hey, raise the temperature!",34
+lock the door yaar,24
+"hey, temperature up",34
+please open the door please,7
+please alarm activate karo please,4
+"hey, fan off",10
+heater chala do before I become an ice cube,16
+"bro, check home security",30
+"bro, prepare the house for a movie!",25
+darwaza kholo before I start negotiating with it,7
+unlock the door please,38
+"hey, alarm band kar do!",3
+i am leaving please,20
+"bro, main ghar aa gayi!",39
+please heater off karo,15
+"fan ka status batao, no guessing",12
+"yaar, room light bujha do please",21
+please check the window bro,42
+window ka status batao before I check myself,42
+please lower the temperature,32
+"hey, humidity kya hai!",19
+"wow, what a surprise, light on please",22
+please set movie mode!,25
+"yeah, silence is overrated — play music",27
+heater band kar do before it gets ridiculous,15
+"yaar, heater ka status batao please",17
+"yaar, humidity kya hai!",19
+please fan chal raha hai kya,12
+i'm leaving home bro,20
+"bro, set sleep mode please",31
+"bro, main ghar aa gayi",39
+lights on hain kya bro,23
+fan on kar do,11
+apparently sweating is the plan; temp down,32
+prepare the house for when I leave yaar,5
+AC off karo,0
+"hey, room light bujha do!",21
+darwaza lock kar do before we forget again,24
+"bro, ghar ko away mode par karo bro",5
+music ka status batao before I start listening carefully,28
+please humidity kya hai yaar,19
+"yaar, put the light on please",22
+"bro, is the heater running please",17
+please heater chal raha hai kya!,17
+please start the TV please,36
+"bro, please open the window!",41
+"hey, fans ka status batao yaar",12
+"yeah, let's just assume the house is secure; check security",30
+please close the window please,40
+sleep mode on karo please,31
+please what is the humidity yaar,19
+apparently I have time to check everything manually; home status please,18
+"bro, close the window bro",40
+"bro, TV chal raha hai kya!",37
+apparently guessing the temperature is enough; tell me the current temperature,33
+khidki band kar do before everything starts flying,40
+"emergency hai, please treat this as urgent",9
+"bro, tell me the current temperature",33
+"bro, ghar mein sab theek hai kya bro",18
+"bro, main ghar aa gaya please",39
+heater band kar do before it gets ridiculous,15
+"bro, room light on karo",22
+"yeah, let's roast the room... heater off please",15
+stop the TV bro,35
+"bro, set party mode",29
+apparently we need a wind tunnel; window close karo,40
+"bro, is the heater running yaar",17
+"yaar, is the AC on",2
+please morning yaar,13
+"great, time to leave the comfort of home; I'm leaving",20
+"yeah, silence is overrated — play music",27
+light chala do please,22
+"bro, heater on yaar",16
+please heater chal raha hai kya!,17
+darwaza kholo before I start negotiating with it,7
+"bro, tell me the current temperature bro",33
+turn off the fan yaar,10
+"bro, door open karo",7
+please temperature up yaar,34
+"bro, music off karo",26
+"bro, alarm deactivate karo!",3
+please is the TV running!,37
+"yaar, close the window yaar",40
+stop playing music,26
+"bro, ghar ko away mode par karo",5
+check the humidity,19
+is music playing!,28
+apparently the AC can hide from me; tell me its status,2
+"hey, fan chal raha hai kya",12
+"bro, something is wrong, emergency please",9
+set movie mode yaar,25
+"yaar, turn on the heater",16
+"yeah, leave everything running while I'm gone... activate away mode",5
+sleep mode on karo before I accidentally wake the whole house,31
+"hey, close the door",6
+"hey, emergency mode activate karo yaar",9
+"hey, turn off the TV bro",35
+"yeah, waking up late sounds fantastic... set the alarm",4
+"bro, AC off karo",0
+"yeah, let me keep sweating — just kidding, fan on",11
+humidity kya hai,19
+"yeah, waking up late sounds fantastic... set the alarm",4
+please AC off karo please,0
+"help, emergency at home",9
+what is the security status bro,30
+please check the security,30
+"morning! yes, another day has arrived",13
+please close the main door,6
+"hey, we are home please",39
+"yaar, close the room window yaar",40
+"bro, start the AC",1
+"bro, switch the AC on yaar",1
+apparently the heater has become invisible; tell me its status,17
+music ka status batao before I start listening carefully,28
+increase the temperature,34
+please alarm laga do,4
+"yeah, obviously I want the light on",22
+"bro, raise the temperature please",34
+"hey, what is the humidity bro",19
+AC off karo yaar,0
+TV off karo,35
+AC off karo bro,0
+decrease the temperature,32
+apparently I have to go outside again — leaving home,20
+alarm deactivate karo,3
+apparently nobody gets in today; unlock the door,38
+"yaar, music baja do yaar",27
+please party mode on karo,29
+apparently I wanted stale air; window open karo,41
+"good morning, house",13
+"hey, is the AC running!",2
+alarm laga do before future-me complains,4
+apparently Antarctica is the goal; turn the AC off,0
+door close karo!,6
+light off karo,21
+TV off,35
+main door unlock karo yaar,38
+"fan band kar do, we're not powering the whole neighborhood",10
+decrease the temperature!,32
+"hey, is the heater running",17
+"yeah, staring at a blank screen is my hobby... TV on",36
+"bro, ghar secure hai kya bro",30
+"yaar, current humidity batao bro",19
+"bro, open the window",41
+"yaar, what is the music status!",28
+"bro, disable the alarm",3
+please tell me the humidity yaar,19
+"alarm band kar do, enough drama",3
+tell me the humidity please,19
+please gaane band kar do,26
+"bro, AC chala do!",1
+"yeah, let's just assume the house is secure; check security",30
+"bro, check the security bro",30
+"bro, temperature kya hai",33
+"hey, AC off",0
+please close the door bro,6
+apparently movie night needs distractions; activate movie mode,25
+deactivate the alarm yaar,3
+apparently the air is moving by magic; turn the fan on,11
+"yeah, tropical weather indoors sounds amazing... AC on",1
+window ka status batao before I check myself,42
+what is the AC status please,2
+"yaar, main ghar aa gaya please",39
+music ka status batao bro,28
+lights ka status batao before I start checking every room,23
+"bro, check the humidity bro",19
+"bro, party mode on karo please",29
+please alarm on,4
+gaane band kar do bro,26
+darwaza unlock kar do yaar,38
+"bro, temp thoda decrease karo yaar",32
+"bro, heater chala do!",16
+"yaar, activate the alarm",4
+"hey, good morning home!",13
+please music baja do please,27
+"bro, switch the TV on",36
+please switch the fan off yaar,10
+"bro, AC chala do please",1
+turn on the TV please,36
+"yaar, open the main door bro",7
+"hey, open the window",41
+"hey, light chala do yaar",22
+"yaar, temp thoda decrease karo",32
+apparently we need a wind tunnel; window close karo,40
+"please good night, house yaar",14
+"bro, start the AC please",1
+temperature kam kar do before this becomes a sauna,32
+night! time to stop pretending I'm productive,14
+i am home bro,39
+khidki khuli hai kya please,42
+"bro, turn the music off bro",26
+temp kitna hai? I'd rather not guess,33
+"yeah, staring at a blank screen is my hobby... TV on",36
+"hey, music start karo yaar",27
+"yaar, TV chal raha hai kya yaar",37
+ghar secure hai kya!,30
+please alarm band kar do bro,3
+"hey, are the fans on!",12
+"yaar, i am home",39
+activate sleep mode please,31
+apparently anyone should be able to walk in; lock it,24
+what is the temperature please,33
+"yeah, keep the fan running forever... turn it off",10
+fans ka status batao please,12
+apparently the room needs even more silence; music on,27
+fans ka status batao please,12
+"yeah, let's guess whether the window is open; check it",42
+"yaar, activate movie mode",25
+"yeah, I'll guess whether the door is open; check it",8
+"yeah, this is definitely not a time for jokes — emergency",9
+"yaar, make the room cooler please",32
+"bro, unlock the main door yaar",38
+please TV off yaar,35
+please main door band karo,6
+"yeah, my imaginary humidity sensor is broken — check it",19
+apparently we can guess humidity; tell me the current humidity,19
+is the TV on yaar,37
+please AC ka status batao,2
+fan band kar do yaar,10
+please are the fans on!,12
+"hey, music rok do please",26
+apparently anyone should be able to walk in; lock it,24
+please lock the door please,24
+activate movie mode,25
+window open karo yaar,41
+alarm laga do before future-me complains,4
+"yaar, film dekhni hai, movie mode",25
+"yaar, switch the AC off",0
+"bro, humidity kya hai bro",19
+fan band kar do!,10
+temp kitna hai? I'd rather not guess,33
+fan on please,11
+apparently everything is fine... it isn't. emergency,9
+"hey, temperature kam kar do bro",32
+please check the door yaar,8
+is the AC on!,2
+temperature kya hai,33
+"yaar, heater off!",15
+"bro, gaane band kar do",26
+AC band kar do,0
+check the window bro,42
+please open the door!,7
+darwaza kholo before I start negotiating with it,7
+apparently nobody is watching; turn the TV off,35
+"good night, because apparently sleep is finally allowed",14
+apparently I enjoy shivering; turn the heater on,16
+"hey, good night home!",14
+"yeah, let's keep everything awake all night... activate sleep mode",31
+"yaar, something is wrong, emergency",9
+"yaar, we're back home",39
+what is the temperature bro,33
+"bro, lights ka status batao bro",23
+"bro, something is wrong, emergency!",9
+"hey, alarm on",4
+"yeah, let's guess whether the window is open; check it",42
+"bro, fan off karo!",10
+please gaane chala do please,27
+apparently we need a wind tunnel; window close karo,40
+"hey, prepare the house for a movie",25
+"yaar, what is the temperature yaar",33
+door lock karo please,24
+gaane band kar do,26
+"yaar, deactivate the alarm please",3
+gaane chal rahe hain kya please,28
+"yaar, door unlock karo",38
+turn on party mode bro,29
+"bro, gaane chal rahe hain kya",28
+please prepare the house for sleep please,31
+"bro, main door band karo",6
+alarm off,3
+"main ja raha hoon, house ko sambhal lena",20
+turn off the alarm bro,3
+"yaar, temperature kam kar do",32
+"yeah, tropical weather indoors sounds amazing... AC on",1
+open the door bro,7
+enable the alarm!,4
+"yaar, main ghar aa gayi yaar",39
+turn on the fan!,11
+"party hai bhai, party mode laga do",29
+"yaar, raise the temperature",34
+is music playing!,28
+play music,27
+alarm laga do before future-me complains,4
+heater off karo please,15
+enable the alarm yaar,4
+please what is the security status yaar,30
+please what is the fan status yaar,12
+what is the TV status bro,37
+"yaar, switch the heater off bro",15
+"yaar, temperature badha do bro",34
+"hey, stop the heater please",15
+apparently the door should stay closed; open the door,7
+please main ghar se ja rahi hoon!,20
+"yaar, activate movie mode",25
+lock the main door,24
+please turn on away mode bro,5
+"light on yaar, genius idea",22
+"hey, start the heater",16
+"yaar, alarm off",3
+please music off karo please,26
+"hey, AC chala do",1
+emergency mode activate karo please,9
+please set party mode,29
+we are home,39
+apparently everything is fine... it isn't. emergency,9
+ghar mein sab theek hai kya!,18
+please is the TV on yaar,37
+"yaar, music on please",27
+"hey, is the window open",42
+"bro, heater ka status batao please",17
+please lights on hain kya bro,23
+main door band karo yaar,6
+please TV band kar do bro,35
+"wow, it's totally cool in here... fan on please",11
+"yaar, khidki khuli hai kya",42
+"hey, check the security yaar",30
+"great, I'm finally home; hello house",39
+"bro, is the house secure bro",30
+"hey, please unlock the door",38
+"yeah, leave everything running while I'm gone... activate away mode",5
+movie mode on karo,25
+AC off please,0
+"hey, stop the music",26
+check the TV bro,37
+"bro, start the music please",27
+TV chala do bro,36
+"bro, fan chal raha hai kya!",12
+apparently nobody gets in today; unlock the door,38
+"bro, room light on karo",22
+"bro, what is the door status",8
+please is the main door closed,8
+"bro, close the main door",6
+please main ghar se ja raha hoon yaar,20
+switch the TV off,35
+tell me the current temperature,33
+please door open karo please,7
+apparently I wanted a sauna; turn the AC on,1
+stop the heater,15
+apparently privacy is optional; door close karo,6
+"bro, turn on the heater!",16
+activate party mode,29
+darwaza lock kar do before we forget again,24
+"yaar, home status kya hai yaar",18
+i am leaving,20
+temp badha do before I become a snowman,34
+"yaar, activate party mode bro",29
+good morning — let's pretend we're fully awake,13
+"hey, turn on the TV!",36
+"yeah, leave everything running while I'm gone... activate away mode",5
+"film dekhni hai, movie mode yaar",25
+music start karo,27
+alarm deactivate karo yaar,3
+"bro, heater band kar do please",15
+"yaar, khidki band karo",40
+please darwaza khol do,7
+humidity kitni hai? let's actually check,19
+"yeah, let's guess which lights are on; check the lights",23
+"yeah, let's have a party in total silence... party mode on",29
+because apparently the room is supposed to stay dark — turn the light on,22
+darwaza lock kar do bro,24
+"hey, we are home please",39
+"yeah, waking up late sounds fantastic... set the alarm",4
+we are home,39
+darwaza kholo before I start negotiating with it,7
+"hey, alarm laga do!",4
+"bro, ghar mein sab theek hai kya!",18
+"yeah, silence is overrated — play music",27
+"yaar, AC chal raha hai kya yaar",2
+please darwaza band kar do!,6
+AC off karo yaar,0
+"yeah, let's have a party in total silence... party mode on",29
+please light band kar do please,21
+"yeah, my imaginary humidity sensor is broken — check it",19
+"yeah, tropical weather indoors sounds amazing... AC on",1
+music ka status batao before I start listening carefully,28
+"bro, something is wrong, emergency!",9
+apparently nobody is watching; turn the TV off,35
+"yeah, let's guess which lights are on; check the lights",23
+"hey, switch the light on!",22
+"hey, close the door!",6
+please door ka status batao please,8
+"bro, prepare the house for sleep yaar",31
+switch the TV off please,35
+"hey, light on kar do",22
+please ghar ko away mode par karo,5
+apparently everything is fine... it isn't. emergency,9
+"yeah, let me keep sweating — just kidding, fan on",11
+"main ghar aa gaya, finally",39
+"bro, temp kitna hai please",33
+"yeah, freezing is my favorite; raise the temperature",34
+ghar ka status batao before I do a full inspection,18
+"bro, stop the heater bro",15
+"hey, we are home",39
+"yeah, let's guess which lights are on; check the lights",23
+"yaar, darwaza lock kar do please",24
+"hey, what is the temperature yaar",33
+"hey, khidki band karo bro",40
+"hey, room temperature batao yaar",33
+"hey, time for bed, good night!",14
+apparently the alarm needs the last word; alarm off,3
+please suprabhat bro,13
+"yeah, let's freeze the room all day... AC off please",0
+"yeah, fresh air is clearly overrated... open the window",41
+"yaar, is the door open yaar",8
+"hey, start the fan!",11
+apparently the room needs even more silence; music on,27
+activate movie mode yaar,25
+"bro, activate movie mode bro",25
+"bro, stop the AC bro",0
+"yaar, is the house secure",30
+music on yaar,27
+"yaar, turn on away mode please",5
+"bro, heater chala do bro",16
+"fan ka status batao, no guessing",12
+check the window bro,42
+apparently the neighbors need a concert; music off,26
+"bro, fan band kar do",10
+please open the door yaar,7
+alarm off bro,3
+please switch the fan on yaar,11
+gaane band kar do before the whole building joins,26
+apparently the alarm needs the last word; alarm off,3
+apparently the heater has become invisible; tell me its status,17
+heater ka status batao yaar,17
+stop the music!,26
+"wow, it's totally cool in here... fan on please",11
+"hey, TV on bro",36
+switch the fan off bro,10
+"yaar, i'm home please",39
+switch the TV on,36
+"yaar, is the door open bro",8
+"bro, turn on the heater!",16
+is the main door closed,8
+"security status batao, no guessing",30
+please door ka status batao,8
+"yaar, gaane chal rahe hain kya please",28
+"hey, humidity kya hai",19
+"light band kar do, unless we're trying to illuminate the whole planet",21
+apparently Antarctica is the goal; turn the AC off,0
+AC band kar do before we need jackets indoors,0
+fan on please,11
+please alarm on please,4
+check the music,28
+"bro, switch the TV on bro",36
+please switch the AC on bro,1
+"hey, we're back home",39
+please close the window yaar,40
+please check the door!,8
+"yeah, security is totally unnecessary... lock the door",24
+make the room warmer,34
+heater chala do before I become an ice cube,16
+"yaar, alarm off please",3
+alarm laga do before future-me complains,4
+please main door band karo!,6
+tell me the humidity,19
+"yeah, I'll just stare at the wall and guess; check the TV",37
+please lock the door!,24
+please tell me the current temperature,33
+good night home please,14
+please set away mode!,5
+make the room warmer,34
+"morning! yes, another day has arrived",13
+TV on,36
+"hey, which lights are on bro",23
+"bro, lock the main door!",24
+"yaar, darwaza khol do",7
+temp badha do before I become a snowman,34
+"hey, switch the light off!",21
+"bro, prepare the house for a party",29
+"yeah, let's let the alarm scream forever... turn it off",3
+night! time to stop pretending I'm productive,14
+activate sleep mode,31
+movie mode on karo please,25
+"yaar, fan off karo bro",10
+activate away mode yaar,5
+apparently we don't need a tropical climate indoors; heater off,15
+please lights ka status batao,23
+"bro, is anything playing",28
+"yaar, what is the security status!",30
+"hey, alarm deactivate karo",3
+"yeah, let's guess whether the window is open; check it",42
+"bro, what is the fan status yaar",12
+please what is the heater status bro,17
+are the lights on yaar,23
+"yaar, shubh ratri bro",14
+apparently the house forgot it's a party; activate party mode,29
+"yaar, turn on the TV!",36
+heater on kar do,16
+apparently I should trust luck; tell me the security status,30
+"yaar, prepare the house for a party",29
+"main ghar aa gaya, finally",39
+please switch the light off please,21
+"yaar, is the TV on yaar",37
+what is the AC status please,2
+are the lights on!,23
+please is the heater on please,17
+"bro, check the window please",42
+temperature badha do!,34
+apparently everything is fine... it isn't. emergency,9
+"bro, heater band kar do yaar",15
+"yeah, I'll just guess which fans are running; check them",12
+"hey, switch the light on please",22
+light on kar do please,22
+"yeah, this is definitely not a time for jokes — emergency",9
+"yaar, is the AC on bro",2
+please heater band kar do bro,15
+"yaar, door lock karo!",24
+"yeah, I'll magically know if the AC is running; check it",2
+sleep mode on karo before I accidentally wake the whole house,31
+"hey, tell me the current temperature yaar",33
+"yaar, how is everything at home please",18
+stop the TV,35
+apparently I have to go outside again — leaving home,20
+apparently I have to go outside again — leaving home,20
+"bro, stop the music",26
+please good morning please,13
+please is the window closed bro,42
+"bro, stop playing music",26
+"bro, time for bed, good night",14
+is the window closed!,42
+please close the window please,40
+"yeah, let me keep sweating — just kidding, fan on",11
+"yaar, stop the AC please",0
+please TV chal raha hai kya,37
+because apparently the fan has to work overtime — fan off,10
+"bro, door open karo yaar",7
+apparently silence and music sound identical now; tell me the status,28
+"yeah, silence is overrated — play music",27
+"yeah, let's keep everyone outside forever... unlock the door",38
+"yeah, let's freeze the room all day... AC off please",0
+"hey, raise the temperature yaar",34
+which lights are on yaar,23
+"bro, switch the TV off yaar",35
+"bro, window open karo yaar",41
+are the lights on yaar,23
+apparently guessing the temperature is enough; tell me the current temperature,33
+please music start karo yaar,27
+"bro, main door kholo yaar",7
+"yeah, let's keep everything awake all night... activate sleep mode",31
+"bro, main ghar se ja rahi hoon",20
+"movie dekhni hai, distractions hatao — movie mode",25
+"hey, heater off karo bro",15
+apparently sleep mode is optional; turn it on,31
+"yaar, is the AC running!",2
+"hey, open the window bro",41
+"hey, darwaza band kar do please",6
+please music start karo!,27
+"hey, TV on kar do",36
+"TV chala do, unless the blank screen is tonight's entertainment",36
+"yeah, let's watch a blank screen all night... TV off",35
+"yeah, let me keep sweating — just kidding, fan on",11
+"yeah, I'll just guess which fans are running; check them",12
+apparently I have time to check everything manually; home status please,18
+what is the light status,23
+apparently I have time to check everything manually; home status please,18
+turn off the AC please,0
+apparently guessing the temperature is enough; tell me the current temperature,33
+"main ghar aa gaya, finally",39
+check the security,30
+"yaar, ghar ko away mode par karo",5
+"yaar, check the lights bro",23
+"yeah, let's watch a blank screen all night... TV off",35
+which fans are running,12
+"bro, fan chal raha hai kya please",12
+"TV ka status batao, no detective work from me",37
+switch the AC on bro,1
+is anything playing,28
+close the window,40
+please good morning yaar,13
+"yaar, darwaza khol do bro",7
+turn on party mode,29
+door ka status batao before I walk into a surprise,8
+please check the AC yaar,2
+"bro, we are leaving!",20
+prepare the house for a movie,25
+"hey, we're back home please",39
+apparently I have time to check everything manually; home status please,18
+TV off,35
+"yaar, something is wrong, emergency",9
+enable the alarm yaar,4
+please morning everyone please,13
+"hey, TV band kar do",35
+"bro, i am home yaar",39
+gaane band kar do yaar,26
+"hey, turn on the heater yaar",16
+music chala do before this silence becomes dramatic,27
+"hey, darwaza unlock kar do",38
+"bro, darwaza khol do!",7
+"help, emergency at home",9
+"hey, what is the heater status!",17
+check the lights,23
+"yaar, switch the light on!",22
+"yaar, is the TV running!",37
+open the door please,7
+music baja do please,27
+window open karo bro,41
+"yaar, are the fans on",12
+apparently the house can look after itself; set away mode,5
+"yaar, TV ka status batao yaar",37
+"yeah, let's roast the room... heater off please",15
+temperature kam kar do yaar,32
+please TV chal raha hai kya!,37
+"yeah, let's freeze the room all day... AC off please",0
+please turn off the heater,15
+"hey, what is the music status",28
+"hey, AC on kar do!",1
+"hey, is the house secure please",30
+please khidki khol do yaar,41
+"yeah, let's guess which lights are on; check the lights",23
+"bro, prepare the house for when I leave",5
+"yeah, I'll magically know if the AC is running; check it",2
+switch the fan off yaar,10
+"yaar, heater off karo!",15
+"yeah, let's turn the room into a furnace; lower the temperature",32
+apparently windows have secret modes; tell me its status,42
+"movie dekhni hai, distractions hatao — movie mode",25
+AC chala do before this room becomes an oven,1
+"hey, start the heater",16
+apparently silence and music sound identical now; tell me the status,28
+"bro, film dekhni hai, movie mode yaar",25
+please light on kar do,22
+"hey, play some music yaar",27
+"main ghar aa gaya, finally",39
+heater ka status batao yaar,17
+"yaar, close the room window!",40
+please TV chala do please,36
+please heater off bro,15
+"yaar, AC chala do",1
+"yaar, good morning!",13
+"TV chala do, unless the blank screen is tonight's entertainment",36
+movie mode on karo please,25
+"yeah, let's invite all the outside air in... close the window",40
+movie mode on karo bro,25
+make the room warmer bro,34
+"main ja raha hoon, house ko sambhal lena",20
+"hey, turn on the alarm please",4
+"hey, fan on",11
+"yaar, main ghar aa gayi",39
+"yeah, being cold is fun... heater on please",16
+"hey, temp thoda decrease karo yaar",32
+"hey, are the lights on",23
+"yaar, fan on kar do please",11
+"hey, what is the heater status",17
+"bro, turn off the fan",10
+temperature kam kar do before this becomes a sauna,32
+apparently nobody gets in today; unlock the door,38
+"yaar, is the heater on",17
+"bro, door unlock karo",38
+"movie dekhni hai, distractions hatao — movie mode",25
+please switch the TV off bro,35
+"hey, alarm off please",3
+"yaar, window close karo please",40
+lights on hain kya yaar,23
+lights on hain kya please,23
+"yeah, being cold is fun... heater on please",16
+"yaar, lock the main door",24
+turn on sleep mode!,31
+is the heater on,17
+"hey, turn the music off yaar",26
+please close the door bro,6
+apparently the alarm needs the last word; alarm off,3
+switch the heater off bro,15
+"hey, main door kholo yaar",7
+is the house secure yaar,30
+"yaar, main ghar se ja raha hoon",20
+"yeah, I'll just stare at the wall and guess; check the TV",37
+please open the window bro,41
+apparently privacy is optional; door close karo,6
+"hey, play some music",27
+window close karo please,40
+"heater ka status batao, please",17
+please open the window,41
+"bro, humidity kitni hai",19
+AC band kar do before we need jackets indoors,0
+khidki band kar do before everything starts flying,40
+music ka status batao!,28
+temp kitna hai? I'd rather not guess,33
+"fan ka status batao, no guessing",12
+"hey, is the heater on",17
+disable the alarm!,3
+"bro, i am leaving!",20
+"yaar, shubh ratri",14
+"yaar, away mode on karo",5
+"yaar, is anything playing yaar",28
+"yaar, fan chala do",11
+apparently sleep mode is optional; turn it on,31
+apparently sweating is the plan; temp down,32
+please check the temperature please,33
+heater off karo bro,15
+heater on kar do yaar,16
+khidki kholo please,41
+apparently everything is fine... it isn't. emergency,9
+apparently I enjoy shivering; turn the heater on,16
+please switch the TV off!,35
+"sure, let's keep sitting in darkness... turn it on",22
+"fan ka status batao, no guessing",12
+"hey, AC off please",0
+apparently the heater has become invisible; tell me its status,17
+door ka status batao before I walk into a surprise,8
+temperature kam kar do please,32
+darwaza band kar do before the whole world walks in,6
+fan off karo,10
+"bro, put the light off!",21
+"bro, please close the door yaar",6
+"hey, AC off bro",0
+please check the lights,23
+please temperature kam kar do,32
+"hey, turn off the light",21
+apparently the heater has become invisible; tell me its status,17
+"hey, we are leaving",20
+"bro, sone ka mode laga do",31
+AC band kar do before we need jackets indoors,0
+ghar ka status batao!,18
+TV off,35
+open the door,7
+because apparently the fan has to work overtime — fan off,10
+"hey, darwaza lock kar do",24
+please tell me the current temperature bro,33
+"yeah, I'll just stare at the wall and guess; check the TV",37
+lights ka status batao before I start checking every room,23
+"yaar, good night, house",14
+"hey, is the heater running",17
+"hey, is the main door closed",8
+play music,27
+please door close karo please,6
+please gaane chal rahe hain kya yaar,28
+temperature badha do,34
+apparently I wanted a sauna; turn the AC on,1
+"yaar, morning please",13
+switch the heater on yaar,16
+disable the alarm bro,3
+"hey, ghar secure hai kya",30
+please sone ka mode laga do please,31
+"yeah, let's watch a blank screen all night... TV off",35
+start the fan please,11
+"hey, set movie mode yaar",25
+main ghar aa gayi,39
+"yaar, is the TV on",37
+"yeah, fresh air is clearly overrated... open the window",41
+darwaza kholo before I start negotiating with it,7
+turn on the TV,36
+"yeah, let's guess whether the heater is on; check it",17
+khidki band kar do bro,40
+"yaar, turn on the fan",11
+apparently the fans have secret lives; tell me their status,12
+"yeah, let's leave the door wide open... close it",6
+apparently the house forgot it's a party; activate party mode,29
+good morning home bro,13
+"bro, good morning please",13
+apparently the heater has become invisible; tell me its status,17
+"good morning, because apparently it's morning again",13
+which fans are running yaar,12
+"light band kar do, unless we're trying to illuminate the whole planet",21
+put the light off please,21
+apparently anyone should be able to walk in; lock it,24
+"hey, room light on karo bro",22
+"yaar, start the TV",36
+"yaar, khidki kholo please",41
+music baja do please,27
+"hey, open the room window",41
+"bro, turn on the alarm please",4
+door close karo yaar,6
+away mode on karo,5
+"yeah, let's make the music louder forever... stop it",26
+is the main door closed bro,8
+is the heater running bro,17
+please movie mode on karo,25
+"hey, lights off!",21
+is the window closed bro,42
+"bro, turn on the TV",36
+"good night, house; we're done for today",14
+"yaar, main door band karo please",6
+close the door,6
+"great, I'm finally home; hello house",39
+please heater chala do please,16
+"yaar, heater on kar do bro",16
+please we are leaving please,20
+unlock the door bro,38
+"yaar, lights ka status batao please",23
+"hey, music ka status batao please",28
+"yaar, TV chala do",36
+"hey, door open karo",7
+"bro, is the door open yaar",8
+"yaar, window close karo",40
+alarm band kar do yaar,3
+"hey, turn off the alarm",3
+darwaza kholo before I start negotiating with it,7
+lights on bro,22
+please stop the music,26
+turn on the alarm please,4
+please music rok do bro,26
+"yaar, is the AC running please",2
+"hey, TV ka status batao yaar",37
+"bro, temperature kya hai",33
+"bro, window close karo please",40
+"yaar, check the heater bro",17
+main ghar se ja rahi hoon yaar,20
+"hey, emergency mode activate karo please",9
+"yeah, let's make the music louder forever... stop it",26
+check the door yaar,8
+"yaar, TV chal raha hai kya bro",37
+"yaar, how is everything at home",18
+"yeah, staring at a blank screen is my hobby... TV on",36
+stop the heater,15
+apparently the house can look after itself; set away mode,5
+"yaar, window open karo please",41
+"hey, suprabhat",13
+"bro, is the window closed!",42
+AC chala do before this room becomes an oven,1
+"yaar, alarm off!",3
+"bro, music start karo please",27
+fans ka status batao!,12
+please we're back home,39
+"bro, darwaza khol do!",7
+what is the home status!,18
+"yeah, let's have a party in total silence... party mode on",29
+"yaar, check the home",18
+"movie dekhni hai, distractions hatao — movie mode",25
+"yaar, make the room cooler bro",32
+"yeah, freezing is my favorite; raise the temperature",34
+apparently windows have secret modes; tell me its status,42
+please door open karo please,7
+open the door!,7
+apparently I have time to check everything manually; home status please,18
+music off!,26
+please away mode on karo!,5
+apparently windows have secret modes; tell me its status,42
+please good morning home!,13
+"yaar, prepare the house for a movie",25
+apparently I have x-ray vision — tell me the light status,23
+"great, another light nobody needs; turn it off",21
+TV on,36
+music off karo!,26
+"hey, stop the fan",10
+"great, another light nobody needs; turn it off",21
+"yaar, unlock the main door bro",38
+"hey, darwaza khol do bro",7
+"hey, darwaza unlock kar do please",38
+"yaar, suprabhat please",13
+"yeah, I'll inspect every room myself; just tell me the home status",18
+"hey, gaane band kar do",26
+"yeah, I'll magically know if the AC is running; check it",2
+please temperature kya hai!,33
+switch the light off bro,21
+"bro, open the door please",7
+"yeah, keep the fan running forever... turn it off",10
+please switch the fan on,11
+please stop the AC bro,0
+party ke liye setup karo!,29
+"yaar, check the humidity",19
+"bro, temp thoda increase karo",34
+please make the room cooler please,32
+apparently the alarm needs the last word; alarm off,3
+please AC on bro,1
+"bro, music start karo please",27
+"hey, lights on yaar",22
+"yeah, I'll inspect every room myself; just tell me the home status",18
+"hey, unlock the door please",38
+"yaar, prepare the house for a movie",25
+"bro, set sleep mode!",31
+please switch the fan off,10
+"bro, is anything playing yaar",28
+temp thoda decrease karo,32
+"yeah, I'll magically know if the AC is running; check it",2
+"yeah, let's have a party in total silence... party mode on",29
+"yaar, lights off please",21
+"hey, main door kholo!",7
+emergency mode activate karo!,9
+please we are leaving!,20
+apparently sweating is the plan; temp down,32
+"bro, is the TV running bro",37
+temp kitna hai? I'd rather not guess,33
+sleep mode on karo before I accidentally wake the whole house,31
+turn on party mode yaar,29
+room temperature batao yaar,33
+"yeah, let's turn the room into a furnace; lower the temperature",32
+start the AC,1
+we are leaving!,20
+activate party mode bro,29
+TV off,35
+"yeah, I'll magically know if the AC is running; check it",2
+tell me the humidity,19
+light on kar do!,22
+because apparently we love wasting electricity — light off,21
+"hey, we're heading out",20
+main ghar se ja raha hoon!,20
+"hey, set sleep mode please",31
+apparently nobody is watching; turn the TV off,35
+what is the home status!,18
+check the lights,23
+khidki band karo bro,40
+ghar secure hai kya bro,30
+apparently windows have secret modes; tell me its status,42
+apparently I wanted a sauna; turn the AC on,1
+"yaar, window close karo yaar",40
+"yeah, let's guess whether the heater is on; check it",17
+please good morning yaar,13
+"hey, start the heater yaar",16
+"hey, heater on kar do yaar",16
+turn off the AC please,0
+please lock the door,24
+"bro, turn off the TV!",35
+"yaar, fans ka status batao",12
+"bro, night everyone!",14
+"yeah, obviously I want the light on",22
+apparently the alarm needs the last word; alarm off,3
+AC ka status batao,2
+temperature kam kar do before this becomes a sauna,32
+"hey, time for bed, good night",14
+activate away mode!,5
+"bro, what is the security status",30
+"yaar, stop playing music!",26
+temperature kam kar do!,32
+is the AC on,2
+apparently anyone should be able to walk in; lock it,24
+"bro, lights off",21
+"yaar, main ghar se ja rahi hoon bro",20
+"yaar, fan on kar do yaar",11
+door unlock karo please,38
+turn on away mode yaar,5
+fan band kar do,10
+please room light bujha do bro,21
+apparently everything is fine... it isn't. emergency,9
+"hey, alarm off bro",3
+"bro, start the fan!",11
+tell me the humidity bro,19
+light chala do bro,22
+switch the AC on,1
+please lock the door!,24
+urgent emergency at home yaar,9
+we are leaving,20
+"yaar, is the TV on bro",37
+"hey, light off karo!",21
+apparently the room needs even more silence; music on,27
+"bro, AC ka status batao!",2
+"hey, disable the alarm please",3
+temperature kam kar do before this becomes a sauna,32
+please darwaza lock kar do,24
+"bro, is anything playing please",28
+make the room warmer,34
+apparently I wanted stale air; window open karo,41
+switch the fan on please,11
+please heater off!,15
+"TV ka status batao, no detective work from me",37
+please unlock the door,38
+"good morning, because apparently it's morning again",13
+"bro, AC chala do!",1
+"main ghar aa gaya, finally",39
+apparently tomorrow can start whenever it wants; alarm on,4
+please shubh ratri,14
+khidki band kar do before everything starts flying,40
+"yaar, humidity kitni hai yaar",19
+apparently privacy is optional; door close karo,6
+"yaar, is the AC on yaar",2
+apparently the house forgot it's a party; activate party mode,29
+"yaar, is the AC on",2
+"hey, turn on the TV bro",36
+"bro, something is wrong, emergency",9
+"back home, because apparently the outside world was enough",39
+alarm laga do before future-me complains,4
+we are home yaar,39
+"TV ka status batao, no detective work from me",37
+"yaar, door lock karo!",24
+please darwaza lock kar do,24
+good morning — let's pretend we're fully awake,13
+"bro, is the main door closed please",8
+make the room warmer,34
+"hey, close the main door yaar",6
+"bro, door unlock karo",38
+good morning — let's pretend we're fully awake,13
+please temp thoda decrease karo yaar,32
+apparently I should trust luck; tell me the security status,30
+"emergency hai, please treat this as urgent",9
+please we are home,39
+"bro, please close the door please",6
+"yeah, I'll just stare at the wall and guess; check the TV",37
+"bro, window close karo",40
+"bro, set party mode",29
+please lock the door,24
+which lights are on,23
+put the light off bro,21
+"hey, light band kar do please",21
+what is the door status please,8
+"bro, TV off karo!",35
+"yaar, light on kar do bro",22
+door ka status batao!,8
+humidity kitni hai? let's actually check,19
+"hey, check the home",18
+"yaar, room light bujha do please",21
+what is the AC status,2
+please is anything playing,28
+"yaar, turn off the AC",0
+"yaar, temperature down",32
+"bro, set sleep mode",31
+"yaar, night everyone",14
+what is the humidity!,19
+alarm activate karo,4
+main ghar aa gaya please,39
+heater ka status batao,17
+"hey, temperature up",34
+home status kya hai yaar,18
+"bro, ghar secure hai kya",30
+what is the fan status,12
+"great, time to leave the comfort of home; I'm leaving",20
+turn off the AC yaar,0
+temp kitna hai? I'd rather not guess,33
+stop playing music yaar,26
+apparently the room needs even more silence; music on,27
+please which fans are running,12
+"yaar, temperature kam kar do yaar",32
+"hey, room temperature batao yaar",33
+"emergency hai, please treat this as urgent",9
+please khidki band karo!,40
+"bro, increase the temperature please",34
+"hey, music rok do",26
+apparently nobody is watching; turn the TV off,35
+please turn off the TV yaar,35
+"yeah, let's roast the room... heater off please",15
+gaane band kar do,26
+music off karo,26
+gaane chala do bro,27
+"yeah, fresh air is clearly overrated... open the window",41
+turn on the light!,22
+"yaar, check the TV",37
+"hey, turn on the heater please",16
+"yaar, is the heater on bro",17
+what is the fan status yaar,12
+"bro, set party mode yaar",29
+what is the fan status,12
+"yaar, night everyone",14
+"bro, temperature kam kar do bro",32
+"yaar, heater off",15
+"fan band kar do, we're not powering the whole neighborhood",10
+"yaar, is the door open please",8
+please alarm band kar do,3
+"hey, main door unlock karo",38
+"heater ka status batao, please",17
+please this is an emergency yaar,9
+apparently we can guess humidity; tell me the current humidity,19
+because apparently the fan has to work overtime — fan off,10
+heater band kar do before it gets ridiculous,15
+"bro, switch the light on bro",22
+main ghar se ja rahi hoon bro,20
+"yaar, activate movie mode",25
+apparently I have to go outside again — leaving home,20
+fan chala do before I melt,11
+apparently I enjoy shivering; turn the heater on,16
+temp badha do before I become a snowman,34
+"yeah, tropical weather indoors sounds amazing... AC on",1
+emergency,9
+party mode on karo,29
+please i'm home,39
+"darwaza unlock kar do, we're not running a fortress",38
+please unlock the door,38
+turn off the AC please,0
+"hey, turn on sleep mode yaar",31
+"yaar, temperature up",34
+"bro, music ka status batao yaar",28
+because apparently the fan has to work overtime — fan off,10
+"hey, what is the fan status yaar",12
+"yaar, fan off karo bro",10
+"movie dekhni hai, distractions hatao — movie mode",25
+"hey, AC on kar do please",1
+check the TV!,37
+"TV ka status batao, no detective work from me",37
+lights off,21
+apparently privacy is optional; door close karo,6
+please lights ka status batao,23
+"good morning, house yaar",13
+check the TV yaar,37
+"yeah, obviously I want the light on",22
+darwaza lock kar do before we forget again,24
+please ghar secure hai kya,30
+"hey, switch the light on yaar",22
+please gaane band kar do!,26
+"bro, something is wrong, emergency yaar",9
+please is music playing,28
+"bro, morning bro",13
+"yeah, I'll guess whether the door is open; check it",8
+"hey, lights ka status batao",23
+"hey, check the TV bro",37
+music ka status batao!,28
+room light bujha do!,21
+apparently the door should stay closed; open the door,7
+please is the AC running!,2
+music start karo,27
+"yaar, party mode on karo please",29
+is the window closed!,42
+"party hai bhai, party mode laga do",29
+"hey, is the window open!",42
+please open the door please,7
+"yaar, alarm laga do!",4
+"time for bed, good night",14
+check the lights yaar,23
+AC band kar do before we need jackets indoors,0
+"yeah, waking up late sounds fantastic... set the alarm",4
+deactivate the alarm please,3
+turn off the TV yaar,35
+AC chal raha hai kya please,2
+stop the AC bro,0
+"movie dekhni hai, distractions hatao — movie mode",25
+"main bahar ja raha hoon, away mode laga do",5
+apparently the room needs even more silence; music on,27
+please fan off!,10
+"bro, what is the humidity please",19
+"hey, ghar mein sab theek hai kya bro",18
+fans ka status batao,12
+what is the window status bro,42
+"yaar, check the heater",17
+please music off karo bro,26
+please alarm off!,3
+"fan band kar do, we're not powering the whole neighborhood",10
+please sleep mode on karo bro,31
+"bro, is the TV running please",37
+"yaar, what is the humidity",19
+"bro, party ke liye setup karo",29
+"hey, how is everything at home!",18
+"yaar, start the music please",27
+"yaar, is music playing yaar",28
+"yaar, khidki band karo!",40
+"bro, please open the door",7
+apparently the alarm needs the last word; alarm off,3
+"hey, window open karo please",41
+good night home!,14
+shubh ratri,14
+"back home, because apparently the outside world was enough",39
+apparently we're living in a freezer; temperature up,34
+"help, emergency at home yaar",9
+"yaar, this is an emergency please",9
+apparently sweating is the plan; temp down,32
+"yaar, temp thoda increase karo please",34
+"yeah, obviously I want the light on",22
+apparently guessing the temperature is enough; tell me the current temperature,33
+"bro, temperature kya hai",33
+"hey, activate away mode",5
+gaane band kar do bro,26
+"bro, is the heater running",17
+"hey, emergency please",9
+door lock karo!,24
+apparently the AC can hide from me; tell me its status,2
+"yaar, turn on the fan please",11
+"hey, what is the TV status please",37
+"hey, enable the alarm",4
+"yaar, door unlock karo",38
+"great, I'm finally home; hello house",39
+"movie dekhni hai, distractions hatao — movie mode",25
+please light on kar do!,22
+"bro, home status kya hai yaar",18
+"bro, good night yaar",14
+"yaar, switch the AC on yaar",1
+"bro, main door unlock karo bro",38
+"yaar, we are home yaar",39
+please we are home,39
+"yaar, lock the main door yaar",24
+"yaar, fan on kar do",11
+apparently we need a wind tunnel; window close karo,40
+"bro, is the heater on yaar",17
+"bro, khidki khuli hai kya bro",42
+check the music bro,28
+"yeah, obviously I want the light on",22
+"hey, set party mode please",29
+"bro, alarm off",3
+"yaar, which fans are running yaar",12
+apparently I wanted stale air; window open karo,41
+"yeah, let's watch a movie with every light blazing... movie mode on",25
+please open the room window!,41
+"please time for bed, good night please",14
+"yeah, let's watch a movie with every light blazing... movie mode on",25
+"yeah, because I definitely know the temperature already — check it",33
+please door unlock karo yaar,38
+door ka status batao before I walk into a surprise,8
+check the AC yaar,2
+"yaar, film dekhni hai, movie mode!",25
+"yeah, let's guess whether the window is open; check it",42
+"hey, AC on kar do please",1
+apparently movie night needs distractions; activate movie mode,25
+"yeah, leave it blazing all night... NOT. turn it off",21
+apparently I should trust luck; tell me the security status,30
+apparently I wanted a sauna; turn the AC on,1
+door ka status batao!,8
+"bro, switch the TV on please",36
+apparently the neighbors need a concert; music off,26
+sone ka mode laga do yaar,31
+lights on hain kya!,23
+apparently privacy is optional; door close karo,6
+khidki band kar do before everything starts flying,40
+door open karo please,7
+"yeah, being cold is fun... heater on please",16
+turn off the alarm please,3
+what is the music status please,28
+"yeah, fresh air is clearly overrated... open the window",41
+"yeah, let's guess which lights are on; check the lights",23
+temp thoda decrease karo,32
+apparently the alarm needs the last word; alarm off,3
+"yeah, leave it blazing all night... NOT. turn it off",21
+raise the temperature,34
+humidity kitni hai? let's actually check,19
+"bro, activate the alarm!",4
+"yaar, TV ka status batao yaar",37
+"yaar, door close karo bro",6
+"yaar, check the door yaar",8
+start the fan,11
+music start karo please,27
+"yaar, TV chal raha hai kya please",37
+"yaar, TV ka status batao please",37
+"yaar, lower the temperature",32
+turn off the heater!,15
+enable the alarm bro,4
+"yaar, turn on away mode please",5
+"fan ka status batao, no guessing",12
+please activate party mode bro,29
+"yaar, movie mode on karo",25
+turn on party mode yaar,29
+"hey, sone ka mode laga do please",31
+home status kya hai bro,18
+apparently the neighbors need a concert; music off,26
+please lights on,22
+"please help, emergency at home yaar",9
+"yaar, turn on movie mode",25
+"bro, light on kar do bro",22
+"yaar, prepare the house for when I leave",5
+lights ka status batao yaar,23
+apparently the fans have secret lives; tell me their status,12
+"hey, good morning",13
+turn off the light bro,21
+"hey, is the heater on please",17
+"hey, is the house secure bro",30
+"hey, sleep mode on karo",31
+"hey, TV off karo bro",35
+"bro, check the AC",2
+"hey, movie mode on karo bro",25
+is the window open!,42
+"yaar, check the AC yaar",2
+apparently the TV status is a mystery; tell me if it's on,37
+apparently the TV should stay off forever; turn it on,36
+apparently I wanted a sauna; turn the AC on,1
+please what is the music status bro,28
+"yeah, I'll inspect every room myself; just tell me the home status",18
+please fan band kar do,10
+"bro, turn on sleep mode please",31
+temp kitna hai? I'd rather not guess,33
+"yeah, let's guess whether the window is open; check it",42
+music off,26
+please is the window closed please,42
+apparently the fans have secret lives; tell me their status,12
+please open the window please,41
+check the security!,30
+switch the light on!,22
+darwaza kholo before I start negotiating with it,7
+"hey, ghar mein sab theek hai kya!",18
+"hey, check the lights",23
+"good morning, house!",13
+"yeah, let me keep sweating — just kidding, fan on",11
+"yaar, humidity kitni hai",19
+turn off the fan,10
+darwaza lock kar do yaar,24
+"yaar, fan off karo",10
+"good morning, because apparently it's morning again",13
+please heater on kar do please,16
+"hey, gaane chala do bro",27
+apparently the house forgot it's a party; activate party mode,29
+"hey, put the light on yaar",22
+"yaar, good morning home please",13
+please make the room warmer!,34
+"hey, close the door bro",6
+"hey, open the main door",7
+room temperature batao yaar,33
+apparently I have x-ray vision — tell me the light status,23
+"yaar, heater chal raha hai kya!",17
+"hey, turn on the AC bro",1
+please fan on kar do bro,11
+increase the temperature please,34
+please gaane chala do bro,27
+"yaar, i'm home bro",39
+AC off karo bro,0
+"yeah, I'll guess whether music is playing; check it",28
+"main bahar ja raha hoon, away mode laga do",5
+"yaar, stop the heater!",15
+"yeah, let's make the music louder forever... stop it",26
+apparently I wanted a sauna; turn the AC on,1
+darwaza band kar do before the whole world walks in,6
+"yaar, i am leaving",20
+"yaar, is the AC running",2
+"hey, i am home please",39
+"bro, please close the door bro",6
+"sure, let's keep sitting in darkness... turn it on",22
+"hey, what is the security status yaar",30
+fan on kar do yaar,11
+tell me the current temperature,33
+please check the fans,12
+"yaar, is the main door closed bro",8
+music chala do before this silence becomes dramatic,27
+"bro, time for bed, good night please",14
+away mode on karo,5
+apparently the house can look after itself; set away mode,5
+switch the TV on!,36
+door lock karo,24
+AC ka status batao before I check manually,2
+"hey, this is an emergency bro",9
+please AC ka status batao,2
+"yaar, fan on kar do!",11
+"heater ka status batao, please",17
+"bro, darwaza khol do",7
+is the AC running yaar,2
+"yeah, security is totally unnecessary... lock the door",24
+"bro, please open the window",41
+"TV band kar do, unless the empty screen has a show",35
+apparently Antarctica is the goal; turn the AC off,0
+"good morning, because apparently it's morning again",13
+"hey, heater chala do",16
+"bro, heater off karo please",15
+"yeah, let's guess whether the heater is on; check it",17
+"yaar, darwaza khol do",7
+what is the window status bro,42
+"yaar, turn on the AC",1
+"yeah, leave it blazing all night... NOT. turn it off",21
+"hey, make the room warmer bro",34
+window open karo yaar,41
+apparently I have to go outside again — leaving home,20
+"yeah, being cold is fun... heater on please",16
+turn on sleep mode,31
+apparently we can guess humidity; tell me the current humidity,19
+"bro, AC off karo please",0
+main ghar se ja rahi hoon bro,20
+please is the TV on please,37
+"yeah, let's guess whether the window is open; check it",42
+apparently everything is fine... it isn't. emergency,9
+please switch the TV on,36
+"yaar, is anything playing please",28
+"bro, darwaza khula hai kya",8
+night! time to stop pretending I'm productive,14
+turn on the heater,16
+"bro, close the window!",40
+apparently the AC can hide from me; tell me its status,2
+apparently nobody is watching; turn the TV off,35
+heater band kar do before it gets ridiculous,15
+heater chala do before I become an ice cube,16
+what is the humidity,19
+"yaar, night everyone please",14
+set away mode,5
+"yaar, decrease the temperature yaar",32
+please away mode on karo,5
+"yaar, khidki band kar do yaar",40
+apparently Antarctica is the goal; turn the AC off,0
+"hey, fan band kar do",10
+"hey, party ke liye setup karo please",29
+apparently we need a wind tunnel; window close karo,40
+gaane band kar do before the whole building joins,26
+turn on the alarm,4
+"yaar, make the room warmer",34
+temperature kam kar do please,32
+"yaar, what is the door status!",8
+apparently I should trust luck; tell me the security status,30
+"yaar, i am leaving",20
+apparently I should trust luck; tell me the security status,30
+temp badha do before I become a snowman,34
+set sleep mode,31
+please we are home yaar,39
+apparently the door should stay closed; open the door,7
+what is the music status!,28
+khidki kholo before this room becomes a box,41
+apparently the house can look after itself; set away mode,5
+"bro, switch the light on please",22
+"yeah, security is totally unnecessary... lock the door",24
+"good night, because apparently sleep is finally allowed",14
+"light on yaar, genius idea",22
+"bro, check the temperature!",33
+"hey, alarm activate karo please",4
+"bro, heater chala do please",16
+please darwaza khol do!,7
+is the TV running please,37
+"yaar, window ka status batao bro",42
+check the temperature yaar,33
+"yeah, let's leave the door wide open... close it",6
+AC ka status batao before I check manually,2
+"bro, make the room warmer",34
+"hey, sone ka mode laga do bro",31
+"yaar, we are leaving yaar",20
+increase the temperature,34
+apparently the TV should stay off forever; turn it on,36
+ghar ka status batao before I do a full inspection,18
+AC on!,1
+"yeah, I'll inspect every room myself; just tell me the home status",18
+urgent emergency at home,9
+alarm on yaar,4
+apparently doors don't have status; tell me if it's open,8
+please fan chala do bro,11
+please alarm on bro,4
+what is the humidity please,19
+"hey, music on please",27
+"yaar, open the room window!",41
+please TV ka status batao please,37
+"bro, security status batao",30
+"hey, check the fans please",12
+apparently nobody is watching; turn the TV off,35
+"yaar, ghar secure hai kya",30
+"bro, tell me the humidity!",19
+night! time to stop pretending I'm productive,14
+"main ghar aa gaya, finally",39
+"yeah, being cold is fun... heater on please",16
+"hey, window open karo",41
+please room temperature batao please,33
+apparently anyone should be able to walk in; lock it,24
+"hey, what is the humidity please",19
+"yaar, prepare the house for sleep",31
+"yeah, freezing is my favorite; raise the temperature",34
+"darwaza unlock kar do, we're not running a fortress",38
+"hey, khidki khol do please",41
+apparently nobody gets in today; unlock the door,38
+"bro, home status kya hai",18
+start the AC please,1
+"yeah, leave everything running while I'm gone... activate away mode",5
+please activate away mode bro,5
+check the humidity,19
+AC chala do before this room becomes an oven,1
+please unlock the door,38
+"yaar, switch the fan on bro",11
+door ka status batao before I walk into a surprise,8
+"great, another light nobody needs; turn it off",21
+please check the security please,30
+apparently guessing the temperature is enough; tell me the current temperature,33
+please what is the AC status please,2
+room light bujha do please,21
+"bro, urgent emergency at home please",9
+"hey, lock the main door bro",24
+"bro, urgent emergency at home",9
+we are home,39
+"hey, turn off the alarm!",3
+activate sleep mode!,31
+"yeah, let's make the music louder forever... stop it",26
+"yaar, put the light off please",21
+apparently the air is moving by magic; turn the fan on,11
+"bro, what is the door status",8
+"yeah, keep the fan running forever... turn it off",10
+"bro, khidki band kar do please",40
+apparently I wanted stale air; window open karo,41
+"yaar, this is an emergency",9
+"bro, what is the window status!",42
+lights ka status batao before I start checking every room,23
+"yeah, let's turn the room into a furnace; lower the temperature",32
+turn off the AC bro,0
+"something is wrong, emergency please",9
+please switch the fan on!,11
+check the door,8
+please temp thoda increase karo,34
+make the room cooler yaar,32
+TV off karo,35
+apparently the neighbors need a concert; music off,26
+AC on kar do,1
+please alarm on,4
+please stop the heater bro,15
+"great, I'm finally home; hello house",39
+temp badha do before I become a snowman,34
+khidki khuli hai kya,42
+apparently anyone should be able to walk in; lock it,24
+turn on away mode,5
+home status kya hai please,18
+"bro, door lock karo",24
+"yeah, let's guess whether the window is open; check it",42
+"bro, good night home!",14
+"yaar, khidki khuli hai kya please",42
+"yaar, what is the home status yaar",18
+gaane chala do bro,27
+"yeah, leave it blazing all night... NOT. turn it off",21
+"yeah, let's guess whether the heater is on; check it",17
+"wow, what a surprise, light on please",22
+"bro, switch the heater on bro",16
+"hey, check the heater",17
+"yaar, close the door!",6
+"hey, good night bro",14
+"yaar, AC off",0
+what is the home status please,18
+"bro, main door ko lock karo please",24
+"hey, TV chal raha hai kya bro",37
+close the door please,6
+"yeah, let's keep everyone outside forever... unlock the door",38
+"yaar, film dekhni hai, movie mode yaar",25
+"bro, fan on yaar",11
+apparently the room needs even more silence; music on,27
+"bro, which lights are on",23
+please light chala do please,22
+"bro, lights on hain kya",23
+switch the heater on bro,16
+please TV on,36
+open the door!,7
+"yeah, let's watch a movie with every light blazing... movie mode on",25
+please TV on please,36
+"yeah, let's leave the door wide open... close it",6
+sleep mode on karo before I accidentally wake the whole house,31
+"back home, because apparently the outside world was enough",39
+"yaar, alarm laga do",4
+good night please,14
+"bro, lights on hain kya!",23
+"party hai bhai, party mode laga do",29
+"yaar, activate movie mode please",25
+"bro, room light bujha do",21
+turn on away mode,5
+apparently I should trust luck; tell me the security status,30
+khidki band kar do bro,40
+we're back home,39
+"bro, gaane chala do",27
+prepare the house for when I leave,5
+"yaar, turn on the heater yaar",16
+lights ka status batao before I start checking every room,23
+"yeah, my imaginary humidity sensor is broken — check it",19
+"yaar, prepare the house for when I leave!",5
+"hey, security status batao",30
+"yeah, let's have a party in total silence... party mode on",29
+i am home please,39
+apparently I wanted a sauna; turn the AC on,1
+please put the light off yaar,21
+good morning,13
+"bro, this is an emergency",9
+"hey, alarm band kar do bro",3
+"bro, stop the TV yaar",35
+"bro, AC on yaar",1
+please light on kar do yaar,22
+activate party mode yaar,29
+"hey, ghar ko away mode par karo",5
+i'm leaving home bro,20
+check the temperature please,33
+"hey, party ke liye setup karo",29
+"hey, we are leaving bro",20
+"yaar, main ghar se ja rahi hoon!",20
+please what is the AC status,2
+darwaza lock kar do please,24
+"hey, something is wrong, emergency bro",9
+please main ghar se ja rahi hoon!,20
+please security status batao yaar,30
+because apparently the room is supposed to stay dark — turn the light on,22
+"yeah, I'll guess whether music is playing; check it",28
+"hey, stop the TV bro",35
+"yaar, window ka status batao!",42
+"yaar, gaane chal rahe hain kya please",28
+"hey, decrease the temperature!",32
+please set party mode,29
+"yeah, my imaginary humidity sensor is broken — check it",19
+"great, time to leave the comfort of home; I'm leaving",20
+"bro, main door kholo",7
+"bro, check the home please",18
+"yaar, activate the alarm",4
+apparently we don't need a tropical climate indoors; heater off,15
+"yaar, is music playing",28
+is the heater on,17
+"yaar, unlock the door",38
+please alarm laga do bro,4
+turn on sleep mode,31
+darwaza kholo before I start negotiating with it,7
+please stop the music yaar,26
+"hey, raise the temperature bro",34
+stop the TV yaar,35
+"bro, are the lights on!",23
+night! time to stop pretending I'm productive,14
+"yeah, let's turn the room into a furnace; lower the temperature",32
+"security status batao, no guessing",30
+"hey, TV on kar do",36
+play music!,27
+"yeah, staring at a blank screen is my hobby... TV on",36
+"bro, deactivate the alarm!",3
+"bro, check home security yaar",30
+switch the heater off,15
+apparently movie night needs distractions; activate movie mode,25
+"yeah, I'll guess whether music is playing; check it",28
+"hey, door lock karo",24
+please what is the fan status yaar,12
+apparently I should trust luck; tell me the security status,30
+please which lights are on!,23
+"hey, check the AC",2
+night everyone bro,14
+please security status batao please,30
+"yeah, let's keep everyone outside forever... unlock the door",38
+"bro, main door band karo",6
+apparently the neighbors need a concert; music off,26
+"yaar, prepare the house for a movie bro",25
+"hey, please close the window please",40
+"yaar, good night",14
+please good morning please,13
+check the temperature please,33
+"morning! yes, another day has arrived",13
+"hey, what is the door status",8
+switch the AC on yaar,1
+"yaar, are the lights on yaar",23
+"yeah, keep the fan running forever... turn it off",10
+"yaar, what is the temperature yaar",33
+heater on yaar,16
+"yeah, I'll inspect every room myself; just tell me the home status",18
+"yaar, activate party mode",29
+"hey, what is the window status!",42
+door ka status batao bro,8
+start the AC yaar,1
+lock the door please,24
+i am leaving!,20
+"great, another light nobody needs; turn it off",21
+"hey, TV band kar do bro",35
+"hey, heater ka status batao!",17
+apparently the door should stay closed; open the door,7
+"bro, turn off the fan",10
+AC band kar do before we need jackets indoors,0
+"good night, house; we're done for today",14
+please AC band kar do!,0
+urgent emergency at home!,9
+apparently we need a wind tunnel; window close karo,40
+"bro, good morning",13
+enable the alarm yaar,4
+"yeah, let's guess which lights are on; check the lights",23
+"hey, start the fan bro",11
+"hey, temp thoda decrease karo please",32
+please AC ka status batao!,2
+stop the fan,10
+AC chal raha hai kya please,2
+"main ja raha hoon, house ko sambhal lena",20
+"bro, TV off!",35
+AC on yaar,1
+"good night, house",14
+"yaar, turn on movie mode",25
+"bro, switch the heater off please",15
+"bro, check the temperature!",33
+"hey, main door band karo!",6
+heater band kar do before it gets ridiculous,15
+"bro, ghar ka status batao bro",18
+is the door open,8
+"yaar, khidki khuli hai kya yaar",42
+check the temperature,33
+please tell me the humidity!,19
+please heater off karo,15
+"bro, alarm activate karo",4
+"morning! yes, another day has arrived",13
+"hey, what is the security status!",30
+"hey, humidity kitni hai!",19
+"bro, alarm band kar do",3
+"help, emergency at home",9
+apparently the house forgot it's a party; activate party mode,29
+please lights on please,22
+door ka status batao before I walk into a surprise,8
+"yaar, temperature badha do please",34
+please please unlock the door!,38
+gaane chal rahe hain kya,28
+what is the light status,23
+"yaar, play some music!",27
+unlock the main door,38
+please please close the window bro,40
+"yaar, good morning home please",13
+"hey, TV on!",36
+apparently I should trust luck; tell me the security status,30
+please is the main door closed bro,8
+play music yaar,27
+"yaar, window open karo",41
+"yaar, close the window yaar",40
+music on please,27
+"hey, i am home yaar",39
+"hey, temp thoda increase karo please",34
+"yaar, switch the heater on please",16
+temp badha do before I become a snowman,34
+apparently sleep mode is optional; turn it on,31
+"emergency hai, please treat this as urgent",9
+"yaar, room light bujha do!",21
+"hey, film dekhni hai, movie mode!",25
+because apparently the fan has to work overtime — fan off,10
+"hey, what is the security status",30
+apparently movie night needs distractions; activate movie mode,25
+heater on yaar,16
+"bro, khidki kholo",41
+"please good morning, house",13
+please TV on kar do!,36
+apparently doors don't have status; tell me if it's open,8
+"bro, alarm laga do bro",4
+"hey, heater on yaar",16
+"hey, alarm on",4
+"bro, suprabhat please",13
+switch the heater off,15
+apparently the house forgot it's a party; activate party mode,29
+"bro, is anything playing",28
+"bro, turn on away mode yaar",5
+"bro, set away mode!",5
+night! time to stop pretending I'm productive,14
+switch the TV on,36
+home status kya hai please,18
+please close the main door yaar,6
+"hey, set movie mode",25
+"yaar, how is everything at home yaar",18
+apparently I have time to check everything manually; home status please,18
+ghar ka status batao before I do a full inspection,18
+please please close the door,6
+"bro, stop playing music please",26
+apparently sleep mode is optional; turn it on,31
+stop the AC please,0
+"good night, house; we're done for today",14
+"yeah, let's guess whether the window is open; check it",42
+"yeah, fresh air is clearly overrated... open the window",41
+heater chala do bro,16
+please AC band kar do please,0
+"bro, AC band kar do",0
+apparently tomorrow can start whenever it wants; alarm on,4
+"yeah, let's leave the door wide open... close it",6
+apparently I should trust luck; tell me the security status,30
+heater off karo bro,15
+please khidki khuli hai kya,42
+prepare the house for a movie yaar,25
+please current humidity batao yaar,19
+AC ka status batao before I check manually,2
+window open karo please,41
+suprabhat!,13
+apparently the heater has become invisible; tell me its status,17
+"yeah, let's keep everything awake all night... activate sleep mode",31
+"yeah, I'll just stare at the wall and guess; check the TV",37
+please turn on party mode please,29
+apparently sweating is the plan; temp down,32
+"yeah, let's keep everyone outside forever... unlock the door",38
+"bro, set sleep mode",31
+apparently I wanted stale air; window open karo,41
+apparently the room needs even more silence; music on,27
+"hey, darwaza khula hai kya please",8
+"yaar, fan chala do!",11
+turn on the TV bro,36
+"yeah, being cold is fun... heater on please",16
+gaane band kar do before the whole building joins,26
+switch the AC on,1
+please what is the AC status,2
+what is the home status!,18
+is the window closed,42
+good night home bro,14
+"yeah, let's have a party in total silence... party mode on",29
+apparently the TV status is a mystery; tell me if it's on,37
+temp kitna hai yaar,33
+apparently I have time to check everything manually; home status please,18
+light off karo please,21
+"darwaza unlock kar do, we're not running a fortress",38
+turn on the fan!,11
+good night home,14
+"bro, turn on the alarm please",4
+"darwaza unlock kar do, we're not running a fortress",38
+please alarm activate karo bro,4
+"yaar, fan chala do yaar",11
+apparently I wanted stale air; window open karo,41
+"yeah, staring at a blank screen is my hobby... TV on",36
+"yeah, security is totally unnecessary... lock the door",24
+"yaar, what is the door status bro",8
+apparently we don't need a tropical climate indoors; heater off,15
+"fan band kar do, we're not powering the whole neighborhood",10
+please put the light on bro,22
+please temperature up please,34
+"yaar, AC chala do!",1
+"yaar, turn on sleep mode yaar",31
+temp kitna hai? I'd rather not guess,33
+music on please,27
+"good morning, because apparently it's morning again",13
+"yeah, waking up late sounds fantastic... set the alarm",4
+check the heater yaar,17
+"yeah, my imaginary humidity sensor is broken — check it",19
+"yeah, being cold is fun... heater on please",16
+khidki kholo please,41
+fan off karo,10
+fans ka status batao,12
+apparently the neighbors need a concert; music off,26
+"bro, i'm leaving home yaar",20
+night! time to stop pretending I'm productive,14
+"bro, darwaza khula hai kya",8
+apparently the TV status is a mystery; tell me if it's on,37
+apparently the alarm needs the last word; alarm off,3
+"yeah, let's guess whether the heater is on; check it",17
+heater chal raha hai kya!,17
+"fan ka status batao, no guessing",12
+"main ja raha hoon, house ko sambhal lena",20
+morning,13
+"yaar, check the home",18
+"yeah, because I definitely know the temperature already — check it",33
+"hey, heater ka status batao!",17
+i'm leaving home please,20
+please is the AC running!,2
+"hey, open the window bro",41
+"bro, fan on kar do!",11
+"yeah, I'll magically know if the AC is running; check it",2
+fan on bro,11
+play some music yaar,27
+"yaar, check the fans!",12
+"yaar, please lock the door bro",24
+"yeah, staring at a blank screen is my hobby... TV on",36
+sleep mode on karo before I accidentally wake the whole house,31
+"hey, turn on the alarm yaar",4
+"morning! yes, another day has arrived",13
+shubh ratri,14
+"bro, stop the AC",0
+"yaar, good morning bro",13
+darwaza unlock kar do yaar,38
+"bro, door ka status batao!",8
+"hey, i'm leaving home yaar",20
+please i'm home yaar,39
+khidki band kar do before everything starts flying,40
+please turn off the heater,15
+"yaar, check home security",30
+"bro, unlock the door bro",38
+"bro, light chala do please",22
+"hey, check home security!",30
+apparently sleep mode is optional; turn it on,31
+"hey, ghar ko away mode par karo",5
+make the room warmer,34
+switch the fan on bro,11
+alarm laga do before future-me complains,4
+"alarm band kar do, enough drama",3
+"yeah, silence is overrated — play music",27
+"bro, gaane chal rahe hain kya",28
+"yeah, let's invite all the outside air in... close the window",40
+"great, time to leave the comfort of home; I'm leaving",20
+turn on the AC please,1
+"hey, light band kar do please",21
+apparently tomorrow can start whenever it wants; alarm on,4
+"security status batao, no guessing",30
+heater chala do before I become an ice cube,16
+please turn off the AC please,0
+please tell me the current temperature bro,33
+"yeah, I'll guess whether music is playing; check it",28
+"yaar, darwaza khula hai kya!",8
+fan on kar do yaar,11
+"yeah, let's turn the room into a furnace; lower the temperature",32
+turn on party mode,29
+"hey, music off karo please",26
+"yeah, leave it blazing all night... NOT. turn it off",21
+"bro, main ghar se ja rahi hoon",20
+please emergency mode activate karo bro,9
+"hey, how is everything at home yaar",18
+"yeah, I'll guess whether music is playing; check it",28
+"bro, close the room window",40
+what is the fan status please,12
+TV off karo please,35
+unlock the door!,38
+apparently silence and music sound identical now; tell me the status,28
+"bro, temperature kya hai",33
+"yaar, alarm deactivate karo bro",3
+please night everyone!,14
+"bro, prepare the house for sleep",31
+open the room window bro,41
+"bro, switch the AC on please",1
+"bro, is the heater on",17
+"hey, turn on the light",22
+"yaar, unlock the door!",38
+apparently doors don't have status; tell me if it's open,8
+stop the fan yaar,10
+"yeah, a closed door is exactly what I need... open it",7
+"TV ka status batao, no detective work from me",37
+"yaar, close the door yaar",6
+alarm laga do before future-me complains,4
+please music rok do,26
+lights ka status batao before I start checking every room,23
+"hey, music baja do",27
+"bro, main door ko lock karo bro",24
+"yaar, temperature down yaar",32
+"hey, please close the door",6
+apparently silence and music sound identical now; tell me the status,28
+"yaar, lights off bro",21
+apparently privacy is optional; door close karo,6
+"hey, gaane chala do yaar",27
+door ka status batao before I walk into a surprise,8
+"yeah, this is definitely not a time for jokes — emergency",9
+"yaar, turn on the fan yaar",11
+"bro, switch the TV on!",36
+apparently I have x-ray vision — tell me the light status,23
+"hey, AC on",1
+khidki kholo before this room becomes a box,41
+"yaar, open the room window!",41
+"yeah, a closed door is exactly what I need... open it",7
+please turn on the TV!,36
+"yeah, let's make the music louder forever... stop it",26
+which fans are running!,12
+apparently nobody gets in today; unlock the door,38
+apparently the air is moving by magic; turn the fan on,11
+heater band kar do before it gets ridiculous,15
+apparently we're living in a freezer; temperature up,34
+"hey, what is the TV status bro",37
+lights on hain kya!,23
+alarm laga do yaar,4
+please night everyone please,14
+"bro, TV off!",35
+TV band kar do,35
+"yeah, let's keep everyone outside forever... unlock the door",38
+"light band kar do, unless we're trying to illuminate the whole planet",21
+ghar ko away mode par karo yaar,5
+switch the light off!,21
+please check the home bro,18
+"yaar, activate party mode!",29
+"yaar, check the TV",37
+please enable the alarm,4
+AC chal raha hai kya please,2
+"hey, switch the light on",22

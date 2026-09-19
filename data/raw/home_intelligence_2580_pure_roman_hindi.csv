@@ -1,0 +1,2581 @@
+Input,labels
+jaldi se heater band hai ya chalu,heater_status
+jaldi se kya darwaza khula hai zara zara,door_status
+"wah, itni tez khamoshi hai, sangeet band kar do zara zara zara zara zara",music_off
+jaldi se ab pankha band kar do turant zara zara,fan_off
+"subah ho gayi, jaise raat ko pata hi nahi tha, suprabhat",good_morning
+gaane bajna band kar do zara zara,music_off
+abhi darwaza khol do zara zara,door_open
+"haan, paseene se naha lete hain, AC chala do zara zara",ac_on
+"haan, raat to kabhi aayegi hi nahi, phir bhi shubh ratri zara zara zara zara",good_night
+"wah, neend to aani nahi, phir bhi sone ka mahaul bana do zara zara",sleep_mode
+kripya TV rok do turant,tv_off
+"haan, band kamre ki hawa hi kaafi hai, khidki khol do zara zara zara",window_open
+ghar ki suraksha ka haal batao,security_status
+abhi darwaze ki sthiti kya hai na,door_status
+jaldi se kamre ka pankha chala do turant,fan_on
+zara pankha chalu kar do na,fan_on
+abhi darwaza laga do turant,door_close
+"haan, ghar khaali chhodkar sab kuchh waise hi rakhenge, phir bhi vyavastha karo",away_mode
+jaldi se suraksha ghanti band kar do,alarm_off
+"TV ko bhi thoda kaam de do, chala do zara zara zara zara",tv_on
+kripya film ke liye ghar taiyar kar do zara zara,movie_mode
+"wah, darwaze ka haal to deewar bata degi, phir bhi batao zara zara",door_status
+abhi ghar ke darwaze ko tala laga do,lock_door
+"haan, darwaza khula chhod dena hi sabse surakshit hai, tala laga do zara zara",lock_door
+bahar wala darwaza khol do turant,door_open
+abhi raat ke liye ghar taiyar kar do na,sleep_mode
+AC bandh kar do zara zara zara zara,ac_off
+kripya heater chal raha hai ya nahi zara zara,heater_status
+abhi gaane bajana shuru karo,music_on
+zara ghar mein sangeet chal raha hai ya nahi,music_status
+"khidki band kar do, hawa ko bhi chhutti de do zara zara",window_close
+zara pankha chalu kar do ab,fan_on
+"haan, TV dekhne ki koi zarurat nahi, phir bhi chala do zara zara zara zara",tv_on
+"film ka samay hai, ab ghar ko bhi film dekhne layak bana do zara zara zara",movie_mode
+jaldi se AC chalna band kar do turant,ac_off
+batti bujha do turant,light_off
+"haan, heater chal raha hai ya nahi, haath laga kar dekhte hain; phir bhi batao zara zara",heater_status
+main wapas ghar aa gaya ab zara zara zara,welcome_home
+"alarm ko bhi aaram de do, band kar do zara zara zara",alarm_off
+zara kamre ki khidki band karo,window_close
+kamre ka heater chala do na,heater_on
+abhi ab batti band kar do,light_off
+"wah, itni tez khamoshi hai, sangeet band kar do zara zara zara zara",music_off
+"haan, khidki band rakhenge aur hawa ki ummeed karenge, kholo zara zara zara",window_open
+zara heater rok do,heater_off
+kripya darwaza kholne ke liye tala hata do na,unlock_door
+"heater ka haal batao, andaaza nahi lagana zara zara zara",heater_status
+"kamra bahut thanda hai na, pankha chala do zara zara zara zara",fan_on
+zara mukhya darwaza khol do,door_open
+kripya bahar wala darwaza band karo ab,door_close
+"wah, thand mein hi rehna hai, taapmaan badha do zara zara",temperature_up
+kripya darwaza band hai ya khula zara zara,door_status
+"zara main ghar se nikal raha hoon, ghar ki vyavastha badal do",away_mode
+"jaldi se main ghar se nikal raha hoon, ghar ki vyavastha badal do",away_mode
+kripya film dekhne ka mode chalu kar do turant,movie_mode
+"film ka samay hai, ab ghar ko bhi film dekhne layak bana do zara zara zara zara zara zara",movie_mode
+"haan, ghar ko raat ke liye taiyar kar do, warna sab jagte rahenge zara zara zara",sleep_mode
+"sone ka samay aa gaya, ab ghar ko bhi sula do zara zara zara",sleep_mode
+kripya kamre ki nami batao ab,humidity_status
+"wah, kal der se uthna bahut zaroori hai, alarm chalu kar do zara zara",alarm_on
+jaldi se darwaze mein tala laga do zara zara,lock_door
+darwaza band kar do na,door_close
+AC ka haal batao turant,ac_status
+"haan, darwaza band hi rehne do, phir bhi khol do zara zara zara zara",door_open
+abhi TV band kar do,tv_off
+"main ghar se nikal raha hoon, ghar ki vyavastha badal do",away_mode
+jaldi se kamre mein heater chalu karo turant,heater_on
+jaldi se darwaza kholne ke liye tala hata do,unlock_door
+"haan, TV ko dekhna bahut mushkil kaam hai, tum hi batao zara zara zara zara",tv_status
+zara darwaza bandh kar do,door_close
+kamre ki nami batao turant,humidity_status
+zara kamre ki batti band karo,light_off
+nayi subah mubarak,good_morning
+kripya AC ka haal batao,ac_status
+gaane chal rahe hain ya nahi,music_status
+abhi film dekhne wali vyavastha chalu kar do turant,movie_mode
+kripya darwaza kholna hai,door_open
+"wah, andaza laga loon, tum taapmaan bata do zara zara",temperature_status
+darwaza khol do na,door_open
+"haan, sabko bahar hi rakhenge, tala khol do zara zara",unlock_door
+abhi ab ghar se nikalna hai ab,leaving_home
+zara ghar mein roshni ka kya haal hai ab,lights_status
+andhera hai roshni kar do zara zara,light_on
+kripya khidki kholni hai,window_open
+kripya ghar wapas aa gaya hoon na,welcome_home
+abhi darwaza band kar do ab,door_close
+"haan, ghar mein khamoshi hai, phir bhi sangeet ka haal batao zara zara zara",music_status
+abhi kamre mein AC chalu karo na,ac_on
+zara ghar ka poora haal batao ab,home_status
+jaldi se kamre ka AC band karo turant,ac_off
+zara kaun si battiyan jal rahi hain zara zara,lights_status
+"haan, darwaza khula hai ya band, dekhne ke liye ghar se bahar jaate hain; tum batao zara zara zara zara zara",door_status
+zara darwaze mein tala laga do,lock_door
+abhi TV chalu kar do na,tv_on
+abhi television chala do,tv_on
+"haan, ghar mein rehna bahut aasan tha, phir bhi nikal raha hoon",leaving_home
+kamre mein thandak badha do,temperature_down
+"ghar ka haal batao, poora chakkar lagane ka samay nahi hai zara zara",home_status
+kamre ka heater band karo,heater_off
+"haan, TV dekhne ki koi zarurat nahi, phir bhi chala do zara zara zara zara zara zara",tv_on
+abhi film dekhne wali vyavastha chalu kar do turant zara zara,movie_mode
+kripya darwaza tala laga do,lock_door
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do zara zara zara zara",lock_door
+jaldi se ghar pahunch gaya hoon,welcome_home
+zara kamre mein garami badha do na,temperature_up
+"haan, bina dekhe hi taapmaan pata chal jayega, phir bhi batao zara zara zara",temperature_status
+"haan, neend kaun chahta hai, phir bhi shubh ratri",good_night
+zara sone ka mode chalu kar do ab,sleep_mode
+kripya AC bandh kar do,ac_off
+kripya film ke liye ghar taiyar kar do na,movie_mode
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara zara zara",heater_on
+zara gaana baja do,music_on
+"haan, subah samay par uthna bilkul zaroori nahi, alarm band kar do zara zara",alarm_off
+"haan, darwaza band hi rehne do, phir bhi khol do zara zara",door_open
+zara ghar ke darwaze ka tala khol do na,unlock_door
+TV shuru kar do,tv_on
+"haan, kisi ko bhi andar aane do, darwaza tala laga do zara zara",lock_door
+kripya kya heater chalu hai na,heater_status
+abhi main ghar aa gaya hoon,welcome_home
+subah ki namaskar,good_morning
+"haan, thand mein kaampna hi pasand hai, heater band kar do",heater_off
+jaldi se darwaza tala laga do turant,lock_door
+"aaj jashn hai, ghar ko bhi bata do ki chup nahi rehna zara zara zara zara zara",party_mode
+"haan, aakhir ghar ki yaad aa hi gayi, wapas aa gaya hoon zara zara zara zara zara",welcome_home
+jaldi se hawa ki nami kya hai na,humidity_status
+zara TV chala do,tv_on
+abhi subah ki namaskar zara zara,good_morning
+"wah, garmi mehsoos ho rahi hai to sab pata hai, phir bhi haal batao zara zara zara",heater_status
+zara gaana baja do ab,music_on
+jaldi se kamre ka heater band karo zara zara,heater_off
+"wah, bina dekhe TV chalana bahut zaroori hai, band kar do zara zara zara",tv_off
+kamre ka taapmaan ghata do turant zara zara,temperature_down
+"haan, AC chal raha hai ya nahi, aankhon se hi dekh lenge; phir bhi batao",ac_status
+jaldi se darwaza laga do zara zara,door_close
+zara mehfil ka mahaul bana do ab,party_mode
+"TV ki sthiti batao, khud jaakar nahi dekhna zara zara zara zara zara",tv_status
+abhi ghar ka darwaza kholo na,door_open
+zara heater bandh kar do na,heater_off
+"nami bata do, andaza lagane ka mann nahi hai zara zara zara zara",humidity_status
+jaldi se ab ghar se nikalna hai ab,leaving_home
+jaldi se khidki ki sthiti kya hai,window_status
+"haan, sabko bahar hi rakhenge, tala khol do zara zara zara",unlock_door
+khidki kholni hai zara zara,window_open
+"wah, thandi hawa bahut achhi hai, phir bhi khidki band karo",window_close
+"darwaze ki sthiti batao, jaakar dekhne ka mann nahi zara zara zara zara zara zara",door_status
+"AC ka haal batao, andaza lagane se kaam nahi chalega",ac_status
+jaldi se suraksha alarm band karo turant zara zara,alarm_off
+kripya TV chalu karo turant,tv_on
+subah ho gayi,good_morning
+abhi mukhya darwaza khol do ab zara zara,door_open
+pankha chal raha hai ya nahi na,fans_status
+abhi gaanon ki sthiti kya hai ab,music_status
+"haan, gaane to bilkul sunai nahi de rahe, band kar do",music_off
+"haan, band kamre ki hawa hi kaafi hai, khidki khol do zara zara zara zara",window_open
+abhi kaun se pankhe chal rahe hain,fans_status
+zara taapmaan thoda ghata do,temperature_down
+abhi ghar ko jashn ke liye taiyar kar do ab,party_mode
+"khidki ki sthiti batao, andaaza nahi lagana",window_status
+abhi khidki laga do turant,window_close
+zara heater chalu kar do,heater_on
+jaldi se aapatkaal ki sthiti hai na,emergency
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai zara zara zara zara zara zara",emergency
+jaldi se bahut zaroori madad chahiye ab,emergency
+zara khidki bandh kar do,window_close
+"jaldi se aaj ghar mein jashn hai, taiyari kar do ab",party_mode
+"haan, aapatkaal mein aaram se baithte hain, nahi, turant madad chahiye zara zara",emergency
+zara kamre ka heater chala do,heater_on
+"haan, ghar ko raat ke liye taiyar kar do, warna sab jagte rahenge",sleep_mode
+jaldi se pankha rok do,fan_off
+zara television band kar do,tv_off
+"haan, paseena bahana hi tha, ab pankha chala do",fan_on
+darwaza laga do turant,door_close
+ab raat ho gayi ab,good_night
+sone ka samay aa gaya zara zara,good_night
+jaldi se television chala do na,tv_on
+zara alarm hata do ab zara zara,alarm_off
+"haan, bina taiyari ke jashn karenge, phir bhi ghar taiyar kar do zara zara",party_mode
+subah ki namaskar ab,good_morning
+mukhya darwaze par tala laga do zara zara,lock_door
+"thandak ki kya zarurat hai, phir bhi AC chala do zara zara",ac_on
+"heater ne kamre ko tandoor bana diya, band kar do zara zara",heater_off
+"haan, TV ki roshni se pata chal gaya, phir bhi haal batao zara zara",tv_status
+ab TV band karo na,tv_off
+sone ka mahaul bana do,sleep_mode
+kya AC chalu hai na,ac_status
+"thandak ki kya zarurat hai, phir bhi AC chala do zara zara zara",ac_on
+kripya ghar ki sab vyavastha ka haal batao na,home_status
+"wah, alarm bajta rahe aur sab pareshan hon, band kar do",alarm_off
+kripya aapatkaal hai na,emergency
+"roshni ki koi zarurat hi nahi hai, phir bhi batti jala do zara zara zara zara",light_on
+kripya heater band kar do na,heater_off
+ghar ke darwaze ko tala laga do turant,lock_door
+abhi garami ke liye heater chala do,heater_on
+abhi aapko suprabhat zara zara,good_morning
+ab batti band kar do,light_off
+jaldi se kamre ki roshni chalu karo,light_on
+jaldi se khidki khol do,window_open
+kripya mukhya darwaza khula hai kya ab,door_status
+"haan, ghar mein rehna bahut aasan tha, phir bhi nikal raha hoon zara zara zara",leaving_home
+kripya alarm hata do ab,alarm_off
+"haan, bina dekhe hi taapmaan pata chal jayega, phir bhi batao",temperature_status
+aapko suprabhat zara zara,good_morning
+"haan, garami ka maza kharab kar do, taapmaan ghata do zara zara zara",temperature_down
+zara ab AC band kar do ab,ac_off
+bahar wala darwaza band karo ab,door_close
+heater chalu kar do zara zara zara,heater_on
+"haan, hawa ko pakad kar naap lenge, phir bhi nami batao zara zara zara zara zara",humidity_status
+kripya shubh ratri na,good_night
+kripya ghar ki suraksha jaanch lo na,security_status
+"thandak ki kya zarurat hai, phir bhi AC chala do",ac_on
+AC rok do turant,ac_off
+"haan, gaane to bilkul sunai nahi de rahe, band kar do zara zara zara",music_off
+kamre ka pankha chala do zara zara zara zara,fan_on
+hawa ke liye pankha chala do,fan_on
+ghar mein gaane band karo zara zara,music_off
+kamre ka taapmaan ghata do,temperature_down
+zara khidki band karni hai na,window_close
+abhi kamre ko garam kar do turant,temperature_up
+kripya kamre mein heater chalu karo na,heater_on
+"haan, ghar ki suraksha ka pata andaaze se laga lenge, phir bhi batao zara zara zara",security_status
+shubh raatri,good_night
+"haan, darwaza kholne ki bilkul zarurat nahi, phir bhi kholo zara zara",door_open
+"gaane chal rahe hain ya nahi, andaaza nahi lagana; batao zara zara",music_status
+abhi ghar mein sangeet chal raha hai ya nahi zara zara,music_status
+abhi kamre mein thandak badha do na,temperature_down
+abhi TV band hai ya chalu ab,tv_status
+sone ka maza kharab karne ke liye alarm laga do zara zara zara zara,alarm_on
+kamra garam kar do,temperature_up
+hum ghar aa gaye hain zara zara,welcome_home
+ghar ka darwaza kholo na,door_open
+"ghar ka haal batao, poora chakkar lagane ka samay nahi hai zara zara zara",home_status
+abhi heater shuru kar do turant,heater_on
+jaldi se film dekhne wali vyavastha chalu kar do turant,movie_mode
+zara kamre ki roshni bujha do zara zara,light_off
+jaldi se pankhon ka haal batao,fans_status
+abhi hawa rokne ke liye khidki band kar do,window_close
+abhi khidki khol do,window_open
+kripya kamra thanda kar do,temperature_down
+"haan, batti poori raat jalne do, phir band kar do zara zara",light_off
+raat ki shubhkamnayein ab,good_night
+abhi taapmaan kam kar do na,temperature_down
+darwaza laga do zara zara,door_close
+abhi pankha bandh kar do turant,fan_off
+kripya darwaza tala laga do zara zara,lock_door
+suraksha ghanti band kar do,alarm_off
+"haan, suraj ko bhi sharma denge, batti band kar do zara zara zara",light_off
+zara ghar ka alarm chalu karo zara zara,alarm_on
+jaldi se ghar ka suraksha alarm sakriya kar do zara zara,alarm_on
+ab heater band kar do turant,heater_off
+"haan, film dekhni hai, ghar ko bhi samajh aa jana chahiye",movie_mode
+"wah, kamra bilkul thanda hai, taapmaan aur kam kar do zara zara zara",temperature_down
+ab sone ki taiyari kar do zara zara,sleep_mode
+jaldi se kamre ka taapmaan badha do zara zara zara,temperature_up
+jaldi se darwaza bandh kar do turant,door_close
+bahar wala darwaza band karo zara zara zara,door_close
+"khamoshi ka maza kharab karte hain, gaane chala do zara zara zara zara zara zara",music_on
+"haan, khidki khuli hai ya band, hawa se hi pata chal jayega; phir bhi batao zara zara zara zara zara zara",window_status
+ghar ka alarm band kar do,alarm_off
+"haan, ghar chhodne ka shauk hai, main nikal raha hoon zara zara",leaving_home
+jaldi se AC shuru kar do turant,ac_on
+"wah, sabko ghar mein aane do, phir darwaza band kar do zara zara zara zara",door_close
+"haan, raat to kabhi aayegi hi nahi, phir bhi shubh ratri",good_night
+darwaza surakshit karke tala laga do,lock_door
+"kamra to bilkul garam hai, heater chala do zara zara zara",heater_on
+"bahut badi samasya hai, turant madad chahiye na",emergency
+jaldi se raat ki shubhkamnayein,good_night
+AC band hai ya chalu zara zara,ac_status
+AC chalu hai ya band na,ac_status
+TV chal raha hai ya nahi,tv_status
+abhi kamre mein garami badha do turant,temperature_up
+abhi ghar ka taapmaan batao,temperature_status
+jaldi se main ghar aa gayi hoon na,welcome_home
+"film ka samay hai, ab ghar ko bhi film dekhne layak bana do zara zara",movie_mode
+kripya hawa ke liye pankha chala do,fan_on
+jaldi se suraksha ki sthiti kya hai,security_status
+khidki bandh kar do na zara zara,window_close
+abhi heater chalu hai ya band turant,heater_status
+ghar ki suraksha jaanch lo ab,security_status
+khidki laga do turant zara zara,window_close
+"darwaze ki sthiti batao, jaakar dekhne ka mann nahi zara zara zara zara",door_status
+abhi abhi taapmaan kya hai,temperature_status
+jaldi se nayi subah mubarak ab,good_morning
+cinema jaisa mahaul bana do na,movie_mode
+zara batti band kar do ab,light_off
+zara heater chalna band kar do,heater_off
+"bahut badi samasya hai, turant madad chahiye",emergency
+abhi mere bahar jaane par ghar ki vyavastha kar do,away_mode
+AC bandh kar do,ac_off
+"ghar khaali rahega, phir bhi sab vyavastha theek kar do zara zara zara zara zara",away_mode
+"haan, jashn bilkul chupchaap karenge, phir bhi jashn ki vyavastha karo zara zara",party_mode
+zara AC band hai ya chalu zara zara,ac_status
+"khamoshi ka maza kharab karte hain, gaane chala do zara zara zara zara zara",music_on
+hawa rokne ke liye khidki band kar do ab,window_close
+jaldi se mere bahar jaane par ghar ki vyavastha kar do,away_mode
+"phir se bahar jaana hai, main ghar se ja raha hoon zara zara zara zara",leaving_home
+"ghar ko mehfil bana diya hai, ab gaane band kar do",music_off
+"darwaza khol do, warna deewar se nikalna padega zara zara",door_open
+kripya suraksha vyavastha ka haal batao turant,security_status
+abhi gaanon ki sthiti kya hai turant,music_status
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara zara zara zara zara",good_night
+"haan, kamra kitna garam hai aankhon se dekh lenge, phir bhi batao zara zara",temperature_status
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara zara zara zara zara",fans_status
+kripya daawat ke liye ghar taiyar kar do zara zara,party_mode
+jaldi se ghar surakshit hai ya nahi zara zara,security_status
+darwaza khula hai ya band,door_status
+abhi ab batti band kar do zara zara,light_off
+jaldi se kamre mein heater chalu karo,heater_on
+ghar ke darwaze ka tala khol do,unlock_door
+aapko suprabhat ab,good_morning
+jaldi se ghar ko khaali ghar wali vyavastha par karo ab,away_mode
+"haan, batti poori raat jalne do, phir band kar do zara zara zara zara",light_off
+zara kaun se pankhe chal rahe hain zara zara,fans_status
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do zara zara zara",door_close
+"haan, sab surakshit hoga hi, phir bhi suraksha ka haal batao zara zara",security_status
+"darwaze ki sthiti batao, jaakar dekhne ka mann nahi zara zara zara",door_status
+"haan, ghar mein khamoshi hai, phir bhi sangeet ka haal batao",music_status
+"haan, garami ki kya zarurat, phir bhi taapmaan badha do zara zara",temperature_up
+ghar ki sab vyavastha ka haal batao zara zara,home_status
+zara heater rok do na zara zara,heater_off
+pankha rok do,fan_off
+AC ka haal batao,ac_status
+"haan, alarm ki awaaz se hi din ki shuruaat honi chahiye, laga do zara zara zara",alarm_on
+abhi kamre ki roshni chalu karo zara zara,light_on
+jaldi se darwaza kholna hai ab,door_open
+"thandak ki kya zarurat hai, phir bhi AC chala do zara zara zara zara",ac_on
+darwaza kholna hai ab,door_open
+zara darwaze ka tala hata do,unlock_door
+abhi kamre ki batti band karo ab,light_off
+gaane bajna band kar do,music_off
+zara heater band kar do na,heater_off
+"haan, darwaza khula hai ya band, dekhne ke liye ghar se bahar jaate hain; tum batao zara zara",door_status
+kripya alarm hata do,alarm_off
+abhi khidki ki sthiti kya hai,window_status
+jaldi se kamre ka heater chala do,heater_on
+"haan, thand mein kaampna hi pasand hai, heater band kar do zara zara zara zara",heater_off
+jashn ka mahaul bana do na,party_mode
+"film ka samay hai, ab ghar ko bhi film dekhne layak bana do zara zara zara zara",movie_mode
+"haan, nami ka andaaza hawa ko dekh kar laga lenge, phir bhi batao",humidity_status
+jaldi se ghar ki suraksha ka haal batao turant,security_status
+kamre ki batti ki sthiti batao na,lights_status
+ghar ke darwaze ka tala khol do ab,unlock_door
+kripya ghar mein turant madad ki zarurat hai,emergency
+zara alarm band kar do,alarm_off
+jaldi se film ke liye ghar taiyar kar do na zara zara,movie_mode
+zara pankha bandh kar do zara zara,fan_off
+alarm rok do zara zara,alarm_off
+"haan, bina taiyari ke jashn karenge, phir bhi ghar taiyar kar do zara zara zara zara",party_mode
+"TV ki sthiti batao, khud jaakar nahi dekhna zara zara zara",tv_status
+kripya TV chalu hai ya band ab,tv_status
+jaldi se kaun se pankhe chal rahe hain na,fans_status
+abhi heater bandh kar do,heater_off
+"darwaze ki sthiti batao, jaakar dekhne ka mann nahi zara zara zara zara zara",door_status
+"wah, ek aur subah aa gayi, suprabhat zara zara",good_morning
+abhi kamra kitna garam hai turant,temperature_status
+abhi sangeet ka haal batao zara zara,music_status
+kripya mukhya darwaze par tala laga do,lock_door
+"haan, raat to kabhi aayegi hi nahi, phir bhi shubh ratri zara zara zara",good_night
+"haan, subah samay par uthna bilkul zaroori nahi, alarm band kar do zara zara zara zara",alarm_off
+jaldi se khidki ka haal batao zara zara,window_status
+"sone ka samay aa gaya, ab ghar ko bhi sula do zara zara zara zara",sleep_mode
+zara jashn ka mahaul bana do ab,party_mode
+zara kaun se pankhe chal rahe hain zara zara zara,fans_status
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao",music_status
+TV chalu kar do zara zara,tv_on
+"haan, itni khamoshi bahut achhi lag rahi hai, gaane chala do zara zara zara",music_on
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara zara",good_night
+abhi subah ki namaskar ab,good_morning
+zara mukhya darwaze ka tala khol do,unlock_door
+sangeet rok do ab zara zara,music_off
+"ghar ki suraksha batao, kismat par nahi chhodna zara zara zara zara",security_status
+zara sangeet baja do turant,music_on
+"haan, barf banne se pehle heater chala do zara zara",heater_on
+jashn ka mahaul bana do,party_mode
+"haan, raat to kabhi aayegi hi nahi, phir bhi shubh ratri zara zara",good_night
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara zara zara zara",fans_status
+kripya TV shuru kar do,tv_on
+abhi nami kitni hai na zara zara,humidity_status
+"haan, kaunsa pankha chal raha hai, iska andaaza laga lete hain; haal batao",fans_status
+abhi film dekhne wali vyavastha chalu kar do,movie_mode
+jaldi se khidki khol do turant,window_open
+abhi kamre ko thanda kar do ab,temperature_down
+battiyan chalu hain ya band ab,lights_status
+"haan, kal uthna to hai hi nahi, alarm hata do zara zara zara zara",alarm_off
+ghar ko jashn ke liye taiyar kar do turant,party_mode
+gaana rok do ab,music_off
+khidki khol do na,window_open
+kamre ki roshni chalu karo ab,light_on
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao zara zara zara zara",music_status
+kripya main ghar se ja raha hoon,leaving_home
+zara jashn ka mahaul bana do,party_mode
+kaun si battiyan jal rahi hain ab,lights_status
+kamre ki batti band karo,light_off
+"wah, darwaza hamesha band rahe, tala khol do zara zara zara",unlock_door
+hawa ke liye khidki khol do,window_open
+"ghar khaali rahega, phir bhi sab vyavastha theek kar do zara zara",away_mode
+"wah, hawa ki kya zarurat, phir bhi pankha chala do zara zara",fan_on
+abhi aapatkaal ki sthiti hai turant,emergency
+ghar mein gaane band karo zara zara zara zara,music_off
+"wah, film dekhne ke liye ghar ko thoda sambhal hi lete hain zara zara zara zara",movie_mode
+jaldi se TV bandh kar do zara zara,tv_off
+darwaza band hai ya khula,door_status
+"zara bahut badi samasya hai, turant madad chahiye ab",emergency
+ab AC band kar do na,ac_off
+"ghar wapas aa gaya, ab ghar ko bhi bata do zara zara",welcome_home
+"haan, darwaza khula chhodkar suraksha karenge, band kar do zara zara",door_close
+abhi ghar ka suraksha alarm sakriya kar do turant,alarm_on
+abhi pankha chal raha hai ya nahi turant,fans_status
+abhi darwaza kholna hai ab,door_open
+zara hawa ki nami kya hai na,humidity_status
+kripya AC chal raha hai ya nahi ab,ac_status
+"haan, bina dekhe hi taapmaan pata chal jayega, phir bhi batao zara zara",temperature_status
+"haan, band kamre ki hawa hi kaafi hai, khidki khol do zara zara",window_open
+ab raat ho gayi na,good_night
+"wah, ghar ka haal bina dekhe hi pata chal jayega, phir bhi batao zara zara zara zara",home_status
+"haan, kisi ko andar aane hi nahi dena, phir bhi tala khol do zara zara zara zara zara zara",unlock_door
+abhi khidki bandh kar do ab,window_close
+"wah, ek aur subah aa gayi, suprabhat zara zara zara zara zara zara zara",good_morning
+abhi kamre ke heater ki sthiti kya hai,heater_status
+zara sone ka mahaul bana do,sleep_mode
+zara kamre ki batti jala do zara zara,light_on
+main bahar ja raha hoon ab,leaving_home
+sone ki vyavastha kar do na,sleep_mode
+"wah, itni tez khamoshi hai, sangeet band kar do zara zara zara zara zara zara",music_off
+"wah, kamra hamesha roshan hi rakhenge, batti bujha do",light_off
+mukhya darwaze ka tala khol do zara zara,unlock_door
+abhi nami kitni hai turant,humidity_status
+jaldi se kamre ka pankha chala do,fan_on
+zara mukhya darwaze ka haal batao zara zara,door_status
+"alarm ko bhi aaram de do, band kar do zara zara zara zara",alarm_off
+abhi darwaza bina tale ke kar do,unlock_door
+abhi nami kitni hai turant zara zara,humidity_status
+"wah, film dekhne ke liye ghar ko thoda sambhal hi lete hain",movie_mode
+main wapas ghar aa gaya ab,welcome_home
+kripya kamre ki khidki khuli hai kya turant,window_status
+hawa ke liye khidki khol do turant,window_open
+khidki laga do zara zara,window_close
+"haan, ghar khaali chhodkar sab kuchh waise hi rakhenge, phir bhi vyavastha karo zara zara zara",away_mode
+"haan, bina dekhe hi taapmaan pata chal jayega, phir bhi batao zara zara zara zara",temperature_status
+kripya kya AC chalu hai na,ac_status
+"haan, itni khamoshi bahut achhi lag rahi hai, gaane chala do",music_on
+zara kamre mein AC chalu karo,ac_on
+kamre ki roshni bujha do,light_off
+pankha chalu hai ya band,fans_status
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara zara zara zara zara zara zara",good_night
+khidki bandh kar do zara zara,window_close
+zara mukhya darwaza khol do zara zara,door_open
+hawa ki nami kya hai,humidity_status
+heater ka haal batao,heater_status
+ghar ki suraksha jaanch lo ab zara zara,security_status
+abhi ghar ko mere jaane ke liye taiyar kar do ab,away_mode
+"haan, poore ghar mein ghoom kar sab dekh leta hoon, tum hi haal bata do zara zara zara zara",home_status
+jaldi se sone ki vyavastha kar do na,sleep_mode
+kamre ki batti band karo turant,light_off
+"haan, band kamre ki hawa hi kaafi hai, khidki khol do",window_open
+zara AC bandh kar do,ac_off
+jaldi se kamre ke AC ki sthiti kya hai,ac_status
+"subah ho gayi, jaise raat ko pata hi nahi tha, suprabhat zara zara",good_morning
+ghar ka haal dekh kar batao turant,home_status
+abhi khidki band hai ya khuli turant,window_status
+"haan, thand mein kaampna hi pasand hai, heater band kar do zara zara",heater_off
+ghar ke darwaze ko tala laga do ab zara zara,lock_door
+"taapmaan bata do, dimaag padhne ki machine to hai nahi",temperature_status
+"haan, kisi ko andar aane hi nahi dena, phir bhi tala khol do zara zara zara",unlock_door
+abhi kamre ke heater ki sthiti kya hai ab,heater_status
+"wah, garmi mehsoos ho rahi hai to sab pata hai, phir bhi haal batao zara zara",heater_status
+ghar surakshit hai kya turant,security_status
+"zara main ghar se nikal raha hoon, ghar ki vyavastha badal do ab",away_mode
+"wah, neend to aani nahi, phir bhi sone ka mahaul bana do",sleep_mode
+"haan, kamra thanda hai to AC hoga hi, phir bhi batao zara zara zara",ac_status
+zara ghar ka taapmaan batao na,temperature_status
+zara heater rok do na,heater_off
+abhi batti band kar do,light_off
+"TV bhi thak gaya hoga, band kar do",tv_off
+zara ghar ka alarm chalu karo,alarm_on
+"aaj jashn hai, ghar ko bhi bata do ki chup nahi rehna zara zara zara zara",party_mode
+abhi kamre ki khidki band karo zara zara,window_close
+zara kamra garam kar do,temperature_up
+jaldi se kamre mein kitni garami hai turant,temperature_status
+ghar ki sab vyavastha ka haal batao ab,home_status
+zara kamre ka heater band karo,heater_off
+abhi ghar ka alarm band kar do,alarm_off
+kripya main ghar aa gayi hoon ab,welcome_home
+jaldi se darwaza tala laga do na,lock_door
+kya khidki khuli hai zara zara zara,window_status
+hum ghar aa gaye hain,welcome_home
+kripya shubh raatri ab,good_night
+"haan, aapatkaal mein aaram se baithte hain, nahi, turant madad chahiye zara zara zara zara",emergency
+"haan, TV ki roshni se pata chal gaya, phir bhi haal batao",tv_status
+abhi hawa mein nami kitni hai,humidity_status
+kripya ghar mein turant madad ki zarurat hai turant,emergency
+kripya heater chal raha hai ya nahi zara zara zara,heater_status
+kamre mein AC chalu karo,ac_on
+"haan, ghar mein awaaz ki bilkul kami hai, sangeet chala do",music_on
+abhi heater shuru kar do,heater_on
+abhi gaane chal rahe hain ya nahi,music_status
+jaldi se shubh ratri turant,good_night
+jaldi se ghar mein gaane band karo,music_off
+jaldi se khidki khuli hai ya band turant,window_status
+main wapas ghar aa gaya turant,welcome_home
+jaldi se suraksha ghanti band kar do zara zara,alarm_off
+darwaza tala laga do,lock_door
+AC rok do zara zara zara,ac_off
+"haan, ghar mein rehna bahut aasan tha, phir bhi nikal raha hoon zara zara",leaving_home
+abhi suraksha ghanti chalu kar do na zara zara,alarm_on
+kya koi gaana chal raha hai,music_status
+abhi suraksha ghanti chalu kar do zara zara,alarm_on
+zara ghar surakshit hai kya turant,security_status
+"haan, poore ghar mein ghoom kar sab dekh leta hoon, tum hi haal bata do zara zara zara zara zara",home_status
+kripya kamre ki khidki band karo zara zara,window_close
+taapmaan batao turant zara zara,temperature_status
+zara darwaza kholna hai zara zara,door_open
+abhi main ghar aa gaya hoon turant,welcome_home
+zara garami ke liye heater chala do turant,heater_on
+kripya kamre ka AC chala do ab,ac_on
+jaldi se alarm band kar do zara zara,alarm_off
+"haan, aakhir ghar ki yaad aa hi gayi, wapas aa gaya hoon zara zara zara zara",welcome_home
+abhi hum ghar se nikal rahe hain,leaving_home
+"kamra bahut thanda hai na, pankha chala do zara zara zara zara zara zara zara zara",fan_on
+TV ka haal batao zara zara,tv_status
+"kamra bahut garam ho gaya hai, heater band kar do zara zara",heater_off
+"AC ka haal batao, andaza lagane se kaam nahi chalega zara zara zara",ac_status
+kripya mukhya darwaza band karo turant,door_close
+abhi heater rok do na,heater_off
+television ki sthiti kya hai,tv_status
+kripya sangeet band kar do,music_off
+"kamra bahut thanda hai, ise aur garam kar do zara zara zara",temperature_up
+"haan, bijli kharch karte raho, TV band kar do zara zara zara",tv_off
+"battiyon ki sthiti batao, jaadu se pata nahi chalega",lights_status
+abhi alarm hata do,alarm_off
+"wah, kal der se uthna bahut zaroori hai, alarm chalu kar do zara zara zara",alarm_on
+kripya TV chala do,tv_on
+kripya film dekhne wali vyavastha chalu kar do ab,movie_mode
+sone ka mode chalu kar do na zara zara,sleep_mode
+jaldi se darwaza laga do,door_close
+hum ghar aa gaye hain turant,welcome_home
+"wah, kamre ko gufa bana diya hai, batti jala do zara zara zara",light_on
+ghar mein gaane chala do ab zara zara,music_on
+zara ab ghar se nikalna hai,leaving_home
+jaldi se gaane chal rahe hain ya nahi,music_status
+"haan, garami ki kya zarurat, phir bhi taapmaan badha do",temperature_up
+"haan, darwaza kholne ki bilkul zarurat nahi, phir bhi kholo",door_open
+"wah, kamra hamesha roshan hi rakhenge, batti bujha do zara zara zara",light_off
+"main ghar se nikal raha hoon, ghar ki vyavastha badal do na",away_mode
+zara heater bandh kar do ab,heater_off
+abhi sab battiyon ki sthiti batao turant,lights_status
+abhi shubh raatri,good_night
+jaldi se AC shuru kar do,ac_on
+pankhon ka haal batao,fans_status
+"wah, bina dekhe TV chalana bahut zaroori hai, band kar do zara zara zara zara zara",tv_off
+AC band hai ya chalu,ac_status
+"jaldi se aaj ghar mein jashn hai, taiyari kar do ab zara zara",party_mode
+"wah, bahar ki duniya se bachkar wapas aa gaya, main ghar aa gaya zara zara",welcome_home
+zara shubh prabhat,good_morning
+jaldi se alarm laga kar rakho ab,alarm_on
+kripya suprabhat na,good_morning
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai zara zara zara zara",emergency
+jaldi se hawa ke liye khidki khol do na,window_open
+"wah, ek aur subah aa gayi, suprabhat zara zara zara zara zara zara",good_morning
+kripya ghar ka alarm band kar do ab,alarm_off
+jaldi se darwaza khula hai ya band,door_status
+jaldi se hum ghar se nikal rahe hain,leaving_home
+"haan, khaali deewar hi dekhte rahenge, TV chala do",tv_on
+abhi kamre ke pankhe ki sthiti batao zara zara,fans_status
+abhi raat ki shubhkamnayein turant,good_night
+kripya main ghar se ja rahi hoon,leaving_home
+"kamra bahut thanda hai, ise aur garam kar do zara zara",temperature_up
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao zara zara zara",music_status
+darwaza band karke tala laga do turant,lock_door
+main ghar se ja rahi hoon zara zara,leaving_home
+"kamra bahut thanda hai, ise aur garam kar do zara zara zara zara",temperature_up
+jaldi se AC chalu kar do,ac_on
+"wah, TV chalu hai ya nahi iska andaaza laga lete hain, phir bhi batao zara zara",tv_status
+"haan, ghar mein rehna bahut aasan tha, phir bhi nikal raha hoon zara zara zara zara zara",leaving_home
+zara kamre mein thandak badha do,temperature_down
+"haan, kisi ko andar aane hi nahi dena, phir bhi tala khol do",unlock_door
+"heater ka haal batao, andaaza nahi lagana zara zara zara zara zara",heater_status
+"kamra bahut thanda hai na, pankha chala do",fan_on
+"phir se bahar jaana hai, main ghar se ja raha hoon zara zara zara",leaving_home
+"khamoshi ka maza kharab karte hain, gaane chala do zara zara zara zara",music_on
+"bahut thand ho gayi hai, AC band kar do zara zara zara zara zara",ac_off
+kamre mein AC chalu karo ab,ac_on
+darwaze ka tala hata do,unlock_door
+zara ab sone ki taiyari kar do,sleep_mode
+TV chalu karo na zara zara,tv_on
+"haan, neend poori kahan hui, phir bhi shubh prabhat zara zara",good_morning
+batti chalu kar do na,light_on
+"haan, aapatkaal mein aaram se baithte hain, nahi, turant madad chahiye zara zara zara",emergency
+film dekhne wali vyavastha chalu kar do ab,movie_mode
+"TV ko bhi thoda kaam de do, chala do zara zara",tv_on
+"pankhon ka haal batao, khud jaanne ka samay nahi hai",fans_status
+kripya film ke liye ghar taiyar kar do,movie_mode
+kripya kamre ka pankha chala do ab,fan_on
+zara darwaza kholna hai,door_open
+zara gaane chala do zara zara zara,music_on
+khidki bandh kar do,window_close
+abhi ghar mein roshni ka kya haal hai na,lights_status
+kripya hum ghar aa gaye hain zara zara,welcome_home
+abhi mukhya darwaze ka haal batao,door_status
+ab sone ka samay hai ab,good_night
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do zara zara zara zara zara",door_close
+"wah, ghar ka haal bina dekhe hi pata chal jayega, phir bhi batao zara zara",home_status
+mukhya darwaza kholo,door_open
+"heater ne kamre ko tandoor bana diya, band kar do zara zara zara zara zara",heater_off
+jaldi se sab battiyon ki sthiti batao na,lights_status
+"haan, hawa andar aati rahe, khidki band kar do zara zara zara zara",window_close
+"wah, thand mein hi rehna hai, taapmaan badha do zara zara zara zara",temperature_up
+"wah, itni tez khamoshi hai, sangeet band kar do",music_off
+hawa ki nami kya hai turant zara zara,humidity_status
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao zara zara zara zara zara zara zara",music_status
+zara AC ka haal batao turant,ac_status
+kripya kamre ki batti band karo,light_off
+kripya kamre ko garam kar do na,temperature_up
+abhi hum ghar aa gaye hain,welcome_home
+zara nayi subah mubarak zara zara,good_morning
+mukhya darwaza khol do ab,door_open
+zara kamre ki khidki kholo,window_open
+abhi raat ke liye ghar taiyar kar do ab,sleep_mode
+abhi ghar ki sthiti kya hai turant,home_status
+jaldi se kamre ki khidki khuli hai kya ab,window_status
+"ghar wapas aa gaya, ab ghar ko bhi bata do zara zara zara",welcome_home
+"haan, pankhon ki awaaz se sab pata chal gaya, phir bhi haal batao",fans_status
+TV rok do zara zara,tv_off
+kripya kamre ka heater chala do,heater_on
+abhi kamre ka AC band karo zara zara,ac_off
+abhi main ghar aa gayi hoon,welcome_home
+kripya khidki khol do turant,window_open
+subah ki namaskar turant zara zara,good_morning
+gaane chala do zara zara,music_on
+"wah, khidki ka haal jaanne ke liye khidki dekhni padegi, tum batao zara zara zara",window_status
+jaldi se gaane chala do turant,music_on
+jaldi se kamre ke pankhe ki sthiti batao,fans_status
+abhi heater band kar do,heater_off
+zara darwaza bandh kar do zara zara,door_close
+"TV ki sthiti batao, khud jaakar nahi dekhna zara zara zara zara",tv_status
+kripya bahut zaroori madad chahiye zara zara,emergency
+aapatkaal ki sthiti hai na,emergency
+zara aapatkaal hai ab,emergency
+andhera hai roshni kar do,light_on
+abhi hawa ke liye khidki khol do zara zara,window_open
+"haan, pankha chalne do aur garmi badhne do, band kar do",fan_off
+"darwaze ki sthiti batao, jaakar dekhne ka mann nahi",door_status
+abhi film dekhne wali vyavastha chalu kar do ab,movie_mode
+abhi darwaze ki sthiti kya hai,door_status
+kripya ghar ke darwaze ka tala khol do turant,unlock_door
+kripya kamre mein thandak badha do,temperature_down
+"TV bhi thak gaya hoga, band kar do zara zara",tv_off
+zara TV chalna band kar do ab,tv_off
+zara khidki kholni hai ab,window_open
+"haan, sabko bahar hi rakhenge, tala khol do",unlock_door
+abhi kya TV chalu hai na,tv_status
+kripya kamre ki batti jala do na,light_on
+sone ka maza kharab karne ke liye alarm laga do zara zara zara zara zara,alarm_on
+abhi kamre mein thandak badha do ab,temperature_down
+zara AC shuru kar do ab,ac_on
+kripya gaana baja do na zara zara,music_on
+kripya alarm hata do na,alarm_off
+abhi ghar pahunch gaya hoon,welcome_home
+abhi heater shuru kar do zara zara,heater_on
+abhi kya heater chalu hai,heater_status
+sab battiyon ki sthiti batao na,lights_status
+kripya darwaza band karke tala laga do,lock_door
+kamre ka TV chala do,tv_on
+AC rok do zara zara,ac_off
+"wah, sabko ghar mein aane do, phir darwaza band kar do",door_close
+batti chalu kar do zara zara,light_on
+abhi ghar ka alarm chalu karo ab,alarm_on
+"haan, pankha chalne do aur garmi badhne do, band kar do zara zara zara",fan_off
+"haan, alarm ki awaaz se hi din ki shuruaat honi chahiye, laga do zara zara zara zara zara",alarm_on
+kripya ghar ke darwaze ka tala khol do,unlock_door
+zara kamre ki khidki kholo ab,window_open
+jaldi se darwaze ki sthiti kya hai ab,door_status
+"haan, poora mohalla sunta rahe, gaane band kar do zara zara",music_off
+abhi kamre mein AC chalu karo,ac_on
+abhi aapatkaal hai turant,emergency
+abhi TV chala do,tv_on
+zara khidki band karni hai ab,window_close
+pankha chala do na,fan_on
+"battiyon ki sthiti batao, jaadu se pata nahi chalega zara zara zara",lights_status
+zara darwaza band karke tala laga do na,lock_door
+"haan, nami ka andaaza hawa ko dekh kar laga lenge, phir bhi batao zara zara zara zara",humidity_status
+roshni band kar do,light_off
+"haan, ghar chhodne ka shauk hai, main nikal raha hoon zara zara zara",leaving_home
+"bahut thand ho gayi hai, AC band kar do zara zara zara zara",ac_off
+mehfil ka mahaul bana do,party_mode
+mukhya darwaza khol do ab zara zara,door_open
+zara mukhya darwaza khula hai kya ab,door_status
+jaldi se hum ghar aa gaye hain zara zara,welcome_home
+zara kamre mein kitni nami hai na,humidity_status
+jaldi se pankha bandh kar do,fan_off
+pankha chalu kar do na,fan_on
+kripya kya koi gaana chal raha hai,music_status
+jaldi se khidki bandh kar do na,window_close
+abhi mukhya darwaze ka haal batao zara zara zara,door_status
+kamre ka AC chala do,ac_on
+"haan, kamra aur thanda kar do, taapmaan badha do",temperature_up
+zara suraksha alarm laga do na,alarm_on
+"heater ka haal batao, andaaza nahi lagana zara zara",heater_status
+abhi darwaza band karke tala laga do ab,lock_door
+"haan, garmi mein chupchaap baithe rahenge, pankha chala do zara zara",fan_on
+ghar ki sab vyavastha ka haal batao na,home_status
+abhi AC bandh kar do,ac_off
+kripya abhi taapmaan kya hai,temperature_status
+zara kamre ko garam kar do,temperature_up
+"wah, pankhon ko dekhne ke liye chhat par chadhte hain, tum bata do zara zara",fans_status
+"haan, subah samay par uthna bilkul zaroori nahi, alarm band kar do zara zara zara",alarm_off
+kamre ki khidki khuli hai kya zara zara,window_status
+"haan, bijli kharch karte raho, TV band kar do zara zara",tv_off
+"film ka samay hai, ab ghar ko bhi film dekhne layak bana do",movie_mode
+kripya kamre mein roshni kar do,light_on
+"wah, bahar jaana hai to band darwaze se hi jayenge, darwaza khol do zara zara zara zara",door_open
+kamre ka AC chala do zara zara,ac_on
+abhi mukhya darwaza band karo ab,door_close
+TV ka haal batao zara zara zara,tv_status
+"ghar ki suraksha batao, kismat par nahi chhodna zara zara",security_status
+abhi main ghar se ja raha hoon turant,leaving_home
+jaldi se ghar ko sone ke liye taiyar kar do na,sleep_mode
+taapmaan badha do na,temperature_up
+kripya gaana baja do na,music_on
+jaldi se taapmaan kam kar do na,temperature_down
+jaldi se AC band kar do,ac_off
+AC shuru kar do zara zara zara,ac_on
+"haan, darwaza khula chhod dena hi sabse surakshit hai, tala laga do",lock_door
+khidki laga do,window_close
+television ki sthiti kya hai zara zara,tv_status
+zara darwaza khula hai ya band ab,door_status
+jaldi se ghar surakshit hai ya nahi,security_status
+kya AC chalu hai zara zara,ac_status
+mere bahar jaane par ghar ki vyavastha kar do ab,away_mode
+abhi ghar ko khaali ghar wali vyavastha par karo,away_mode
+"khidki ki sthiti batao, andaaza nahi lagana zara zara zara",window_status
+abhi ghar ka taapmaan batao zara zara,temperature_status
+"ghar khaali rahega, phir bhi sab vyavastha theek kar do",away_mode
+kripya kya khidki khuli hai,window_status
+"wah, bahar jaana hai to band darwaze se hi jayenge, darwaza khol do zara zara zara",door_open
+mukhya darwaze par tala laga do,lock_door
+abhi film ke liye ghar taiyar kar do ab,movie_mode
+"AC ka haal batao, andaza lagane se kaam nahi chalega zara zara zara zara",ac_status
+kripya main bahar ja rahi hoon,leaving_home
+kripya aapatkaal hai,emergency
+kripya ghar mein turant madad ki zarurat hai zara zara zara,emergency
+"haan, kamre ko barfkhana bana rehne do, AC band kar do zara zara zara",ac_off
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara zara zara",good_night
+zara pankha chalu kar do,fan_on
+heater chalu hai ya band,heater_status
+jaldi se kamre ka taapmaan kitna hai turant,temperature_status
+jaldi se ab batti band kar do,light_off
+abhi darwaze ka tala khol do,unlock_door
+"wah, film dekhne ke liye ghar ko thoda sambhal hi lete hain zara zara",movie_mode
+zara sone ka samay aa gaya,good_night
+pankha rok do turant,fan_off
+kripya hawa ke liye khidki khol do,window_open
+zara kamre ka TV chala do,tv_on
+kamre ki khidki kholo,window_open
+TV band kar do na,tv_off
+zara raat ki shubhkamnayein ab,good_night
+TV chalu karo na,tv_on
+abhi film dekhne wali vyavastha chalu kar do zara zara,movie_mode
+abhi darwaza khol do,door_open
+"aaj jashn hai, ghar ko bhi bata do ki chup nahi rehna zara zara zara",party_mode
+ghar mein gaane chala do zara zara zara,music_on
+sab battiyon ki sthiti batao ab,lights_status
+jaldi se main ghar se ja rahi hoon,leaving_home
+zara ghar mein gaane chala do na zara zara,music_on
+kamre ka heater chala do zara zara,heater_on
+"TV ki sthiti batao, khud jaakar nahi dekhna zara zara",tv_status
+jaldi se ghar ka haal dekh kar batao,home_status
+kripya ghar ki sthiti kya hai zara zara,home_status
+abhi TV shuru kar do na zara zara,tv_on
+TV ka haal batao na,tv_status
+abhi ghar ko sone ke liye taiyar kar do na,sleep_mode
+abhi gaane chala do turant,music_on
+"sone ka samay aa gaya, ab ghar ko bhi sula do",sleep_mode
+kripya pankha bandh kar do,fan_off
+kripya kamre ka taapmaan kitna hai,temperature_status
+"jaldi se bahut badi samasya hai, turant madad chahiye na",emergency
+jaldi se ghar ka haal dekh kar batao ab,home_status
+jaldi se kamre ki roshni bujha do ab,light_off
+khidki khuli hai ya band na,window_status
+zara khidki bandh kar do zara zara,window_close
+main ghar se ja rahi hoon zara zara zara,leaving_home
+abhi film dekhne ka mahaul bana do ab,movie_mode
+abhi main bahar ja raha hoon ab,leaving_home
+abhi suraksha ghanti chalu kar do ab,alarm_on
+kripya darwaza bina tale ke kar do turant,unlock_door
+abhi sone ka mahaul bana do ab,sleep_mode
+jaldi se gaana rok do ab,music_off
+jaldi se heater band hai ya chalu na,heater_status
+zara heater band kar do,heater_off
+kripya ab sone ki taiyari kar do zara zara zara,sleep_mode
+"haan, TV poori raat khaali kamre ko dikhata rahe, band kar do zara zara",tv_off
+abhi darwaze mein tala laga do turant,lock_door
+abhi gaane chala do,music_on
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do zara zara",door_close
+zara batti bujha do turant,light_off
+"khidki khol do, kamra dabba jo bana hua hai zara zara zara zara",window_open
+khidki kholni hai ab,window_open
+"wah, sannata hi sannata hai, gaane baja do zara zara",music_on
+ghar ki sab vyavastha ka haal batao,home_status
+"wah, TV band rehna hi sabse achha manoranjan hai, chala do",tv_on
+jaldi se kamre ka heater band karo,heater_off
+darwaza kholna hai,door_open
+abhi jashn ka mahaul bana do turant,party_mode
+"haan, TV ko dekhna bahut mushkil kaam hai, tum hi batao zara zara zara",tv_status
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do",door_close
+kripya batti bujha do,light_off
+TV ka haal batao zara zara zara zara,tv_status
+zara sab pankhon ka haal batao ab,fans_status
+ghar mein turant madad ki zarurat hai turant,emergency
+"wah, battiyon ka haal to hawa bata degi, phir bhi batao",lights_status
+jaldi se gaane chal rahe hain ya nahi ab,music_status
+zara taapmaan badha do ab,temperature_up
+"haan, khidki khuli hai ya band, hawa se hi pata chal jayega; phir bhi batao zara zara zara zara",window_status
+jaldi se darwaza khula hai ya band zara zara,door_status
+abhi ghar ka taapmaan batao ab zara zara,temperature_status
+zara gaane band kar do turant,music_off
+jaldi se kamre ka heater band karo zara zara zara,heater_off
+abhi AC ka haal batao,ac_status
+jaldi se ghar ka suraksha alarm sakriya kar do turant,alarm_on
+abhi heater rok do turant,heater_off
+"haan, kamre ko barfkhana bana rehne do, AC band kar do zara zara",ac_off
+jaldi se khidki khuli hai ya band na zara zara,window_status
+main bahar ja rahi hoon zara zara,leaving_home
+"tala khol do, warna darwaza dekhte hi reh jayenge zara zara",unlock_door
+kripya cinema jaisa mahaul bana do ab,movie_mode
+"kamra to waise hi bhatti bana hua hai, AC chala do",ac_on
+jaldi se darwaza khula hai ya band na,door_status
+kripya khidki band karni hai na,window_close
+zara kamre ko thanda kar do,temperature_down
+jaldi se heater chal raha hai ya nahi,heater_status
+abhi bahut zaroori madad chahiye turant,emergency
+"heater ka haal batao, andaaza nahi lagana",heater_status
+"haan, hawa andar aati rahe, khidki band kar do zara zara zara",window_close
+"haan, ghar ki suraksha ka pata andaaze se laga lenge, phir bhi batao",security_status
+sab pankhon ka haal batao na,fans_status
+"wah, ek aur subah aa gayi, suprabhat zara zara zara",good_morning
+ghar ki suraksha jaanch lo zara zara,security_status
+sone ka mode chalu kar do turant,sleep_mode
+"AC se to garmi aa rahi hai, band kar do zara zara zara zara",ac_off
+jaldi se gaane bajna band kar do turant,music_off
+zara bahut zaroori madad chahiye na,emergency
+gaane band kar do turant,music_off
+taapmaan batao turant,temperature_status
+kripya kamra garam kar do,temperature_up
+"bijli muft mil rahi hai, pankha band kar do zara zara zara",fan_off
+kripya main wapas ghar aa gaya,welcome_home
+"ghar khaali rahega, phir bhi sab vyavastha theek kar do zara zara zara zara zara zara",away_mode
+jaldi se khidki khuli hai ya band na,window_status
+kripya darwaza band hai ya khula na,door_status
+kripya heater chalu hai ya band na,heater_status
+"kamra to bilkul garam hai, heater chala do zara zara",heater_on
+abhi pankha band kar do na,fan_off
+abhi gaane chal rahe hain ya nahi na,music_status
+jaldi se darwaze ka tala khol do,unlock_door
+"haan, heater ko dekh kar hi pata chal jayega, phir bhi sthiti batao",heater_status
+abhi sangeet chalu kar do ab,music_on
+"wah, andaza laga loon, tum taapmaan bata do",temperature_status
+AC chala do na zara zara,ac_on
+zara AC rok do na,ac_off
+zara kya AC chalu hai ab,ac_status
+kamre ka taapmaan kitna hai na,temperature_status
+zara darwaza laga do na,door_close
+ghar ki sabhi cheezon ki sthiti batao na,home_status
+abhi batti bujha do turant,light_off
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do zara zara zara zara zara zara",lock_door
+kya AC chalu hai ab,ac_status
+jaldi se kamre ki roshni bujha do,light_off
+jaldi se ghar ko mere jaane ke liye taiyar kar do ab,away_mode
+abhi pankha chala do,fan_on
+kamre ki roshni chalu karo,light_on
+kripya gaana rok do ab,music_off
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai zara zara zara zara zara zara zara",emergency
+"wah, sangeet ki sthiti kaise jaanenge, tum batao zara zara",music_status
+"haan, kisi ko bhi andar aane do, darwaza tala laga do zara zara zara",lock_door
+zara pankha chalu hai ya band,fans_status
+jaldi se andhera hai roshni kar do ab,light_on
+zara mukhya darwaza band karo turant,door_close
+ghar mein gaane chala do,music_on
+jaldi se battiyon ka haal batao zara zara,lights_status
+ghar mein aapatkaal hai,emergency
+jaldi se mehfil ka mahaul bana do ab,party_mode
+gaanon ki sthiti kya hai turant,music_status
+"wah, suraksha ki kya zarurat, bas bharosa rakho; sthiti batao",security_status
+jaldi se gaanon ki sthiti kya hai,music_status
+kya khidki khuli hai na,window_status
+AC bandh kar do zara zara,ac_off
+kripya AC bandh kar do ab,ac_off
+kripya main wapas ghar aa gaya na,welcome_home
+kamre ka taapmaan kitna hai ab,temperature_status
+"TV ko bhi thoda kaam de do, chala do",tv_on
+khidki laga do turant,window_close
+abhi darwaza khula hai ya band,door_status
+AC shuru kar do,ac_on
+kripya kamre ke pankhe ki sthiti batao ab,fans_status
+"haan, poore ghar mein ghoom kar sab dekh leta hoon, tum hi haal bata do zara zara zara",home_status
+kripya ghar ka poora haal batao,home_status
+jaldi se pankha rok do ab,fan_off
+ghar ka taapmaan batao zara zara,temperature_status
+kripya ghar mein sangeet chal raha hai ya nahi zara zara,music_status
+abhi suraksha ghanti band kar do,alarm_off
+jaldi se aapko suprabhat na,good_morning
+kripya darwaza tala laga do ab,lock_door
+cinema jaisa mahaul bana do,movie_mode
+darwaze ki sthiti kya hai,door_status
+kripya main bahar ja raha hoon,leaving_home
+kripya heater rok do na,heater_off
+kripya ab ghar se nikalna hai zara zara,leaving_home
+jaldi se heater band kar do,heater_off
+abhi suraksha vyavastha ka haal batao,security_status
+kamre ke heater ki sthiti kya hai zara zara,heater_status
+pankha chal raha hai ya nahi turant,fans_status
+zara darwaze ka tala khol do,unlock_door
+kripya hawa ki nami kya hai turant,humidity_status
+"haan, thand mein kaampte rahenge, heater chala do zara zara",heater_on
+zara sone ka mode chalu kar do,sleep_mode
+"wah, AC ki awaaz sun kar sab samajh aa gaya, phir bhi sthiti batao zara zara",ac_status
+sone ki vyavastha kar do turant,sleep_mode
+"darwaza khol do, warna deewar se nikalna padega",door_open
+ghar mein sab theek hai ya nahi ab,home_status
+"haan, khidki khud bata degi, phir bhi sthiti batao",window_status
+zara hawa rokne ke liye khidki band kar do,window_close
+abhi khidki band hai ya khuli ab,window_status
+zara pankha chala do,fan_on
+alarm laga kar rakho,alarm_on
+suraksha vyavastha ka haal batao zara zara,security_status
+kamre ka AC band karo,ac_off
+television chala do,tv_on
+jaldi se heater chala do ab,heater_on
+"haan, heater ko dekh kar hi pata chal jayega, phir bhi sthiti batao zara zara",heater_status
+ghar ko jashn ke liye taiyar kar do,party_mode
+"taapmaan bata do, dimaag padhne ki machine to hai nahi zara zara",temperature_status
+kripya sangeet rok do na zara zara zara,music_off
+kamre mein kitni garami hai,temperature_status
+zara darwaza laga do,door_close
+"ghar wapas aa gaya, ab ghar ko bhi bata do",welcome_home
+abhi ghar ki sthiti kya hai ab,home_status
+"ghar khaali rahega, phir bhi sab vyavastha theek kar do zara zara zara",away_mode
+abhi ghar ki sab vyavastha ka haal batao,home_status
+abhi ab pankha band kar do,fan_off
+battiyan chalu hain ya band turant,lights_status
+jaldi se main wapas ghar aa gaya na,welcome_home
+kripya heater chala do turant,heater_on
+abhi TV chala do turant,tv_on
+kamre ki batti jala do ab,light_on
+abhi kamre ko thanda kar do,temperature_down
+kripya ghar ka darwaza band kar do turant,door_close
+abhi AC rok do turant,ac_off
+kripya ghar mein sangeet chal raha hai ya nahi,music_status
+"haan, ghar mein awaaz ki bilkul kami hai, sangeet chala do zara zara",music_on
+jaldi se khidki kholni hai,window_open
+abhi AC chalu kar do,ac_on
+batti chalu kar do zara zara zara zara,light_on
+taapmaan thoda badha do,temperature_up
+kripya aapatkaal ki sthiti hai,emergency
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara zara zara",fans_status
+"wah, kamra bilkul thanda hai, taapmaan aur kam kar do zara zara",temperature_down
+jaldi se main wapas ghar aa gaya,welcome_home
+"haan, ghar ne mera intezar hi nahi kiya hoga, main ghar aa gaya hoon zara zara zara",welcome_home
+jashn wali vyavastha chalu kar do turant,party_mode
+zara bahar wali khidki khol do na,window_open
+"haan, kamra kitna garam hai aankhon se dekh lenge, phir bhi batao zara zara zara zara",temperature_status
+"wah, ab sone ka samay bhi aa gaya, shubh ratri",good_night
+jaldi se AC ka haal batao ab zara zara,ac_status
+ghar ko sone ke liye taiyar kar do turant,sleep_mode
+"bahut thand ho gayi hai, AC band kar do",ac_off
+abhi shubh ratri,good_night
+zara gaane bajna band kar do,music_off
+jaldi se darwaza band karke tala laga do,lock_door
+pankha chal raha hai ya nahi,fans_status
+zara khidki kholkar rakho na,window_open
+zara darwaze mein tala laga do ab,lock_door
+abhi taapmaan thoda badha do turant,temperature_up
+"battiyon ki sthiti batao, jaadu se pata nahi chalega zara zara zara zara",lights_status
+"aaj ghar mein jashn hai, taiyari kar do ab",party_mode
+zara ab AC band kar do na,ac_off
+sangeet baja do turant,music_on
+zara sangeet rok do na,music_off
+"haan, poore ghar mein ghoom kar sab dekh leta hoon, tum hi haal bata do zara zara",home_status
+"roshni ki koi zarurat hi nahi hai, phir bhi batti jala do zara zara zara",light_on
+kripya kamra kitna garam hai na zara zara,temperature_status
+kamre ko thanda kar do zara zara,temperature_down
+abhi AC shuru kar do na zara zara,ac_on
+sangeet rok do ab,music_off
+kripya hawa mein nami kitni hai,humidity_status
+kripya ab sone ki taiyari kar do zara zara,sleep_mode
+abhi ghar ka darwaza band kar do,door_close
+abhi raat ki shubhkamnayein,good_night
+"wah, andaza laga loon, tum taapmaan bata do zara zara zara",temperature_status
+kripya ghar mein sangeet chal raha hai ya nahi ab,music_status
+abhi heater chalu hai ya band,heater_status
+kripya film dekhne ka mode chalu kar do,movie_mode
+hawa ke liye pankha chala do na,fan_on
+darwaze ka tala khol do zara zara,unlock_door
+abhi pankha chalu hai ya band na,fans_status
+ab raat ho gayi ab zara zara,good_night
+"kamre ko bhatti bana do, phir taapmaan kam kar do zara zara zara zara",temperature_down
+"wah, kal der se uthna bahut zaroori hai, alarm chalu kar do",alarm_on
+"darwaze ki sthiti batao, jaakar dekhne ka mann nahi zara zara",door_status
+abhi kamre mein heater chalu karo turant zara zara,heater_on
+jaldi se ghar mein roshni ka kya haal hai na,lights_status
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao zara zara zara zara zara zara",music_status
+ghar ka alarm chalu karo,alarm_on
+kripya bahar jaane ki vyavastha chalu kar do ab,away_mode
+khidki ki sthiti kya hai na,window_status
+zara hawa ke liye khidki khol do zara zara,window_open
+jaldi se TV chalna band kar do,tv_off
+ghar ka suraksha alarm sakriya kar do,alarm_on
+kripya TV rok do zara zara,tv_off
+main bahar ja rahi hoon na,leaving_home
+"haan, subah to aa hi gayi, phir bhi shubh prabhat",good_morning
+"wah, AC ki awaaz sun kar sab samajh aa gaya, phir bhi sthiti batao zara zara zara",ac_status
+"main ghar se nikal raha hoon, ghar ki vyavastha badal do turant zara zara",away_mode
+kripya nayi subah mubarak,good_morning
+"haan, raat bhar jagte rahenge, phir bhi sone ki vyavastha kar do zara zara zara",sleep_mode
+suraksha alarm laga do turant,alarm_on
+zara television chala do na,tv_on
+"wah, ghar ka haal bina dekhe hi pata chal jayega, phir bhi batao",home_status
+zara ab heater band kar do,heater_off
+pankha band kar do turant,fan_off
+khidki khol do,window_open
+abhi gaane bajna band kar do na,music_off
+abhi khidki khuli hai ya band na,window_status
+alarm chalu kar do na,alarm_on
+abhi kamre ki khidki khuli hai kya na,window_status
+zara heater band kar do na zara zara,heater_off
+abhi sone ka samay aa gaya,good_night
+jaldi se AC chala do,ac_on
+"haan, khidki band rakhenge aur hawa ki ummeed karenge, kholo zara zara",window_open
+abhi kamre ki roshni chalu karo zara zara zara,light_on
+ghar mein gaane band karo,music_off
+kamre ka TV chala do zara zara,tv_on
+jaldi se kamre mein AC chalu karo ab,ac_on
+jaldi se mehfil ka mahaul bana do,party_mode
+ab TV band karo ab,tv_off
+abhi main ghar se ja rahi hoon na,leaving_home
+"kamra bahut garam ho gaya hai, heater band kar do zara zara zara zara",heater_off
+"wah, TV chalu hai ya nahi iska andaaza laga lete hain, phir bhi batao",tv_status
+khidki bandh kar do na,window_close
+zara khidki khol do ab,window_open
+kripya kya gaane baj rahe hain turant,music_status
+jaldi se darwaza band karke tala laga do zara zara,lock_door
+ghar surakshit hai kya turant zara zara,security_status
+darwaza bandh kar do na,door_close
+main ghar se ja raha hoon zara zara,leaving_home
+jaldi se hawa ki nami kya hai,humidity_status
+zara ab pankha band kar do,fan_off
+abhi gaana baja do na,music_on
+darwaze ka tala khol do,unlock_door
+jaldi se shubh prabhat turant,good_morning
+"haan, TV ko dekhna bahut mushkil kaam hai, tum hi batao zara zara zara zara zara",tv_status
+kripya kamre mein AC chalu karo,ac_on
+TV chalu hai ya band ab,tv_status
+abhi TV chala do zara zara,tv_on
+heater band hai ya chalu zara zara zara,heater_status
+mukhya darwaza band karo,door_close
+"khidki band kar do, hawa ko bhi chhutti de do",window_close
+mukhya darwaza khula hai kya,door_status
+"wah, kamre ko gufa bana diya hai, batti jala do",light_on
+abhi mukhya darwaza khol do,door_open
+ghar ko khaali ghar wali vyavastha par karo zara zara zara,away_mode
+kripya khidki bandh kar do ab,window_close
+ghar ka suraksha alarm sakriya kar do turant,alarm_on
+sone ka samay aa gaya,good_night
+jaldi se ab TV band karo,tv_off
+zara nayi subah mubarak,good_morning
+battiyan chalu hain ya band zara zara zara,lights_status
+kripya bahut zaroori madad chahiye na,emergency
+batti bujha do,light_off
+"haan, batti poori raat jalne do, phir band kar do zara zara zara",light_off
+kripya kamre ki roshni bujha do,light_off
+kamre ki khidki band karo,window_close
+abhi kamre ki nami batao,humidity_status
+TV chalna band kar do ab,tv_off
+"wah, taazi hawa ki koi zarurat nahi, phir bhi khidki kholo",window_open
+kripya ghar mein sangeet chal raha hai ya nahi zara zara zara,music_status
+abhi hawa ki nami kya hai,humidity_status
+kripya heater chal raha hai ya nahi ab,heater_status
+"kamra bahut thanda hai na, pankha chala do zara zara zara zara zara",fan_on
+abhi TV ka haal batao,tv_status
+"haan, TV dekhne ki koi zarurat nahi, phir bhi chala do zara zara zara",tv_on
+"wah, kamra bilkul thanda hai, taapmaan aur kam kar do",temperature_down
+"haan, heater chal raha hai ya nahi, haath laga kar dekhte hain; phir bhi batao zara zara zara",heater_status
+"aaj ghar mein jashn hai, taiyari kar do na",party_mode
+kaun si battiyan jal rahi hain na,lights_status
+"haan, ghar ki suraksha ka pata andaaze se laga lenge, phir bhi batao zara zara",security_status
+"wah, bina dekhe TV chalana bahut zaroori hai, band kar do zara zara zara zara",tv_off
+zara taapmaan batao ab,temperature_status
+abhi kamra garam kar do na,temperature_up
+kripya TV shuru kar do ab,tv_on
+taapmaan badha do,temperature_up
+kripya heater chalu kar do turant,heater_on
+kripya heater chal raha hai ya nahi,heater_status
+jaldi se kamre mein AC chalu karo,ac_on
+"jaldi se main bahar ja raha hoon, ghar ko surakshit kar do",away_mode
+abhi kamre mein AC chalu karo turant,ac_on
+main ghar se ja rahi hoon turant zara zara,leaving_home
+zara ghar ko khaali ghar wali vyavastha par karo,away_mode
+jaldi se ab AC band kar do,ac_off
+kripya ghar ko sone ke liye taiyar kar do,sleep_mode
+zara sone ka samay aa gaya na,good_night
+gaane chal rahe hain ya nahi turant zara zara,music_status
+jaldi se pankha chal raha hai ya nahi,fans_status
+sone ka samay aa gaya ab,good_night
+zara heater chalna band kar do turant,heater_off
+kripya kamre ki batti jala do zara zara,light_on
+sangeet chalu kar do turant,music_on
+abhi ghar ka alarm chalu karo,alarm_on
+AC band kar do ab,ac_off
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara zara zara zara",heater_on
+jaldi se bahar jaane ki vyavastha chalu kar do na,away_mode
+"haan, kisi ko andar aane hi nahi dena, phir bhi tala khol do zara zara zara zara",unlock_door
+jaldi se ghar ka suraksha alarm sakriya kar do,alarm_on
+"kamra bahut thanda hai na, pankha chala do zara zara zara zara zara zara",fan_on
+jaldi se AC shuru kar do zara zara,ac_on
+abhi TV chalu kar do ab,tv_on
+zara kamre mein roshni kar do na,light_on
+kripya pankha band kar do,fan_off
+kamre ka pankha band karo na,fan_off
+kripya hum ghar se nikal rahe hain turant,leaving_home
+"haan, aankhen band karke pata laga lenge kaunsi batti jal rahi hai, haal batao zara zara zara",lights_status
+jaldi se heater bandh kar do na,heater_off
+abhi kamre ka heater chala do,heater_on
+darwaza band karke tala laga do,lock_door
+ghar ka darwaza kholo,door_open
+kripya mukhya darwaza band karo ab,door_close
+ghar ko sone ke liye taiyar kar do,sleep_mode
+abhi kamre mein roshni kar do,light_on
+"haan, garmi mein hi maze karenge, AC chala do",ac_on
+ghar mein sab theek hai ya nahi zara zara,home_status
+ghar mein aapatkaal hai zara zara zara,emergency
+kripya suraksha alarm band karo turant zara zara,alarm_off
+kripya ghar ka suraksha alarm sakriya kar do ab,alarm_on
+kripya ghar ka poora haal batao na,home_status
+gaane bajana shuru karo,music_on
+zara ghar ka haal dekh kar batao ab zara zara,home_status
+hawa rokne ke liye khidki band kar do,window_close
+abhi hawa ki nami kya hai turant,humidity_status
+kamre mein kitni nami hai na,humidity_status
+kripya TV chalu kar do,tv_on
+"roshni ki koi zarurat hi nahi hai, phir bhi batti jala do",light_on
+"haan, khidki khuli hai ya band, hawa se hi pata chal jayega; phir bhi batao zara zara",window_status
+kamre ko thanda kar do,temperature_down
+zara khidki bandh kar do turant zara zara,window_close
+kripya ghar mein roshni ka kya haal hai turant,lights_status
+"haan, raat bhar jagte rahenge, phir bhi sone ki vyavastha kar do zara zara zara zara",sleep_mode
+"haan, main ja raha hoon, ghar ko bhi bata do ki ab akela rehna hai",away_mode
+jaldi se batti bujha do,light_off
+abhi kamre ka taapmaan ghata do,temperature_down
+zara ghar mein aapatkaal hai,emergency
+heater chalna band kar do na,heater_off
+pankha chalna band kar do turant,fan_off
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara",good_night
+kripya TV chalna band kar do,tv_off
+abhi abhi taapmaan kya hai turant,temperature_status
+khidki band karni hai ab,window_close
+mukhya darwaze ka haal batao,door_status
+abhi main bahar ja raha hoon ab zara zara,leaving_home
+zara kaun se pankhe chal rahe hain,fans_status
+jaldi se heater chalna band kar do ab,heater_off
+abhi taapmaan batao,temperature_status
+mukhya darwaze par tala laga do ab,lock_door
+kripya sangeet rok do ab,music_off
+TV band hai ya chalu turant,tv_status
+kamre ki khidki khuli hai kya na,window_status
+"haan, darwaza khula chhodkar suraksha karenge, band kar do",door_close
+abhi AC shuru kar do na zara zara zara,ac_on
+"haan, sab surakshit hoga hi, phir bhi suraksha ka haal batao",security_status
+"haan, aakhir ghar ki yaad aa hi gayi, wapas aa gaya hoon zara zara",welcome_home
+jaldi se mukhya darwaze ka tala khol do,unlock_door
+zara subah ho gayi na,good_morning
+jaldi se hum ghar se nikal rahe hain turant,leaving_home
+kripya gaane bajna band kar do,music_off
+jaldi se sangeet baja do,music_on
+jaldi se gaane bajna band kar do ab,music_off
+kripya mukhya darwaza kholo ab,door_open
+AC chalna band kar do zara zara,ac_off
+zara darwaza khol do na,door_open
+battiyan chalu hain ya band turant zara zara,lights_status
+"battiyon ki sthiti batao, jaadu se pata nahi chalega zara zara",lights_status
+darwaza khula hai ya band na,door_status
+zara kamre ki khidki khuli hai kya,window_status
+"haan, barf banne se pehle heater chala do zara zara zara",heater_on
+zara TV chalu hai ya band,tv_status
+zara ab TV band karo ab zara zara,tv_off
+"main ghar se nikal raha hoon, ghar ki vyavastha badal do turant",away_mode
+abhi darwaze ka tala hata do na zara zara,unlock_door
+kamre ki khidki band karo zara zara,window_close
+zara TV chalu karo turant,tv_on
+zara kamre ka taapmaan kitna hai,temperature_status
+kripya pankha chalu hai ya band ab,fans_status
+TV chalna band kar do ab zara zara,tv_off
+abhi alarm hata do turant,alarm_off
+"alarm ko bhi aaram de do, band kar do zara zara zara zara zara",alarm_off
+kamre mein garami badha do,temperature_up
+TV chalna band kar do,tv_off
+"TV ko bhi thoda kaam de do, chala do zara zara zara zara zara zara",tv_on
+abhi TV chal raha hai ya nahi,tv_status
+abhi ab pankha band kar do zara zara,fan_off
+"haan, garmi mein hi maze karenge, AC chala do zara zara zara",ac_on
+kripya darwaza bina tale ke kar do,unlock_door
+jaldi se alarm hata do na,alarm_off
+kripya ghar surakshit hai ya nahi zara zara,security_status
+zara kamre ki roshni bujha do zara zara zara,light_off
+jaldi se battiyon ka haal batao,lights_status
+"nami bata do, andaza lagane ka mann nahi hai zara zara",humidity_status
+"wah, kamra bilkul thanda hai, taapmaan aur kam kar do zara zara zara zara",temperature_down
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do",lock_door
+kripya pankha chalu hai ya band na,fans_status
+zara pankha bandh kar do,fan_off
+"wah, sangeet ki sthiti kaise jaanenge, tum batao zara zara zara",music_status
+abhi ghar ka darwaza band kar do zara zara,door_close
+zara kamre mein pankha chalu karo na,fan_on
+"wah, TV band rehna hi sabse achha manoranjan hai, chala do zara zara",tv_on
+zara TV band kar do,tv_off
+zara bahar wala darwaza khol do zara zara,door_open
+"nami bata do, andaza lagane ka mann nahi hai",humidity_status
+jaldi se suraksha alarm band karo turant,alarm_off
+abhi ghar mein roshni ka kya haal hai zara zara,lights_status
+ghar ka taapmaan batao na zara zara,temperature_status
+gaana baja do ab,music_on
+zara jashn ka mahaul bana do ab zara zara,party_mode
+"khamoshi ka maza kharab karte hain, gaane chala do",music_on
+abhi hawa mein nami kitni hai na,humidity_status
+"haan, bahar ka mausam ghar mein le aate hain, khidki band kar do zara zara",window_close
+jaldi se sangeet ka haal batao turant,music_status
+abhi mukhya darwaza khol do ab,door_open
+zara cinema jaisa mahaul bana do,movie_mode
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai zara zara",emergency
+jaldi se taapmaan thoda ghata do,temperature_down
+"bahut badi samasya hai, turant madad chahiye zara zara",emergency
+"haan, khidki band rakhenge aur hawa ki ummeed karenge, kholo zara zara zara zara",window_open
+mukhya darwaza kholo ab,door_open
+abhi roshni band kar do,light_off
+jaldi se AC chala do ab,ac_on
+jaldi se kya gaane baj rahe hain na,music_status
+jaldi se main bahar ja rahi hoon na,leaving_home
+jaldi se ghar mein turant madad ki zarurat hai ab,emergency
+"haan, andhera bahut sundar hai, ab batti jala do",light_on
+ghar surakshit hai ya nahi,security_status
+jaldi se taapmaan kam kar do,temperature_down
+"haan, ghar chhodne ka shauk hai, main nikal raha hoon",leaving_home
+kripya kya AC chalu hai na zara zara,ac_status
+jaldi se aapatkaal hai,emergency
+"haan, alarm ki awaaz se hi din ki shuruaat honi chahiye, laga do zara zara",alarm_on
+abhi TV shuru kar do na,tv_on
+"haan, darwaza khula hai ya band, dekhne ke liye ghar se bahar jaate hain; tum batao zara zara zara zara",door_status
+zara ghar mein roshni ka kya haal hai,lights_status
+"wah, sabko ghar mein aane do, phir darwaza band kar do zara zara",door_close
+zara kamre ka pankha band karo turant,fan_off
+jaldi se hum ghar se nikal rahe hain na,leaving_home
+jaldi se suraksha vyavastha ka haal batao ab,security_status
+jaldi se raat ki shubhkamnayein na,good_night
+shubh ratri,good_night
+zara darwaza khol do,door_open
+jaldi se nami ka haal batao,humidity_status
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do zara zara",lock_door
+jaldi se kamre ki batti ki sthiti batao turant,lights_status
+jaldi se sab pankhon ka haal batao turant,fans_status
+zara sangeet band kar do ab,music_off
+ghar ka alarm chalu karo zara zara zara,alarm_on
+jaldi se taapmaan kam kar do zara zara,temperature_down
+"haan, paseene se naha lete hain, AC chala do zara zara zara",ac_on
+jaldi se ghar surakshit hai kya turant zara zara,security_status
+jaldi se khidki kholni hai zara zara,window_open
+"haan, hawa andar aati rahe, khidki band kar do",window_close
+zara mukhya darwaze ka tala khol do zara zara,unlock_door
+zara heater band hai ya chalu ab,heater_status
+kripya kya AC chalu hai turant,ac_status
+"haan, garami ka maza kharab kar do, taapmaan ghata do zara zara",temperature_down
+"wah, thandi hawa bahut achhi hai, phir bhi khidki band karo zara zara",window_close
+jaldi se khidki ki sthiti kya hai turant,window_status
+abhi bahar wala darwaza band karo turant,door_close
+ghar mein sangeet chal raha hai ya nahi na,music_status
+jaldi se alarm rok do turant,alarm_off
+TV bandh kar do zara zara,tv_off
+roshni band kar do ab zara zara,light_off
+"haan, kisi ko bhi andar aane do, darwaza tala laga do",lock_door
+nayi subah mubarak ab,good_morning
+"jaldi se main bahar ja raha hoon, ghar ko surakshit kar do zara zara",away_mode
+"ghar ko mehfil bana diya hai, ab gaane band kar do zara zara zara",music_off
+"haan, garmi mein hi maze karenge, AC chala do zara zara",ac_on
+abhi darwaza bina tale ke kar do ab,unlock_door
+jaldi se ghar ka darwaza kholo na,door_open
+taapmaan thoda ghata do na,temperature_down
+abhi heater band hai ya chalu,heater_status
+suraksha alarm laga do zara zara,alarm_on
+mukhya darwaze ka haal batao zara zara,door_status
+film dekhne ka mode chalu kar do na,movie_mode
+kripya ghar ka taapmaan batao,temperature_status
+"khidki ki sthiti batao, andaaza nahi lagana zara zara",window_status
+"jaldi se main bahar ja raha hoon, ghar ko surakshit kar do ab",away_mode
+zara heater bandh kar do na zara zara,heater_off
+abhi kamre ka taapmaan badha do na,temperature_up
+"haan, darwaza band hi rehne do, phir bhi khol do",door_open
+"khidki khol do, kamra dabba jo bana hua hai",window_open
+jaldi se ghar ki sab vyavastha ka haal batao na,home_status
+zara alarm rok do turant,alarm_off
+abhi film dekhne ka mode chalu kar do,movie_mode
+darwaza kholne ke liye tala hata do ab,unlock_door
+ab TV band karo ab zara zara,tv_off
+kripya sangeet rok do,music_off
+jaldi se darwaze ka tala khol do zara zara,unlock_door
+"heater ka haal batao, andaaza nahi lagana zara zara zara zara",heater_status
+jaldi se pankha chalu hai ya band turant,fans_status
+abhi nami kitni hai,humidity_status
+kamre ki batti ki sthiti batao turant,lights_status
+kripya heater chalu hai ya band turant,heater_status
+ghar ko khaali ghar wali vyavastha par karo zara zara,away_mode
+suraksha alarm band karo zara zara zara,alarm_off
+abhi AC chalna band kar do,ac_off
+zara kamre ki roshni bujha do,light_off
+abhi kamre ki batti jala do,light_on
+abhi TV chalu karo na,tv_on
+batti jala do ab,light_on
+jaldi se ghar ka alarm band kar do na,alarm_off
+"haan, batti poori raat jalne do, phir band kar do",light_off
+"zara ab film dekhni hai, sab taiyar karo turant",movie_mode
+TV bandh kar do ab,tv_off
+"haan, TV dekhne ki koi zarurat nahi, phir bhi chala do",tv_on
+zara hawa ki nami kya hai,humidity_status
+"haan, hawa ko pakad kar naap lenge, phir bhi nami batao",humidity_status
+jaldi se suraksha ki sthiti kya hai turant,security_status
+pankha rok do zara zara,fan_off
+"wah, bahar jaana hai to band darwaze se hi jayenge, darwaza khol do",door_open
+"heater ne kamre ko tandoor bana diya, band kar do zara zara zara zara",heater_off
+"alarm ko bhi aaram de do, band kar do zara zara",alarm_off
+zara AC chalna band kar do na,ac_off
+kripya kamre mein kitni nami hai,humidity_status
+abhi ab sone ki taiyari kar do turant,sleep_mode
+jaldi se AC bandh kar do,ac_off
+ghar ka taapmaan batao zara zara zara,temperature_status
+zara darwaza laga do turant,door_close
+kripya ghar ki suraksha ka haal batao zara zara,security_status
+khidki bandh kar do ab,window_close
+kripya mukhya darwaza kholo,door_open
+abhi sab pankhon ka haal batao na,fans_status
+zara heater chalu hai ya band,heater_status
+"heater ne kamre ko tandoor bana diya, band kar do",heater_off
+kripya TV chalu karo,tv_on
+"haan, kamre ko barfkhana bana rehne do, AC band kar do",ac_off
+cinema jaisa mahaul bana do zara zara,movie_mode
+kripya kamre ka taapmaan badha do,temperature_up
+kripya kamre ki batti jala do,light_on
+kripya hawa mein nami kitni hai ab,humidity_status
+"kripya main bahar ja raha hoon, ghar ko surakshit kar do ab zara zara",away_mode
+darwaze mein tala laga do zara zara,lock_door
+kripya kamra garam kar do zara zara,temperature_up
+sangeet rok do na,music_off
+jaldi se ghar ka suraksha alarm sakriya kar do ab,alarm_on
+zara ghar surakshit hai kya,security_status
+kamre mein heater chalu karo na,heater_on
+kripya kamre ki roshni bujha do ab,light_off
+zara kamre ki batti ki sthiti batao zara zara,lights_status
+kripya alarm laga kar rakho,alarm_on
+khidki ka haal batao,window_status
+zara main ghar aa gayi hoon,welcome_home
+"haan, kal uthna to hai hi nahi, alarm hata do zara zara zara",alarm_off
+TV chalu hai ya band turant,tv_status
+zara heater shuru kar do na,heater_on
+jaldi se aapko suprabhat,good_morning
+zara TV chal raha hai ya nahi,tv_status
+"haan, hawa ko pakad kar naap lenge, phir bhi nami batao zara zara",humidity_status
+"wah, khidki ka haal jaanne ke liye khidki dekhni padegi, tum batao",window_status
+"haan, kamra thanda hai to AC hoga hi, phir bhi batao zara zara zara zara",ac_status
+"tala khol do, warna darwaza dekhte hi reh jayenge",unlock_door
+zara kaun se pankhe chal rahe hain zara zara zara zara,fans_status
+jaldi se ab heater band kar do,heater_off
+"haan, gaane to bilkul sunai nahi de rahe, band kar do zara zara",music_off
+ghar mein gaane chala do zara zara,music_on
+AC chala do na,ac_on
+jaldi se kamre ke heater ki sthiti kya hai na,heater_status
+sone ka mahaul bana do na,sleep_mode
+zara thandak ke liye AC chala do,ac_on
+jaldi se TV ka haal batao,tv_status
+kripya television band kar do na,tv_off
+pankha bandh kar do na,fan_off
+daawat ke liye ghar taiyar kar do,party_mode
+ghar mein aapatkaal hai zara zara,emergency
+mukhya darwaza band karo zara zara,door_close
+abhi gaane bajna band kar do zara zara,music_off
+abhi TV bandh kar do turant,tv_off
+kya heater chalu hai zara zara,heater_status
+abhi sangeet band kar do zara zara,music_off
+abhi kamre mein kitni nami hai na,humidity_status
+"wah, ghar ko bina dekhe chhod dete hain, phir bhi surakshit kar do",away_mode
+battiyon ka haal batao na,lights_status
+jaldi se TV shuru kar do ab,tv_on
+sone ka mode chalu kar do ab zara zara,sleep_mode
+"haan, khidki band rakhenge aur hawa ki ummeed karenge, kholo",window_open
+abhi battiyon ka haal batao,lights_status
+"haan, heater ko dekh kar hi pata chal jayega, phir bhi sthiti batao zara zara zara zara",heater_status
+mehfil ka mahaul bana do ab,party_mode
+"bijli bachane ki to koi zarurat nahi, batti band kar do",light_off
+zara heater band hai ya chalu ab zara zara,heater_status
+kripya gaane chal rahe hain ya nahi zara zara,music_status
+"haan, bijli kharch karte raho, TV band kar do",tv_off
+kripya suraksha ghanti band kar do,alarm_off
+"haan, andhere mein hi baithe rahenge, batti jala do zara zara",light_on
+"haan, aapatkaal mein aaram se baithte hain, nahi, turant madad chahiye",emergency
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai zara zara zara zara zara",emergency
+"kamra bahut thanda hai na, pankha chala do zara zara zara zara zara zara zara",fan_on
+darwaza band karke tala laga do turant zara zara,lock_door
+jaldi se subah ki namaskar na zara zara,good_morning
+"wah, bahar jaana hai to band darwaze se hi jayenge, darwaza khol do zara zara",door_open
+jaldi se ghar ka taapmaan batao turant,temperature_status
+abhi khidki khol do na zara zara,window_open
+kripya main bahar ja rahi hoon na,leaving_home
+"wah, suraksha ki kya zarurat, bas bharosa rakho; sthiti batao zara zara",security_status
+zara AC chalu hai ya band,ac_status
+"wah, sannata hi sannata hai, gaane baja do zara zara zara",music_on
+kripya sangeet chalu kar do,music_on
+abhi sangeet band kar do,music_off
+jaldi se suprabhat ab,good_morning
+kripya TV rok do,tv_off
+"haan, TV poori raat khaali kamre ko dikhata rahe, band kar do zara zara zara",tv_off
+zara nami ka haal batao,humidity_status
+abhi mere bahar jaane par ghar ki vyavastha kar do zara zara,away_mode
+abhi ghar mein aapatkaal hai ab,emergency
+TV bandh kar do,tv_off
+"kamra bahut garam ho gaya hai, heater band kar do",heater_off
+abhi batti jala do na,light_on
+jaldi se kamre ka pankha band karo ab,fan_off
+jaldi se ghar mein sab theek hai ya nahi,home_status
+abhi gaane bajna band kar do,music_off
+"wah, kamra hamesha roshan hi rakhenge, batti bujha do zara zara zara zara",light_off
+kripya bahar wali khidki khol do,window_open
+hawa rokne ke liye khidki band kar do zara zara,window_close
+kamre ke AC ki sthiti kya hai,ac_status
+"sone ka samay aa gaya, ab ghar ko bhi sula do zara zara zara zara zara",sleep_mode
+zara khidki ki sthiti kya hai,window_status
+"abhi main ghar se nikal raha hoon, ghar ki vyavastha badal do ab",away_mode
+abhi pankhon ka haal batao turant,fans_status
+zara khidki khuli hai ya band,window_status
+jaldi se AC rok do zara zara,ac_off
+"alarm ko bhi aaram de do, band kar do",alarm_off
+"haan, hawa andar aati rahe, khidki band kar do zara zara zara zara zara",window_close
+kripya film dekhne wali vyavastha chalu kar do,movie_mode
+jaldi se khidki laga do,window_close
+abhi darwaza bina tale ke kar do zara zara,unlock_door
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara zara zara zara zara zara",good_night
+"haan, aur thanda kar do kamra, AC band kar do zara zara",ac_off
+kya koi gaana chal raha hai turant,music_status
+zara television chala do,tv_on
+jaldi se nami ka haal batao zara zara,humidity_status
+kamre mein garami badha do turant,temperature_up
+pankha chal raha hai ya nahi ab,fans_status
+abhi TV chalu hai ya band na,tv_status
+abhi kamre ki batti ki sthiti batao turant,lights_status
+TV band kar do,tv_off
+"haan, ghar ne mera intezar hi nahi kiya hoga, main ghar aa gaya hoon zara zara zara zara",welcome_home
+"khamoshi ka maza kharab karte hain, gaane chala do zara zara",music_on
+abhi ghar ka haal dekh kar batao,home_status
+ab batti band kar do na,light_off
+gaane band kar do na,music_off
+"haan, paseena bahana hi tha, ab pankha chala do zara zara",fan_on
+ghar ki sabhi cheezon ki sthiti batao turant,home_status
+gaane bajna band kar do zara zara zara,music_off
+khidki band kar do,window_close
+"haan, thand mein kaampte rahenge, heater chala do",heater_on
+jaldi se suraksha ki sthiti kya hai na,security_status
+abhi main ghar se ja rahi hoon,leaving_home
+taapmaan thoda badha do turant,temperature_up
+"haan, ghar ne mera intezar hi nahi kiya hoga, main ghar aa gaya hoon zara zara",welcome_home
+"kripya bahut badi samasya hai, turant madad chahiye",emergency
+zara darwaze ka tala khol do zara zara,unlock_door
+ghar ki sab vyavastha ka haal batao zara zara zara,home_status
+jaldi se mukhya darwaza kholo na,door_open
+abhi gaane chal rahe hain ya nahi turant,music_status
+kripya taapmaan badha do na,temperature_up
+"ghar ki suraksha batao, kismat par nahi chhodna zara zara zara zara zara zara zara",security_status
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri",good_night
+"wah, pankhon ko dekhne ke liye chhat par chadhte hain, tum bata do zara zara zara",fans_status
+"haan, TV ko dekhna bahut mushkil kaam hai, tum hi batao",tv_status
+kamre mein kitni nami hai turant,humidity_status
+heater chalna band kar do,heater_off
+"jaldi se main bahar ja raha hoon, ghar ko surakshit kar do na",away_mode
+"kamra bahut thanda hai, ise aur garam kar do zara zara zara zara zara",temperature_up
+"haan, bina taiyari ke jashn karenge, phir bhi ghar taiyar kar do",party_mode
+kripya khidki kholkar rakho turant,window_open
+jaldi se garami ke liye heater chala do zara zara,heater_on
+kripya heater rok do na zara zara,heater_off
+zara kamre ki khidki band karo turant,window_close
+"TV ki sthiti batao, khud jaakar nahi dekhna",tv_status
+"wah, khidki ka haal jaanne ke liye khidki dekhni padegi, tum batao zara zara zara zara zara",window_status
+jaldi se sone ki vyavastha kar do,sleep_mode
+zara kamre mein thandak badha do turant,temperature_down
+jaldi se gaane bajana shuru karo na,music_on
+abhi kamre ka pankha chala do,fan_on
+jaldi se shubh ratri ab,good_night
+"haan, ghar mein rehna bahut aasan tha, phir bhi nikal raha hoon zara zara zara zara",leaving_home
+abhi darwaze ka tala hata do,unlock_door
+jaldi se main ghar aa gaya hoon ab,welcome_home
+abhi kamre ka TV chala do na,tv_on
+jaldi se main wapas ghar aa gaya ab,welcome_home
+abhi kamre mein thandak badha do,temperature_down
+zara khidki ki sthiti kya hai zara zara,window_status
+abhi hawa ke liye khidki khol do,window_open
+jaldi se sangeet ka haal batao ab,music_status
+jaldi se kya gaane baj rahe hain,music_status
+zara hum ghar aa gaye hain,welcome_home
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do zara zara zara zara zara zara zara",door_close
+sone ka mode chalu kar do ab,sleep_mode
+jaldi se ab TV band karo zara zara,tv_off
+khidki ki sthiti kya hai zara zara,window_status
+jaldi se gaane band kar do,music_off
+zara mukhya darwaze ka haal batao,door_status
+abhi sangeet ka haal batao ab,music_status
+"wah, bina dekhe TV chalana bahut zaroori hai, band kar do zara zara",tv_off
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara zara",fans_status
+jaldi se kamre ke pankhe ki sthiti batao zara zara,fans_status
+AC bandh kar do zara zara zara,ac_off
+abhi pankha chalu kar do na zara zara,fan_on
+"wah, ghar ka haal bina dekhe hi pata chal jayega, phir bhi batao zara zara zara",home_status
+jaldi se AC chalna band kar do,ac_off
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara",good_night
+jaldi se pankha band kar do ab,fan_off
+kripya bahut zaroori madad chahiye,emergency
+TV band hai ya chalu na,tv_status
+"haan, garami ki kya zarurat, phir bhi taapmaan badha do zara zara zara zara",temperature_up
+zara heater chal raha hai ya nahi,heater_status
+jaldi se kamre ki batti band karo ab,light_off
+kya khidki khuli hai,window_status
+kripya ab raat ho gayi turant,good_night
+"wah, hawa bahut achhi hai, phir bhi pankha band kar do",fan_off
+zara jashn wali vyavastha chalu kar do ab,party_mode
+sab battiyon ki sthiti batao,lights_status
+pankha chal raha hai ya nahi turant zara zara,fans_status
+"ghar wapas aa gaya, ab ghar ko bhi bata do zara zara zara zara",welcome_home
+kamre mein kitni garami hai zara zara,temperature_status
+ghar surakshit hai ya nahi turant,security_status
+abhi ab sone ki taiyari kar do ab,sleep_mode
+abhi nami kitni hai na,humidity_status
+abhi ghar wapas aa gaya hoon turant,welcome_home
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao zara zara zara zara zara",music_status
+zara ghar ki sthiti kya hai,home_status
+jaldi se darwaza band hai ya khula,door_status
+kripya battiyon ka haal batao turant,lights_status
+mukhya darwaze ka tala khol do zara zara zara,unlock_door
+"haan, aakhir ghar ki yaad aa hi gayi, wapas aa gaya hoon zara zara zara",welcome_home
+jaldi se kamre mein pankha chalu karo zara zara,fan_on
+jaldi se TV chal raha hai ya nahi na,tv_status
+kripya ghar surakshit hai kya,security_status
+abhi darwaza tala laga do na,lock_door
+"haan, pankha chalne do aur garmi badhne do, band kar do zara zara",fan_off
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara zara zara zara zara zara zara",fans_status
+abhi sone ka mode chalu kar do,sleep_mode
+ghar pahunch gaya hoon,welcome_home
+zara alarm laga kar rakho,alarm_on
+abhi ghar ki sab vyavastha ka haal batao zara zara,home_status
+abhi television ki sthiti kya hai,tv_status
+kamre ka pankha chala do zara zara zara zara zara,fan_on
+kripya pankha chalna band kar do zara zara zara,fan_off
+kripya kamre ki batti ki sthiti batao na,lights_status
+"haan, alarm ki awaaz se hi din ki shuruaat honi chahiye, laga do",alarm_on
+bahar wala darwaza band karo,door_close
+"wah, hawa bahut achhi hai, phir bhi pankha band kar do zara zara zara zara zara",fan_off
+jaldi se garami ke liye heater chala do ab,heater_on
+kamre ko garam kar do zara zara zara,temperature_up
+kamra garam kar do na,temperature_up
+AC chal raha hai ya nahi turant,ac_status
+"haan, aapatkaal mein aaram se baithte hain, nahi, turant madad chahiye zara zara zara zara zara",emergency
+abhi daawat ke liye ghar taiyar kar do ab,party_mode
+kripya AC chal raha hai ya nahi,ac_status
+ab sone ki taiyari kar do,sleep_mode
+"haan, heater ko dekh kar hi pata chal jayega, phir bhi sthiti batao zara zara zara",heater_status
+jaldi se pankha bandh kar do zara zara,fan_off
+shubh prabhat,good_morning
+ghar mein gaane chala do na,music_on
+zara darwaza band hai ya khula ab,door_status
+abhi darwaze ka tala hata do na,unlock_door
+main bahar ja rahi hoon,leaving_home
+"main ghar se nikal raha hoon, ghar ki vyavastha badal do ab",away_mode
+sone ka maza kharab karne ke liye alarm laga do zara zara,alarm_on
+zara alarm hata do ab,alarm_off
+suraksha alarm laga do turant zara zara,alarm_on
+kya AC chalu hai ab zara zara,ac_status
+"haan, barf banne se pehle heater chala do",heater_on
+kripya pankha chalna band kar do,fan_off
+kripya ab sone ka samay hai turant,good_night
+abhi ghar ka alarm band kar do ab,alarm_off
+heater chalu kar do na,heater_on
+zara kamre ki roshni chalu karo ab,light_on
+"wah, thandi hawa bahut achhi hai, phir bhi khidki band karo zara zara zara",window_close
+darwaza band hai ya khula zara zara,door_status
+kripya heater band kar do na zara zara,heater_off
+"bijli muft mil rahi hai, pankha band kar do zara zara zara zara zara",fan_off
+abhi TV chal raha hai ya nahi na,tv_status
+abhi mukhya darwaze ka haal batao zara zara,door_status
+"wah, AC ki awaaz sun kar sab samajh aa gaya, phir bhi sthiti batao",ac_status
+jaldi se film dekhne ka mode chalu kar do,movie_mode
+jaldi se kamre ki khidki kholo turant,window_open
+jaldi se cinema jaisa mahaul bana do turant zara zara,movie_mode
+ghar pahunch gaya hoon na,welcome_home
+abhi pankha chalu hai ya band,fans_status
+AC rok do,ac_off
+jaldi se heater band hai ya chalu zara zara,heater_status
+kripya kamra kitna garam hai,temperature_status
+kripya pankha chala do ab,fan_on
+abhi alarm band kar do,alarm_off
+"wah, ek aur subah aa gayi, suprabhat zara zara zara zara zara",good_morning
+AC band kar do ab zara zara,ac_off
+abhi kamre ki roshni chalu karo na,light_on
+abhi suraksha ghanti chalu kar do,alarm_on
+film dekhne wali vyavastha chalu kar do turant,movie_mode
+ghar ki suraksha jaanch lo,security_status
+kripya gaane bajana shuru karo ab,music_on
+sone ka samay aa gaya zara zara zara,good_night
+abhi kamre mein AC chalu karo ab,ac_on
+abhi batti bujha do ab,light_off
+"bijli muft mil rahi hai, pankha band kar do",fan_off
+abhi TV band hai ya chalu,tv_status
+kripya ab AC band kar do turant,ac_off
+kripya sangeet rok do na zara zara,music_off
+TV chalu kar do na,tv_on
+jaldi se TV bandh kar do zara zara zara zara,tv_off
+"abhi aaj ghar mein jashn hai, taiyari kar do zara zara",party_mode
+aapko suprabhat,good_morning
+nami ka haal batao,humidity_status
+jaldi se kamre ko thanda kar do,temperature_down
+subah ki namaskar turant,good_morning
+zara pankhon ka haal batao,fans_status
+abhi bahar jaane ki vyavastha chalu kar do turant,away_mode
+kripya pankha laga do turant zara zara,fan_on
+abhi AC band hai ya chalu,ac_status
+"taapmaan bata do, dimaag padhne ki machine to hai nahi zara zara zara",temperature_status
+jaldi se suraksha ghanti band kar do zara zara zara,alarm_off
+abhi TV chal raha hai ya nahi ab,tv_status
+jaldi se ab ghar se nikalna hai zara zara,leaving_home
+jaldi se alarm hata do,alarm_off
+abhi kamra thanda kar do ab,temperature_down
+bahar jaane ki vyavastha chalu kar do,away_mode
+taapmaan thoda ghata do turant,temperature_down
+sone ka maza kharab karne ke liye alarm laga do zara zara zara,alarm_on
+abhi mukhya darwaze ka haal batao zara zara zara zara,door_status
+abhi kamre mein heater chalu karo turant,heater_on
+AC rok do ab,ac_off
+jaldi se suprabhat,good_morning
+abhi kamre ki khidki khuli hai kya,window_status
+abhi suraksha vyavastha ka haal batao ab,security_status
+zara ab ghar se nikalna hai na,leaving_home
+"thandak ki kya zarurat hai, phir bhi AC chala do zara zara zara zara zara",ac_on
+zara kamre ki batti jala do,light_on
+zara ghar ka haal dekh kar batao ab,home_status
+abhi pankha chalu kar do na,fan_on
+jaldi se ghar surakshit hai kya turant,security_status
+kripya darwaza laga do ab,door_close
+kamre ka heater chala do,heater_on
+abhi hawa ke liye khidki khol do turant,window_open
+batti chalu kar do na zara zara,light_on
+heater shuru kar do zara zara zara,heater_on
+TV rok do,tv_off
+abhi kamre ka pankha band karo ab,fan_off
+"haan, har kamre mein jaakar dekh leta hoon, tum hi bata do zara zara zara zara zara",lights_status
+"wah, darwaza hamesha band rahe, tala khol do zara zara",unlock_door
+kripya TV chalna band kar do zara zara,tv_off
+kripya darwaza tala laga do zara zara zara,lock_door
+kripya AC chala do ab,ac_on
+kamre mein kitni garami hai zara zara zara,temperature_status
+jaldi se suraksha ki sthiti kya hai na zara zara,security_status
+kripya khidki band hai ya khuli na,window_status
+kripya sangeet baja do,music_on
+"kamra bahut thanda hai na, pankha chala do zara zara zara",fan_on
+shubh raatri zara zara,good_night
+"wah, itni tez khamoshi hai, sangeet band kar do zara zara",music_off
+zara kamre ka AC chala do ab,ac_on
+abhi ghar mein gaane chala do ab,music_on
+kripya ab sone ki taiyari kar do,sleep_mode
+kya darwaza khula hai,door_status
+"wah, battiyon ka haal to hawa bata degi, phir bhi batao zara zara",lights_status
+kamre mein pankha chalu karo na,fan_on
+suprabhat,good_morning
+"haan, raat bhar jagte rahenge, phir bhi sone ki vyavastha kar do",sleep_mode
+jaldi se khidki khol do zara zara,window_open
+abhi TV rok do,tv_off
+zara shubh ratri turant,good_night
+sone ka mode chalu kar do na,sleep_mode
+"haan, bahar ka mausam ghar mein le aate hain, khidki band kar do",window_close
+zara gaane chala do zara zara zara zara,music_on
+hawa ke liye khidki khol do na,window_open
+zara kamre ki batti ki sthiti batao,lights_status
+"kamra bahut thanda hai na, pankha chala do zara zara zara zara zara zara zara zara zara",fan_on
+kripya mukhya darwaze par tala laga do na,lock_door
+"wah, hawa ki kya zarurat, phir bhi pankha chala do",fan_on
+zara AC band kar do,ac_off
+ghar ka darwaza kholo ab,door_open
+abhi kamre ki nami batao ab,humidity_status
+TV bandh kar do zara zara zara,tv_off
+mukhya darwaza khula hai kya zara zara,door_status
+zara heater band kar do turant,heater_off
+kripya AC ka haal batao na,ac_status
+zara ghar ki sab vyavastha ka haal batao,home_status
+heater chalu kar do zara zara,heater_on
+abhi ghar ka taapmaan batao ab,temperature_status
+jaldi se jashn ka mahaul bana do,party_mode
+jaldi se ghar mein sab theek hai ya nahi ab,home_status
+"haan, pankhon ki awaaz se sab pata chal gaya, phir bhi haal batao zara zara",fans_status
+abhi pankha chalu kar do,fan_on
+daawat ke liye ghar taiyar kar do zara zara,party_mode
+jaldi se AC ka haal batao ab,ac_status
+abhi aapko suprabhat,good_morning
+kripya ab batti band kar do,light_off
+kamre ke heater ki sthiti kya hai ab,heater_status
+zara kamre mein garami badha do turant,temperature_up
+kripya pankha chalna band kar do ab,fan_off
+"bahut badi samasya hai, turant madad chahiye zara zara zara",emergency
+"wah, sannata hi sannata hai, gaane baja do zara zara zara zara",music_on
+sone ka samay aa gaya turant,good_night
+jaldi se pankha chalna band kar do,fan_off
+main ghar se ja raha hoon zara zara zara,leaving_home
+main wapas ghar aa gaya ab zara zara,welcome_home
+TV ka haal batao ab,tv_status
+kripya daawat ke liye ghar taiyar kar do turant,party_mode
+abhi hum ghar aa gaye hain zara zara,welcome_home
+"haan, ghar mein khamoshi hai, phir bhi sangeet ka haal batao zara zara",music_status
+jaldi se ghar ka alarm chalu karo ab,alarm_on
+kamre ke pankhe ki sthiti batao,fans_status
+jaldi se darwaza tala laga do,lock_door
+kamre ka taapmaan ghata do turant,temperature_down
+jaldi se mukhya darwaza khol do,door_open
+jaldi se kamre ka taapmaan ghata do na,temperature_down
+"haan, kamra kitna garam hai aankhon se dekh lenge, phir bhi batao",temperature_status
+jaldi se cinema jaisa mahaul bana do turant,movie_mode
+zara TV bandh kar do turant,tv_off
+abhi film dekhne ka mode chalu kar do ab,movie_mode
+kamre mein thandak badha do zara zara,temperature_down
+jaldi se battiyon ka haal batao turant,lights_status
+darwaza laga do,door_close
+kamre ki khidki band karo turant,window_close
+jaldi se gaana rok do turant,music_off
+zara sangeet chalu kar do turant,music_on
+zara bahar jaane ki vyavastha chalu kar do zara zara,away_mode
+zara kya AC chalu hai na,ac_status
+jaldi se kamre mein roshni kar do na,light_on
+abhi alarm chalu kar do na,alarm_on
+abhi khidki kholni hai turant,window_open
+"sab kuchh bahut badhiya hai... nahi, turant sahayata chahiye",emergency
+zara shubh ratri,good_night
+kripya ghar ki suraksha ka haal batao,security_status
+zara ab pankha band kar do ab,fan_off
+"haan, pankha zindagi bhar chalne do, phir band kar do zara zara",fan_off
+"zara aaj ghar mein jashn hai, taiyari kar do na",party_mode
+kripya pankha laga do na,fan_on
+abhi main bahar ja rahi hoon na,leaving_home
+jaldi se ab pankha band kar do,fan_off
+abhi darwaza tala laga do zara zara,lock_door
+khidki khol do turant,window_open
+jaldi se TV bandh kar do zara zara zara,tv_off
+jaldi se ghar mein aapatkaal hai,emergency
+"AC se to garmi aa rahi hai, band kar do zara zara zara zara zara",ac_off
+abhi heater ka haal batao zara zara,heater_status
+zara battiyon ka haal batao,lights_status
+abhi andhera hai roshni kar do,light_on
+jaldi se raat ke liye ghar taiyar kar do,sleep_mode
+jaldi se alarm band kar do na,alarm_off
+zara kamre mein roshni kar do turant,light_on
+zara gaane bajna band kar do turant,music_off
+zara abhi taapmaan kya hai,temperature_status
+kamre ke heater ki sthiti kya hai,heater_status
+kamre ke heater ki sthiti kya hai zara zara zara,heater_status
+"haan, garmi mein hi pighalte rahenge, taapmaan kam kar do zara zara",temperature_down
+kripya pankha chal raha hai ya nahi na,fans_status
+jaldi se ghar ka taapmaan batao na,temperature_status
+ghar mein gaane band karo ab,music_off
+zara sangeet chalu kar do,music_on
+zara TV chalu hai ya band na,tv_status
+jaldi se film dekhne ka mahaul bana do na,movie_mode
+TV chalu hai ya band,tv_status
+kripya kamre ki batti band karo ab,light_off
+"haan, alarm ki awaaz se hi din ki shuruaat honi chahiye, laga do zara zara zara zara",alarm_on
+kripya ghar ki sthiti kya hai,home_status
+jaldi se batti bujha do zara zara,light_off
+jaldi se AC chalu hai ya band,ac_status
+ghar ka alarm chalu karo ab,alarm_on
+hum ghar se nikal rahe hain turant,leaving_home
+abhi kamre ka pankha band karo,fan_off
+kripya alarm rok do,alarm_off
+"haan, kamra aur thanda kar do, taapmaan badha do zara zara",temperature_up
+ghar ki sab vyavastha ka haal batao turant,home_status
+jaldi se heater ka haal batao na,heater_status
+abhi abhi taapmaan kya hai na,temperature_status
+TV chalu kar do ab,tv_on
+abhi suraksha ghanti chalu kar do na,alarm_on
+"zara main bahar ja raha hoon, ghar ko surakshit kar do turant",away_mode
+kamre ka pankha band karo,fan_off
+"haan, suraj ko bhi sharma denge, batti band kar do zara zara",light_off
+"khamoshi ka maza kharab karte hain, gaane chala do zara zara zara",music_on
+"haan, hawa andar aati rahe, khidki band kar do zara zara zara zara zara zara zara zara",window_close
+abhi mukhya darwaze ka tala khol do,unlock_door
+zara batti band kar do,light_off
+"haan, TV ko dekhna bahut mushkil kaam hai, tum hi batao zara zara zara zara zara zara",tv_status
+"haan, kamra thanda hai to AC hoga hi, phir bhi batao zara zara",ac_status
+ghar ki suraksha ka haal batao na,security_status
+kripya ghar mein sangeet chal raha hai ya nahi zara zara zara zara,music_status
+"wah, darwaze ka haal to deewar bata degi, phir bhi batao",door_status
+abhi hawa ki nami kya hai ab,humidity_status
+abhi ghar ko mere jaane ke liye taiyar kar do ab zara zara,away_mode
+jaldi se sone ka mode chalu kar do ab,sleep_mode
+abhi ghar ki sab vyavastha ka haal batao zara zara zara,home_status
+zara ghar ka haal dekh kar batao na,home_status
+aapko suprabhat na,good_morning
+"ghar khaali rahega, phir bhi sab vyavastha theek kar do zara zara zara zara",away_mode
+zara darwaza khol do zara zara,door_open
+kripya kamre ko garam kar do turant,temperature_up
+"wah, thand mein hi rehna hai, taapmaan badha do zara zara zara",temperature_up
+TV chalu kar do,tv_on
+zara main ghar aa gaya hoon ab,welcome_home
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do zara zara zara zara zara zara zara",lock_door
+mukhya darwaza band karo ab,door_close
+abhi heater chalna band kar do turant,heater_off
+jaldi se kamre mein garami badha do,temperature_up
+abhi mukhya darwaze ka tala khol do zara zara,unlock_door
+abhi ghar wapas aa gaya hoon,welcome_home
+jaldi se AC rok do,ac_off
+cinema jaisa mahaul bana do zara zara zara,movie_mode
+"haan, main ja raha hoon, ghar ko bhi bata do ki ab akela rehna hai zara zara",away_mode
+abhi ab sone ka samay hai turant,good_night
+jaldi se TV band hai ya chalu turant,tv_status
+khidki band karni hai turant,window_close
+zara battiyan chalu hain ya band,lights_status
+jaldi se kya AC chalu hai ab,ac_status
+"haan, darwaza band hi rehne do, phir bhi khol do zara zara zara",door_open
+jaldi se darwaza khol do na,door_open
+zara kamra thanda kar do turant,temperature_down
+kripya darwaza bandh kar do ab,door_close
+zara ghar surakshit hai ya nahi,security_status
+kripya kamre ke AC ki sthiti kya hai ab,ac_status
+"haan, darwaza khula hai ya band, dekhne ke liye ghar se bahar jaate hain; tum batao zara zara zara",door_status
+jaldi se main bahar ja rahi hoon na zara zara,leaving_home
+kripya main bahar ja raha hoon na,leaving_home
+zara TV chalu kar do na,tv_on
+"wah, sabko ghar mein aane do, phir darwaza band kar do zara zara zara",door_close
+"wah, ghar mein mehfil hai aur ghar ko pata hi nahi, taiyari kar do zara zara zara",party_mode
+garami ke liye heater chala do zara zara,heater_on
+jaldi se ab raat ho gayi,good_night
+"haan, garami ka maza kharab kar do, taapmaan ghata do",temperature_down
+jaldi se gaana baja do,music_on
+abhi shubh prabhat,good_morning
+"roshni ki koi zarurat hi nahi hai, phir bhi batti jala do zara zara",light_on
+"haan, nami ka andaaza hawa ko dekh kar laga lenge, phir bhi batao zara zara zara",humidity_status
+zara kamra garam kar do ab,temperature_up
+jaldi se TV chalu hai ya band ab,tv_status
+zara mukhya darwaza khula hai kya,door_status
+ghar ko khaali ghar wali vyavastha par karo ab,away_mode
+jaldi se daawat ke liye ghar taiyar kar do turant,party_mode
+suraksha alarm band karo ab,alarm_off
+kripya TV chalu karo zara zara,tv_on
+abhi taapmaan thoda ghata do,temperature_down
+abhi kya darwaza khula hai,door_status
+zara taapmaan batao,temperature_status
+abhi TV chal raha hai ya nahi zara zara,tv_status
+kripya AC band hai ya chalu,ac_status
+cinema jaisa mahaul bana do ab,movie_mode
+jaldi se AC band hai ya chalu ab,ac_status
+jaldi se khidki khol do turant zara zara,window_open
+jaldi se ghar ka darwaza band kar do,door_close
+"haan, bijli kharch karte raho, TV band kar do zara zara zara zara",tv_off
+zara AC shuru kar do,ac_on
+abhi khidki laga do,window_close
+abhi heater chalu kar do,heater_on
+"wah, kamre ko gufa bana diya hai, batti jala do zara zara",light_on
+zara mehfil ka mahaul bana do turant,party_mode
+AC chalu kar do,ac_on
+jaldi se ab pankha band kar do turant,fan_off
+darwaze mein tala laga do,lock_door
+jaldi se ghar ka poora haal batao na,home_status
+ghar ko mere jaane ke liye taiyar kar do zara zara,away_mode
+"haan, khidki khuli hai ya band, hawa se hi pata chal jayega; phir bhi batao",window_status
+"darwaza band aur tala laga do, warna mehmaan apne aap aa jayenge zara zara",lock_door
+ghar ka taapmaan batao na,temperature_status
+"haan, film dekhni hai, ghar ko bhi samajh aa jana chahiye zara zara zara",movie_mode
+jaldi se suraksha ghanti chalu kar do,alarm_on
+ghar ko mere jaane ke liye taiyar kar do,away_mode
+zara ab raat ho gayi,good_night
+"kamre ko bhatti bana do, phir taapmaan kam kar do zara zara",temperature_down
+jaldi se alarm band kar do,alarm_off
+kripya ghar ka taapmaan batao turant,temperature_status
+kamre ke pankhe ki sthiti batao na,fans_status
+"haan, TV ko dekhna bahut mushkil kaam hai, tum hi batao zara zara",tv_status
+zara kamre ka taapmaan kitna hai ab,temperature_status
+"AC se to garmi aa rahi hai, band kar do zara zara",ac_off
+kya TV chalu hai,tv_status
+abhi pankha chalna band kar do na,fan_off
+kripya batti band kar do,light_off
+zara raat ke liye ghar taiyar kar do ab,sleep_mode
+"raat ho gayi, jaise din khatam hi nahi hona tha, shubh ratri zara zara zara zara zara zara",good_night
+gaane bajna band kar do ab,music_off
+gaane chal rahe hain ya nahi turant,music_status
+TV chala do zara zara,tv_on
+"ghar ka haal batao, poora chakkar lagane ka samay nahi hai",home_status
+"sone ka samay aa gaya, ab ghar ko bhi sula do zara zara",sleep_mode
+"haan, itni khamoshi bahut achhi lag rahi hai, gaane chala do zara zara",music_on
+abhi heater ka haal batao zara zara zara,heater_status
+"AC ka haal batao, andaza lagane se kaam nahi chalega zara zara",ac_status
+zara kamre ki roshni chalu karo,light_on
+"haan, har kamre mein jaakar dekh leta hoon, tum hi bata do zara zara zara zara",lights_status
+abhi kamre ka TV chala do na zara zara,tv_on
+nami ka haal batao ab,humidity_status
+kamre ki khidki kholo turant,window_open
+zara kamre mein thandak badha do na,temperature_down
+abhi bahar wala darwaza band karo,door_close
+"haan, har cheez khud jaanch lunga, phir bhi ghar ki sthiti batao zara zara zara",home_status
+abhi ghar ke darwaze ka tala khol do,unlock_door
+"wah, sangeet ki sthiti kaise jaanenge, tum batao",music_status
+kamre ka taapmaan ghata do zara zara,temperature_down
+kripya ghar mein roshni ka kya haal hai na,lights_status
+abhi kamre ka taapmaan kitna hai na,temperature_status
+roshni band kar do ab,light_off
+film ke liye ghar taiyar kar do ab,movie_mode
+abhi ghar mein aapatkaal hai,emergency
+abhi gaanon ki sthiti kya hai,music_status
+kya AC chalu hai,ac_status
+kripya taapmaan thoda ghata do,temperature_down
+kripya AC chalu hai ya band,ac_status
+kamre ke pankhe ki sthiti batao ab,fans_status
+"abhi aaj ghar mein jashn hai, taiyari kar do",party_mode
+"haan, gaane chal rahe hain ya nahi, kaan se pata chal hi gaya; phir bhi batao zara zara",music_status
+kripya AC rok do ab,ac_off
+"kamre ko bhatti bana do, phir taapmaan kam kar do",temperature_down
+kripya film dekhne ka mahaul bana do,movie_mode
+abhi ghar ki sabhi cheezon ki sthiti batao,home_status
+"haan, ghar khaali chhodkar sab kuchh waise hi rakhenge, phir bhi vyavastha karo zara zara",away_mode
+"zara aaj ghar mein jashn hai, taiyari kar do turant",party_mode
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara zara zara zara zara zara",fans_status
+"haan, bina taiyari ke jashn karenge, phir bhi ghar taiyar kar do zara zara zara",party_mode
+kamre ka pankha chala do zara zara zara,fan_on
+zara kamre ko thanda kar do turant,temperature_down
+kripya ghar ka darwaza band kar do ab,door_close
+kya koi gaana chal raha hai zara zara,music_status
+shubh prabhat zara zara,good_morning
+gaana baja do,music_on
+kripya darwaza bina tale ke kar do na zara zara,unlock_door
+zara nayi subah mubarak zara zara zara,good_morning
+"haan, raat bhar jagte rahenge, phir bhi sone ki vyavastha kar do zara zara zara zara zara",sleep_mode
+zara heater band kar do zara zara,heater_off
+abhi ghar ka alarm chalu karo turant,alarm_on
+zara darwaza khol do turant,door_open
+zara AC band hai ya chalu,ac_status
+abhi ghar ka suraksha alarm sakriya kar do,alarm_on
+TV chala do,tv_on
+zara ghar ke darwaze ko tala laga do turant,lock_door
+zara hawa ke liye pankha chala do ab,fan_on
+kripya garami ke liye heater chala do,heater_on
+kamre ka pankha band karo turant,fan_off
+kripya AC band hai ya chalu zara zara,ac_status
+zara khidki bandh kar do turant,window_close
+jaldi se kamre mein pankha chalu karo,fan_on
+abhi bahut zaroori madad chahiye,emergency
+kamre ko garam kar do ab,temperature_up
+suraksha alarm band karo,alarm_off
+zara khidki khuli hai ya band turant,window_status
+jaldi se nayi subah mubarak,good_morning
+"kripya main bahar ja raha hoon, ghar ko surakshit kar do ab",away_mode
+zara ghar ka haal dekh kar batao turant,home_status
+zara bahar jaane ki vyavastha chalu kar do,away_mode
+main ghar se ja raha hoon,leaving_home
+jaldi se television ki sthiti kya hai na,tv_status
+zara main ghar aa gaya hoon,welcome_home
+jaldi se TV chala do,tv_on
+"ghar ki suraksha batao, kismat par nahi chhodna",security_status
+"haan, thand mein kaampna hi pasand hai, heater band kar do zara zara zara zara zara",heater_off
+abhi batti band kar do turant,light_off
+abhi heater ka haal batao ab,heater_status
+"haan, jashn bilkul chupchaap karenge, phir bhi jashn ki vyavastha karo",party_mode
+zara ghar pahunch gaya hoon,welcome_home
+kripya kya gaane baj rahe hain,music_status
+"khidki khol do, kamra dabba jo bana hua hai zara zara",window_open
+jaldi se subah ki namaskar na,good_morning
+abhi kya AC chalu hai,ac_status
+"haan, film dekhte waqt sab battiyan jalne do, phir bhi film ka mahaul bana do zara zara",movie_mode
+jaldi se darwaza band hai ya khula zara zara,door_status
+jaldi se suraksha alarm laga do,alarm_on
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do zara zara zara zara",door_close
+jaldi se kamre ki batti jala do,light_on
+zara hawa ke liye khidki khol do zara zara zara,window_open
+"gaane chal rahe hain ya nahi, andaaza nahi lagana; batao",music_status
+zara gaane chala do zara zara,music_on
+jaldi se bahar wali khidki khol do na,window_open
+kripya gaane bajna band kar do na,music_off
+zara suraksha ghanti band kar do,alarm_off
+jaldi se TV rok do na,tv_off
+"darwaza khol do, warna deewar se nikalna padega zara zara zara",door_open
+"haan, garmi mein chupchaap baithe rahenge, pankha chala do",fan_on
+abhi batti chalu kar do,light_on
+jaldi se ghar ko jashn ke liye taiyar kar do ab,party_mode
+"haan, darwaza khud bol dega, phir bhi sthiti batao zara zara",door_status
+"haan, sab surakshit hoga hi, phir bhi suraksha ka haal batao zara zara zara",security_status
+jaldi se kamre ka taapmaan badha do zara zara,temperature_up
+kripya kya AC chalu hai,ac_status
+sone ka samay aa gaya zara zara zara zara,good_night
+kripya suraksha ghanti chalu kar do,alarm_on
+"haan, darwaza kholne ki bilkul zarurat nahi, phir bhi kholo zara zara zara",door_open
+jaldi se aapatkaal ki sthiti hai ab,emergency
+"TV ko bhi thoda kaam de do, chala do zara zara zara zara zara",tv_on
+main wapas ghar aa gaya na,welcome_home
+pankha chalu kar do na zara zara,fan_on
+kripya daawat ke liye ghar taiyar kar do,party_mode
+"wah, ghar mein mehfil hai aur ghar ko pata hi nahi, taiyari kar do zara zara",party_mode
+"heater ne kamre ko tandoor bana diya, band kar do zara zara zara",heater_off
+zara ghar mein gaane chala do na,music_on
+"haan, darwaza khula chhodkar suraksha karenge, band kar do zara zara zara zara",door_close
+kamra thanda kar do na,temperature_down
+"haan, kisi ko andar aane hi nahi dena, phir bhi tala khol do zara zara",unlock_door
+"wah, bahar jaana hi baaki tha, ab ghar se ja raha hoon zara zara",leaving_home
+kripya kamre ke pankhe ki sthiti batao,fans_status
+film dekhne ka mode chalu kar do ab,movie_mode
+abhi pankha chala do na,fan_on
+kamre ko garam kar do,temperature_up
+abhi ghar mein roshni ka kya haal hai,lights_status
+"AC se to garmi aa rahi hai, band kar do",ac_off
+jaldi se kya koi gaana chal raha hai turant,music_status
+"kamre ko bhatti bana do, phir taapmaan kam kar do zara zara zara",temperature_down
+abhi suraksha alarm band karo,alarm_off
+jaldi se heater chala do,heater_on
+kripya mukhya darwaza band karo turant zara zara,door_close
+zara sab battiyon ki sthiti batao na,lights_status
+AC chalna band kar do na,ac_off
+zara ab TV band karo ab,tv_off
+jaldi se ghar ki sthiti kya hai,home_status
+jaldi se kya darwaza khula hai,door_status
+khidki kholkar rakho ab,window_open
+"haan, poore ghar mein ghoom kar sab dekh leta hoon, tum hi haal bata do",home_status
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do zara zara zara",lock_door
+kripya suprabhat,good_morning
+"wah, alarm bajta rahe aur sab pareshan hon, band kar do zara zara",alarm_off
+"wah, bahar jaana hi baaki tha, ab ghar se ja raha hoon",leaving_home
+abhi pankha chala do zara zara,fan_on
+kripya khidki band kar do,window_close
+jaldi se bahar wala darwaza khol do,door_open
+abhi AC shuru kar do na,ac_on
+kripya sangeet baja do na,music_on
+jaldi se darwaze mein tala laga do,lock_door
+zara ghar mein gaane chala do,music_on
+taapmaan thoda ghata do,temperature_down
+"haan, garmi mein hi pighalte rahenge, taapmaan kam kar do zara zara zara",temperature_down
+abhi sangeet ka haal batao,music_status
+"roshni ki koi zarurat hi nahi hai, phir bhi batti jala do zara zara zara zara zara zara",light_on
+heater band hai ya chalu,heater_status
+gaane chala do,music_on
+abhi suraksha vyavastha ka haal batao zara zara,security_status
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai",emergency
+"haan, aakhir ghar ki yaad aa hi gayi, wapas aa gaya hoon",welcome_home
+zara AC band kar do ab,ac_off
+jaldi se kamre mein AC chalu karo zara zara,ac_on
+kamre ko garam kar do zara zara,temperature_up
+"wah, hawa bahut achhi hai, phir bhi pankha band kar do zara zara",fan_off
+zara shubh raatri,good_night
+abhi TV rok do ab,tv_off
+pankha chalu kar do,fan_on
+"kamra bahut thanda hai, ise aur garam kar do",temperature_up
+pankha chala do turant,fan_on
+zara pankha band kar do na,fan_off
+jaldi se kamre ke heater ki sthiti kya hai,heater_status
+gaane chal rahe hain ya nahi ab,music_status
+"haan, darwaza khula hai ya band, dekhne ke liye ghar se bahar jaate hain; tum batao",door_status
+bahar wala darwaza band karo na,door_close
+"abhi main ghar se nikal raha hoon, ghar ki vyavastha badal do",away_mode
+abhi khidki khol do na,window_open
+zara ab heater band kar do turant,heater_off
+"haan, ghar ko raat ke liye taiyar kar do, warna sab jagte rahenge zara zara",sleep_mode
+"aaj ghar mein jashn hai, taiyari kar do",party_mode
+kripya kamre mein kitni garami hai turant,temperature_status
+TV chalu hai ya band na,tv_status
+zara ab sone ka samay hai turant,good_night
+kripya raat ke liye ghar taiyar kar do na,sleep_mode
+kamre ke heater ki sthiti kya hai turant,heater_status
+ghar ko jashn ke liye taiyar kar do ab,party_mode
+"ghar ki suraksha batao, kismat par nahi chhodna zara zara zara zara zara zara",security_status
+kripya ghar ka alarm band kar do,alarm_off
+jaldi se film ke liye ghar taiyar kar do na,movie_mode
+zara AC rok do,ac_off
+AC shuru kar do turant,ac_on
+abhi khidki laga do ab,window_close
+"haan, poora mohalla sunta rahe, gaane band kar do",music_off
+zara cinema jaisa mahaul bana do na,movie_mode
+zara sangeet band kar do,music_off
+batti chalu kar do,light_on
+ghar mein sangeet chal raha hai ya nahi ab,music_status
+kripya gaane band kar do,music_off
+"wah, kal der se uthna bahut zaroori hai, alarm chalu kar do zara zara zara zara",alarm_on
+kripya ghar ki sthiti kya hai zara zara zara,home_status
+kamre mein heater chalu karo turant,heater_on
+alarm laga kar rakho turant,alarm_on
+kamre ki khidki khuli hai kya,window_status
+"zara aaj ghar mein jashn hai, taiyari kar do ab",party_mode
+kripya subah ki namaskar turant,good_morning
+abhi nami kitni hai na zara zara zara,humidity_status
+darwaze ka tala khol do ab,unlock_door
+ghar mein gaane chala do ab,music_on
+jaldi se heater ka haal batao ab,heater_status
+"haan, kal uthna to hai hi nahi, alarm hata do zara zara",alarm_off
+"haan, andhera bahut sundar hai, ab batti jala do zara zara zara",light_on
+"haan, har kamre mein jaakar dekh leta hoon, tum hi bata do zara zara zara",lights_status
+kripya pankha laga do turant,fan_on
+abhi shubh prabhat na,good_morning
+jaldi se mukhya darwaza khula hai kya ab,door_status
+kripya nami ka haal batao,humidity_status
+jaldi se sone ka mode chalu kar do,sleep_mode
+kripya kamra kitna garam hai ab,temperature_status
+abhi abhi taapmaan kya hai zara zara,temperature_status
+nayi subah mubarak ab zara zara,good_morning
+"haan, neend poori kahan hui, phir bhi shubh prabhat",good_morning
+jaldi se khidki ka haal batao zara zara zara zara,window_status
+darwaza kholna hai turant,door_open
+zara khidki laga do,window_close
+abhi battiyan chalu hain ya band,lights_status
+jaldi se TV chalu kar do,tv_on
+zara bahar jaane ki vyavastha chalu kar do turant,away_mode
+ghar ke darwaze ka tala khol do zara zara,unlock_door
+kripya ghar ka haal dekh kar batao,home_status
+abhi raat ki shubhkamnayein turant zara zara,good_night
+abhi pankha chalu kar do turant,fan_on
+abhi kamre mein kitni nami hai,humidity_status
+zara kamre mein kitni nami hai,humidity_status
+jaldi se ghar ke darwaze ko tala laga do turant,lock_door
+zara pankha laga do na,fan_on
+jaldi se raat ke liye ghar taiyar kar do ab,sleep_mode
+kripya shubh prabhat,good_morning
+jaldi se kamre mein garami badha do ab,temperature_up
+kripya aapatkaal ki sthiti hai zara zara,emergency
+kripya pankha chalna band kar do turant,fan_off
+kripya kamra kitna garam hai na,temperature_status
+jaldi se khidki band karni hai na,window_close
+zara darwaza khula hai ya band,door_status
+shubh ratri zara zara,good_night
+kripya bahar wali khidki khol do ab,window_open
+khidki ki sthiti kya hai ab,window_status
+zara hawa ke liye khidki khol do,window_open
+zara ghar ke darwaze ka tala khol do,unlock_door
+"wah, suraksha ki kya zarurat, phir bhi darwaze mein tala laga do zara zara zara zara zara",lock_door
+jaldi se TV bandh kar do,tv_off
+"haan, garami ki kya zarurat, phir bhi taapmaan badha do zara zara zara",temperature_up
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara zara",heater_on
+heater bandh kar do,heater_off
+kripya gaane chal rahe hain ya nahi,music_status
+"wah, sannata hi sannata hai, gaane baja do",music_on
+"bahut thand ho gayi hai, AC band kar do zara zara",ac_off
+abhi ghar wapas aa gaya hoon na,welcome_home
+zara darwaza khol do zara zara zara,door_open
+ghar ka alarm band kar do turant,alarm_off
+abhi ab batti band kar do turant,light_off
+gaane chal rahe hain ya nahi turant zara zara zara,music_status
+kripya suraksha alarm band karo turant,alarm_off
+batti jala do na,light_on
+jaldi se TV ka haal batao ab,tv_status
+pankha bandh kar do,fan_off
+zara raat ki shubhkamnayein turant,good_night
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara",heater_on
+main ghar aa gayi hoon na,welcome_home
+jaldi se main ghar se ja rahi hoon turant,leaving_home
+abhi main wapas ghar aa gaya,welcome_home
+kripya darwaza band hai ya khula,door_status
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara zara zara zara zara zara zara",heater_on
+zara bahar wala darwaza band karo ab,door_close
+kamre ki khidki kholo na,window_open
+main ghar se ja rahi hoon,leaving_home
+"subah ho gayi, jaise raat ko pata hi nahi tha, suprabhat zara zara zara",good_morning
+zara kamre ki roshni chalu karo zara zara,light_on
+kamre mein garami badha do ab,temperature_up
+mukhya darwaze ka tala khol do turant,unlock_door
+kripya heater chalna band kar do,heater_off
+zara raat ke liye ghar taiyar kar do,sleep_mode
+abhi taapmaan thoda badha do,temperature_up
+kripya ghar mein turant madad ki zarurat hai zara zara,emergency
+"haan, kamra kitna garam hai aankhon se dekh lenge, phir bhi batao zara zara zara",temperature_status
+"wah, khidki ka haal jaanne ke liye khidki dekhni padegi, tum batao zara zara zara zara",window_status
+heater rok do turant,heater_off
+"haan, ghar chhodne ka shauk hai, main nikal raha hoon zara zara zara zara",leaving_home
+"haan, main ja raha hoon, ghar ko bhi bata do ki ab akela rehna hai zara zara zara",away_mode
+khidki band hai ya khuli,window_status
+suraksha alarm laga do,alarm_on
+khidki kholni hai,window_open
+heater chalu kar do,heater_on
+zara kamre mein kitni garami hai,temperature_status
+zara ab raat ho gayi na,good_night
+"ghar ki suraksha batao, kismat par nahi chhodna zara zara zara",security_status
+"haan, kamra thanda hai to AC hoga hi, phir bhi batao zara zara zara zara zara",ac_status
+jaldi se darwaza band hai ya khula na,door_status
+"kripya ab film dekhni hai, sab taiyar karo turant",movie_mode
+kripya pankha chalu kar do turant,fan_on
+kripya ghar ke darwaze ko tala laga do,lock_door
+darwaze ka tala khol do turant,unlock_door
+jaldi se kamre ko garam kar do na,temperature_up
+"bijli muft mil rahi hai, pankha band kar do zara zara",fan_off
+andhera hai roshni kar do ab,light_on
+"haan, TV dekhne ki koi zarurat nahi, phir bhi chala do zara zara",tv_on
+film dekhne wali vyavastha chalu kar do,movie_mode
+heater shuru kar do,heater_on
+zara television band kar do ab,tv_off
+taapmaan kam kar do,temperature_down
+zara TV bandh kar do ab,tv_off
+jaldi se kamra garam kar do,temperature_up
+jaldi se ab sone ki taiyari kar do zara zara,sleep_mode
+abhi darwaza kholna hai na,door_open
+"kripya main ghar se nikal raha hoon, ghar ki vyavastha badal do",away_mode
+"haan, har kamre mein jaakar dekh leta hoon, tum hi bata do",lights_status
+"haan, suraj ko bhi sharma denge, batti band kar do",light_off
+ab AC band kar do,ac_off
+"kripya bahut badi samasya hai, turant madad chahiye turant",emergency
+zara television band kar do ab zara zara,tv_off
+ghar ko sone ke liye taiyar kar do zara zara,sleep_mode
+jaldi se gaane bajna band kar do,music_off
+"khidki khol do, kamra dabba jo bana hua hai zara zara zara zara zara",window_open
+"ghar ki suraksha batao, kismat par nahi chhodna zara zara zara zara zara",security_status
+"wah, hawa bahut achhi hai, phir bhi pankha band kar do zara zara zara",fan_off
+heater chala do ab,heater_on
+kripya ab ghar se nikalna hai na,leaving_home
+"wah, bina dekhe TV chalana bahut zaroori hai, band kar do",tv_off
+"wah, bahar ki duniya se bachkar wapas aa gaya, main ghar aa gaya",welcome_home
+abhi subah ki namaskar,good_morning
+jaldi se TV shuru kar do,tv_on
+jaldi se subah ho gayi,good_morning
+suraksha ki sthiti kya hai ab,security_status
+jaldi se television ki sthiti kya hai,tv_status
+suraksha ghanti band kar do zara zara,alarm_off
+abhi darwaza kholna hai,door_open
+mukhya darwaza band karo na,door_close
+"aaj jashn hai, ghar ko bhi bata do ki chup nahi rehna zara zara",party_mode
+"aaj jashn hai, ghar ko bhi bata do ki chup nahi rehna zara zara zara zara zara zara",party_mode
+"haan, khidki khuli hai ya band, hawa se hi pata chal jayega; phir bhi batao zara zara zara",window_status
+jaldi se sab battiyon ki sthiti batao ab,lights_status
+sab battiyon ki sthiti batao zara zara,lights_status
+"abhi main bahar ja raha hoon, ghar ko surakshit kar do na",away_mode
+"haan, batti poori raat jalne do, phir band kar do zara zara zara zara zara",light_off
+jaldi se kya TV chalu hai na,tv_status
+jaldi se khidki ka haal batao zara zara zara,window_status
+kripya batti jala do na,light_on
+taapmaan thoda ghata do na zara zara,temperature_down
+AC chalna band kar do,ac_off
+kripya khidki band hai ya khuli ab,window_status
+"haan, aankhen band karke pata laga lenge kaunsi batti jal rahi hai, haal batao",lights_status
+"khidki khol do, kamra dabba jo bana hua hai zara zara zara",window_open
+"film ka samay hai, ab ghar ko bhi film dekhne layak bana do zara zara zara zara zara",movie_mode
+zara gaane chala do,music_on
+"wah, film dekhne ke liye ghar ko thoda sambhal hi lete hain zara zara zara",movie_mode
+"haan, hawa andar aati rahe, khidki band kar do zara zara",window_close
+"haan, hawa aur log dono andar aate rahen, darwaza band kar do zara zara zara zara zara zara",door_close
+ghar ka alarm chalu karo zara zara,alarm_on
+zara andhera hai roshni kar do na,light_on
+"wah, khidki ka haal jaanne ke liye khidki dekhni padegi, tum batao zara zara",window_status
+zara darwaze ki sthiti kya hai,door_status
+kripya taapmaan thoda badha do na,temperature_up
+abhi kamre ka taapmaan ghata do na,temperature_down
+zara TV bandh kar do,tv_off
+AC chal raha hai ya nahi turant zara zara,ac_status
+ghar ki sabhi cheezon ki sthiti batao na zara zara,home_status
+kripya kamre ke pankhe ki sthiti batao zara zara,fans_status
+bahar wala darwaza khol do ab,door_open
+kripya suraksha vyavastha ka haal batao ab,security_status
+kya khidki khuli hai ab,window_status
+"wah, bahar jaana hai to band darwaze se hi jayenge, darwaza khol do zara zara zara zara zara",door_open
+abhi heater band hai ya chalu turant,heater_status
+"haan, kaunsa pankha chal raha hai, iska andaaza laga lete hain; haal batao zara zara",fans_status
+kamre ki roshni chalu karo zara zara,light_on
+abhi gaana rok do,music_off
+kripya mukhya darwaza khol do,door_open
+abhi mehfil ka mahaul bana do na,party_mode
+"haan, ghar ne mera intezar hi nahi kiya hoga, main ghar aa gaya hoon",welcome_home
+zara ghar ke darwaze ko tala laga do,lock_door
+heater ka haal batao na,heater_status
+zara ghar ka poora haal batao,home_status
+"haan, har cheez khud jaanch lunga, phir bhi ghar ki sthiti batao zara zara",home_status
+"haan, AC chal raha hai ya nahi, aankhon se hi dekh lenge; phir bhi batao zara zara",ac_status
+"haan, poora mohalla sunta rahe, gaane band kar do zara zara zara",music_off
+kripya ab raat ho gayi,good_night
+"phir se bahar jaana hai, main ghar se ja raha hoon",leaving_home
+jaldi se sangeet chalu kar do na,music_on
+garami ke liye heater chala do,heater_on
+abhi sangeet chalu kar do turant,music_on
+ghar mein sab theek hai ya nahi,home_status
+"haan, aur garam kar dete hain, heater band kar do",heater_off
+kripya ab raat ho gayi na,good_night
+ab heater band kar do na,heater_off
+kripya nami ka haal batao turant,humidity_status
+abhi heater chalna band kar do,heater_off
+"nami bata do, andaza lagane ka mann nahi hai zara zara zara",humidity_status
+daawat ke liye ghar taiyar kar do turant,party_mode
+ab pankha band kar do na,fan_off
+"AC se to garmi aa rahi hai, band kar do zara zara zara",ac_off
+kamre ke pankhe ki sthiti batao ab zara zara,fans_status
+heater chala do na,heater_on
+jaldi se jashn ka mahaul bana do zara zara,party_mode
+"wah, ek aur subah aa gayi, suprabhat zara zara zara zara",good_morning
+abhi kamre ki batti ki sthiti batao,lights_status
+kamre ka pankha chala do,fan_on
+zara batti chalu kar do,light_on
+kripya kamre ke pankhe ki sthiti batao ab zara zara,fans_status
+"haan, aur thanda kar do kamra, AC band kar do",ac_off
+jashn wali vyavastha chalu kar do zara zara,party_mode
+"haan, andhera bahut sundar hai, ab batti jala do zara zara zara zara",light_on
+jaldi se suraksha alarm laga do na,alarm_on
+"aaj jashn hai, ghar ko bhi bata do ki chup nahi rehna",party_mode
+"haan, paseene se naha lete hain, AC chala do zara zara zara zara",ac_on
+jaldi se ghar surakshit hai ya nahi ab,security_status
+"haan, hawa ko pakad kar naap lenge, phir bhi nami batao zara zara zara",humidity_status
+main bahar ja rahi hoon na zara zara,leaving_home
+kripya raat ki shubhkamnayein ab,good_night
+AC chal raha hai ya nahi ab,ac_status
+abhi ghar mein sangeet chal raha hai ya nahi,music_status
+abhi kamre ka AC band karo,ac_off
+ghar ka taapmaan batao,temperature_status
+zara thandak ke liye AC chala do zara zara,ac_on
+kripya ab batti band kar do na,light_off
+kripya abhi taapmaan kya hai na,temperature_status
+"haan, hawa ko pakad kar naap lenge, phir bhi nami batao zara zara zara zara",humidity_status
+"kamra to bilkul garam hai, heater chala do",heater_on
+"wah, ghar ko bina dekhe chhod dete hain, phir bhi surakshit kar do zara zara zara",away_mode
+zara pankha laga do ab,fan_on
+jaldi se hawa mein nami kitni hai turant,humidity_status
+abhi gaana rok do zara zara,music_off
+kamre ka pankha chala do ab,fan_on
+zara hawa ki nami kya hai zara zara,humidity_status
+"haan, subah samay par uthna bilkul zaroori nahi, alarm band kar do",alarm_off
+jaldi se cinema jaisa mahaul bana do turant zara zara zara,movie_mode
+jaldi se khidki band hai ya khuli ab,window_status
+kripya ghar surakshit hai ya nahi,security_status
+kripya nami ka haal batao ab,humidity_status
+"haan, pankha zindagi bhar chalne do, phir band kar do",fan_off
+"haan, mazaak ka samay nahi hai, ghar mein aapatkaal hai zara zara zara",emergency
+jaldi se batti jala do na,light_on
+kripya kamra thanda kar do na,temperature_down
+abhi roshni band kar do ab,light_off
+zara thandak ke liye AC chala do turant,ac_on
+kripya darwaze mein tala laga do,lock_door
+suraksha vyavastha ka haal batao,security_status
+"haan, andhera bahut sundar hai, ab batti jala do zara zara",light_on
+gaanon ki sthiti kya hai,music_status
+jaldi se garami ke liye heater chala do,heater_on
+jaldi se kamre mein heater chalu karo zara zara,heater_on
+"bahut thand ho gayi hai, AC band kar do zara zara zara",ac_off
+jaldi se ghar ki suraksha jaanch lo,security_status
+kripya darwaza kholne ke liye tala hata do,unlock_door
+battiyan chalu hain ya band,lights_status
+jaldi se TV chalu hai ya band,tv_status
+"phir se bahar jaana hai, main ghar se ja raha hoon zara zara",leaving_home
+kamre ki khidki khuli hai kya na zara zara,window_status
+"AC ka haal batao, andaza lagane se kaam nahi chalega zara zara zara zara zara",ac_status
+kripya TV band hai ya chalu,tv_status
+abhi roshni band kar do zara zara,light_off
+kripya kamre ka AC chala do,ac_on
+kripya taapmaan thoda badha do ab,temperature_up
+jashn wali vyavastha chalu kar do,party_mode
+darwaza bina tale ke kar do,unlock_door
+jaldi se hum ghar aa gaye hain,welcome_home
+"aaj ghar mein jashn hai, taiyari kar do na zara zara",party_mode
+"wah, ek aur subah aa gayi, suprabhat",good_morning
+"haan, kal uthna to hai hi nahi, alarm hata do",alarm_off
+"haan, kamra thanda hai to AC hoga hi, phir bhi batao",ac_status
+khidki ki sthiti kya hai,window_status
+zara khidki band hai ya khuli,window_status
+alarm chalu kar do ab,alarm_on
+TV ka haal batao ab zara zara,tv_status
+taapmaan batao turant zara zara zara,temperature_status
+kya khidki khuli hai zara zara,window_status
+suraksha alarm band karo zara zara,alarm_off
+darwaze ki sthiti kya hai na,door_status
+"wah, andaza laga loon, tum taapmaan bata do zara zara zara zara",temperature_status
+"wah, ek aur subah aa gayi, suprabhat zara zara zara zara zara zara zara zara",good_morning
+kripya pankha chalna band kar do zara zara,fan_off
+jaldi se bahar wala darwaza band karo,door_close
+kamra garam kar do ab,temperature_up
+"haan, darwaza khula chhod dena hi sabse surakshit hai, tala laga do zara zara zara",lock_door
+"haan, TV poori raat khaali kamre ko dikhata rahe, band kar do",tv_off
+abhi darwaza bina tale ke kar do turant,unlock_door
+ghar ko sone ke liye taiyar kar do na,sleep_mode
+jaldi se ab pankha band kar do na,fan_off
+"ghar ko mehfil bana diya hai, ab gaane band kar do zara zara",music_off
+hawa ki nami kya hai turant,humidity_status
+kripya kamre mein pankha chalu karo ab,fan_on
+main bahar ja raha hoon ab zara zara,leaving_home
+"haan, paseene se naha lete hain, AC chala do",ac_on
+main ghar se ja rahi hoon turant,leaving_home
+jaldi se main ghar aa gayi hoon ab,welcome_home
+abhi film dekhne wali vyavastha chalu kar do zara zara zara,movie_mode
+sone ka maza kharab karne ke liye alarm laga do,alarm_on
+alarm rok do,alarm_off
+"TV ko bhi thoda kaam de do, chala do zara zara zara",tv_on
+"wah, hawa bahut achhi hai, phir bhi pankha band kar do zara zara zara zara",fan_off
+"haan, khidki khuli hai ya band, hawa se hi pata chal jayega; phir bhi batao zara zara zara zara zara",window_status
+"TV bhi thak gaya hoga, band kar do zara zara zara",tv_off
+kripya hum ghar aa gaye hain ab,welcome_home
+"kamra bahut garam ho gaya hai, heater band kar do zara zara zara",heater_off
+heater shuru kar do turant,heater_on
+kripya kamre ke heater ki sthiti kya hai na,heater_status
+kripya gaane bajana shuru karo ab zara zara,music_on
+sangeet baja do,music_on
+"wah, darwaza hamesha band rahe, tala khol do",unlock_door
+zara khidki khol do na,window_open
+"haan, hawa andar aati rahe, khidki band kar do zara zara zara zara zara zara",window_close
+zara alarm rok do turant zara zara,alarm_off
+jaldi se ab sone ki taiyari kar do,sleep_mode
+kripya aapatkaal hai zara zara,emergency
+jaldi se pankha chalu hai ya band,fans_status
+jaldi se darwaza surakshit karke tala laga do,lock_door
+jaldi se ghar ki sab vyavastha ka haal batao,home_status
+mere bahar jaane par ghar ki vyavastha kar do,away_mode
+abhi kamre ki batti band karo,light_off
+jaldi se khidki ka haal batao,window_status
+kripya khidki band karni hai,window_close
+ghar ka suraksha alarm sakriya kar do na,alarm_on
+"haan, subah der tak sone denge, alarm laga do",alarm_on
+suraksha ghanti chalu kar do na,alarm_on
+"kripya aaj ghar mein jashn hai, taiyari kar do",party_mode
+abhi ghar surakshit hai kya,security_status
+ab heater band kar do,heater_off
+kripya aapatkaal hai zara zara zara,emergency
+abhi kamre ke pankhe ki sthiti batao,fans_status
+"wah, kamra hamesha roshan hi rakhenge, batti bujha do zara zara",light_off
+"wah, thand mein hi rehna hai, taapmaan badha do",temperature_up
+jaldi se TV chalu karo na,tv_on
+AC shuru kar do zara zara,ac_on
+zara AC band kar do turant,ac_off
+kripya ghar mein aapatkaal hai ab,emergency
+zara kamre ko garam kar do turant,temperature_up
+kripya abhi nami kitni hai ab,humidity_status
+jaldi se kamre ka taapmaan badha do,temperature_up
+zara AC chalu kar do na,ac_on
+jaldi se subah ho gayi na,good_morning
+batti chalu kar do zara zara zara,light_on
+"haan, raat bhar jagte rahenge, phir bhi sone ki vyavastha kar do zara zara",sleep_mode
+kripya hum ghar aa gaye hain,welcome_home
+zara ab sone ki taiyari kar do turant,sleep_mode
+heater shuru kar do zara zara,heater_on
+kamre mein garami badha do ab zara zara,temperature_up
+"haan, thand mein kaampna hi pasand hai, heater band kar do zara zara zara",heater_off
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara zara zara zara zara zara",heater_on
+mukhya darwaza kholo turant,door_open
+"haan, har kamre mein jaakar dekh leta hoon, tum hi bata do zara zara",lights_status
+kripya AC shuru kar do ab,ac_on
+abhi darwaza band hai ya khula,door_status
+abhi TV chalna band kar do turant,tv_off
+abhi kamre ki khidki band karo,window_close
+ghar ke darwaze ko tala laga do ab,lock_door
+kamre mein garami badha do zara zara,temperature_up
+jaldi se taapmaan thoda ghata do ab,temperature_down
+jaldi se heater band kar do ab,heater_off
+zara TV chalu karo,tv_on
+TV ka haal batao,tv_status
+AC chalu hai ya band ab,ac_status
+kripya television ki sthiti kya hai,tv_status
+jaldi se suraksha vyavastha ka haal batao,security_status
+"pankhon ka haal batao, khud jaanne ka samay nahi hai zara zara",fans_status
+"haan, thand mein kaampte rahenge, heater chala do zara zara zara zara zara zara zara",heater_on
+kripya sangeet rok do na,music_off
+kamre mein thandak badha do ab,temperature_down
+kripya darwaza bandh kar do turant,door_close
+"wah, ghar ko bina dekhe chhod dete hain, phir bhi surakshit kar do zara zara",away_mode
+AC band kar do,ac_off
+"bijli muft mil rahi hai, pankha band kar do zara zara zara zara",fan_off
+sab pankhon ka haal batao turant,fans_status
+kripya pankha chalu hai ya band na zara zara,fans_status
+jaldi se heater band kar do na,heater_off
+zara ghar ki suraksha ka haal batao turant,security_status
+heater band hai ya chalu zara zara,heater_status
+kripya kamre ki batti jala do turant,light_on
+"haan, garmi mein hi maze karenge, AC chala do zara zara zara zara",ac_on
+abhi suraksha ghanti chalu kar do turant,alarm_on
+kripya ghar ka darwaza band kar do ab zara zara,door_close
+abhi darwaza khula hai ya band na,door_status
+garami ke liye heater chala do ab,heater_on
+"kamra to waise hi bhatti bana hua hai, AC chala do zara zara",ac_on
+darwaze mein tala laga do zara zara zara,lock_door
+zara kamre ke AC ki sthiti kya hai turant,ac_status
+abhi alarm laga kar rakho,alarm_on
+"bijli bachane ki to koi zarurat nahi, batti band kar do zara zara",light_off
+"ab film dekhni hai, sab taiyar karo",movie_mode
+jaldi se thandak ke liye AC chala do turant,ac_on
+zara subah ki namaskar,good_morning
+kripya pankha band kar do zara zara,fan_off
+"wah, itni tez khamoshi hai, sangeet band kar do zara zara zara",music_off
+battiyan chalu hain ya band zara zara,lights_status
+kripya daawat ke liye ghar taiyar kar do ab,party_mode
+kripya kamre mein pankha chalu karo,fan_on
+kripya ghar pahunch gaya hoon,welcome_home
+sab battiyon ki sthiti batao zara zara zara,lights_status
+abhi gaanon ki sthiti kya hai turant zara zara,music_status
+kripya TV chalna band kar do zara zara zara,tv_off
+abhi TV shuru kar do ab,tv_on
+jaldi se pankha chalna band kar do ab,fan_off
+"haan, sabko bahar hi rakhenge, tala khol do zara zara zara zara",unlock_door
+"haan, nami ka andaaza hawa ko dekh kar laga lenge, phir bhi batao zara zara",humidity_status
+"roshni ki koi zarurat hi nahi hai, phir bhi batti jala do zara zara zara zara zara",light_on
+abhi AC chalu kar do na,ac_on
+abhi ghar pahunch gaya hoon turant,welcome_home
+kripya ghar ko khaali ghar wali vyavastha par karo,away_mode
+darwaza khol do ab,door_open
+kripya darwaza surakshit karke tala laga do ab,lock_door
+"kamra bahut thanda hai na, pankha chala do zara zara",fan_on
+television band kar do na,tv_off
+"haan, aankhen band karke pata laga lenge kaunsi batti jal rahi hai, haal batao zara zara",lights_status
+TV ka haal batao turant,tv_status
+zara AC shuru kar do na,ac_on
+abhi ghar ki suraksha ka haal batao,security_status
+jaldi se batti bujha do ab,light_off
+"haan, TV dekhne ki koi zarurat nahi, phir bhi chala do zara zara zara zara zara",tv_on
+pankha chalu kar do ab,fan_on
+"haan, hawa andar aati rahe, khidki band kar do zara zara zara zara zara zara zara",window_close
+mere bahar jaane par ghar ki vyavastha kar do na,away_mode
+"haan, darwaza khula chhodkar suraksha karenge, band kar do zara zara zara",door_close
+ghar mein sangeet chal raha hai ya nahi,music_status
+AC chal raha hai ya nahi ab zara zara,ac_status
+jaldi se hawa ki nami kya hai na zara zara,humidity_status
+kripya ghar mein sab theek hai ya nahi,home_status
+"haan, film dekhte waqt sab battiyan jalne do, phir bhi film ka mahaul bana do",movie_mode
+zara mukhya darwaze ka haal batao zara zara zara,door_status
+abhi taapmaan thoda badha do ab,temperature_up
+"wah, pankhon ko dekhne ke liye chhat par chadhte hain, tum bata do",fans_status
+abhi kamre ki roshni chalu karo,light_on
+mukhya darwaze ka haal batao ab,door_status
+"haan, garmi mein hi pighalte rahenge, taapmaan kam kar do",temperature_down
+mukhya darwaze ka tala khol do,unlock_door
+taapmaan kam kar do ab,temperature_down
+mukhya darwaza band karo turant,door_close
+"haan, darwaza khud bol dega, phir bhi sthiti batao",door_status
+shubh raatri na,good_night
+kripya darwaza bina tale ke kar do na,unlock_door
+kripya kamre ko thanda kar do turant,temperature_down
+abhi darwaza tala laga do,lock_door
+kya heater chalu hai,heater_status
+"kripya bahut badi samasya hai, turant madad chahiye ab",emergency
+cinema jaisa mahaul bana do turant,movie_mode
+zara kaun si battiyan jal rahi hain,lights_status
+abhi raat ke liye ghar taiyar kar do turant,sleep_mode
+zara film dekhne ka mahaul bana do na,movie_mode
+kripya kamre ki khidki band karo,window_close
+subah ho gayi ab,good_morning
+jaldi se mukhya darwaze par tala laga do,lock_door
+"haan, garami ka maza kharab kar do, taapmaan ghata do zara zara zara zara",temperature_down
+zara bahar wala darwaza khol do,door_open
+sab pankhon ka haal batao,fans_status
+nami ka haal batao zara zara,humidity_status
+ghar surakshit hai ya nahi zara zara,security_status
+"wah, garmi mehsoos ho rahi hai to sab pata hai, phir bhi haal batao",heater_status
+jaldi se TV chal raha hai ya nahi,tv_status
+kripya AC chalu hai ya band zara zara,ac_status
+kripya andhera hai roshni kar do na,light_on
+"haan, andhere mein hi baithe rahenge, batti jala do",light_on
+kamre ki batti band karo zara zara,light_off
+bahar wala darwaza band karo zara zara,door_close
+jaldi se kya koi gaana chal raha hai ab,music_status
+ghar mein gaane band karo zara zara zara,music_off
+jaldi se alarm hata do ab,alarm_off
+zara kamre mein heater chalu karo,heater_on
+"wah, nami ka pata bas aankhon se chal jayega, phir bhi batao",humidity_status
+kripya kamre ka AC chala do ab zara zara,ac_on
+kamre ka pankha chala do zara zara,fan_on
+zara kya TV chalu hai,tv_status
+jaldi se sone ki vyavastha kar do na zara zara,sleep_mode
+kripya ghar ka darwaza band kar do,door_close
+jaldi se khidki khuli hai ya band,window_status
+"haan, suraj ko bhi sharma denge, batti band kar do zara zara zara zara",light_off
+"haan, heater chal raha hai ya nahi, haath laga kar dekhte hain; phir bhi batao",heater_status
+jaldi se ghar surakshit hai kya,security_status
+abhi darwaze ka tala khol do ab,unlock_door
+"haan, neend poori kahan hui, phir bhi shubh prabhat zara zara zara",good_morning
+"darwaza band aur tala laga do, warna mehmaan apne aap aa jayenge",lock_door
+kripya sab battiyon ki sthiti batao turant,lights_status
+jaldi se kya khidki khuli hai,window_status
+"haan, film dekhni hai, ghar ko bhi samajh aa jana chahiye zara zara",movie_mode
+kripya pankha laga do turant zara zara zara,fan_on
+jaldi se ab ghar se nikalna hai,leaving_home
+jaldi se ghar ki sab vyavastha ka haal batao ab,home_status
+"haan, har cheez khud jaanch lunga, phir bhi ghar ki sthiti batao",home_status
+jaldi se kya heater chalu hai,heater_status
+zara heater bandh kar do turant,heater_off
+zara AC rok do zara zara,ac_off
+"haan, khidki band rakhenge aur hawa ki ummeed karenge, kholo zara zara zara zara zara",window_open
+"haan, hawa ko pakad kar naap lenge, phir bhi nami batao zara zara zara zara zara zara",humidity_status
+kripya ab ghar se nikalna hai,leaving_home
+kripya ghar mein turant madad ki zarurat hai ab,emergency
+"wah, sab bilkul theek hai... nahi, aapatkaal hai",emergency
+abhi main ghar aa gayi hoon na,welcome_home
+"haan, kisi ko andar aane hi nahi dena, phir bhi tala khol do zara zara zara zara zara",unlock_door
+ghar ko khaali ghar wali vyavastha par karo,away_mode
+"sab kuchh bahut badhiya hai... nahi, turant sahayata chahiye zara zara",emergency
+kripya khidki bandh kar do,window_close
+abhi heater ka haal batao,heater_status
+abhi bahut zaroori madad chahiye na,emergency
+abhi television chala do turant,tv_on
+jaldi se pankha bandh kar do na,fan_off
+"haan, aankhen band karke pata laga lenge kaunsi batti jal rahi hai, haal batao zara zara zara zara",lights_status
+"wah, ghar mein mehfil hai aur ghar ko pata hi nahi, taiyari kar do",party_mode

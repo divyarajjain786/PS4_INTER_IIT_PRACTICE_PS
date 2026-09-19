@@ -1,0 +1,1001 @@
+Input,Label
+Is the door open? please,door_status
+"Hey, alarm band kar do",alarm_off
+Is music playing?!,music_status
+Emergency! please,emergency
+Is the door open?!,door_status
+Alarm off karo!,alarm_off
+"Hey, please unlock the main door",unlock_door
+Door ko unlock karo please,unlock_door
+"Film dekhni hai, movie mode",movie_mode
+Window ka status batao!,window_status
+Darwaza khula hai kya please,door_status
+Khidki band kar do!,window_close
+are the lights on?,lights_status
+lights band kar do,light_off
+Home status kya hai yaar,home_status
+"Hey, main ghar se ja raha hoon",leaving_home
+gaane rok do,music_off
+How hot is it!,temperature_status
+sleep mode on karo,sleep_mode
+Door close karo yaar,door_close
+Set the room for a movie please,movie_mode
+please unlock the main door,unlock_door
+Open the window yaar,window_open
+"Hey, emergency!",emergency
+Khidki band karo,window_close
+tv band kar do,tv_off
+Close the window!,window_close
+we're home,welcome_home
+Suprabhat!,good_morning
+Is the house secure?!,security_status
+Activate party mode,party_mode
+security check karo,security_status
+TV on please please,tv_on
+music ka status batao,music_status
+Bhai light on kar please,light_on
+Is the door open?,door_status
+"Hey, good night everyone",good_night
+Is anything playing!,music_status
+"Hey, movie mode on karo",movie_mode
+Please shut the door!,door_close
+Switch off the heater please,heater_off
+Check the AC yaar,ac_status
+Good night!,good_night
+current humidity batao,humidity_status
+Movie mode on karo please,movie_mode
+Check everything at home please,home_status
+Please lock the main door!,lock_door
+Disable the alarm,alarm_off
+Heater band kar do please,heater_off
+"Hey, this is an emergency",emergency
+Switch off the fan please,fan_off
+Security check karo please,security_status
+Check the TV,tv_status
+Morning!!,good_morning
+Temperature thoda decrease karo yaar,temperature_down
+"Hey, is the door open?",door_status
+Turn off the alarm yaar,alarm_off
+Light chala do please,light_on
+Heater band kar do!,heater_off
+away mode on karo,away_mode
+turn on the heater,heater_on
+Main door kholna hai,door_open
+Alarm on karo please,alarm_on
+Heater chal raha hai kya,heater_status
+I'm leaving please,leaving_home
+Lights band kar do,light_off
+Khidki khol do!,window_open
+Darwaza khula hai kya yaar,door_status
+"Film dekhni hai, movie mode",movie_mode
+Morning!!,good_morning
+Sleep mode on karo yaar,sleep_mode
+Music on please yaar,music_on
+switch the tv on,tv_on
+set the house for sleeping,sleep_mode
+Television start karo please,tv_on
+Check if music is playing,music_status
+"Hey, ac chala do",ac_on
+TV band kar do please,tv_off
+Security alarm activate karo please,alarm_on
+"Hey, ghar mein sab theek hai?",home_status
+Temperature badha do please,temperature_up
+Switch off the fan please,fan_off
+Switch the AC on!,ac_on
+Switch off the TV!,tv_off
+"Hey, turn off the fan",fan_off
+Check if music is playing yaar,music_status
+Please shut the door!,door_close
+lights on please,light_on
+Activate sleep mode please,sleep_mode
+"Hey, decrease the temperature",temperature_down
+"Hey, which lights are on",lights_status
+is ac running,ac_status
+is the ac on?,ac_status
+"Raat ho gayi, good night",good_night
+Leaving the house please,leaving_home
+"Hey, tv band kar do",tv_off
+"Film dekhni hai, movie mode",movie_mode
+Thoda warm kar do,temperature_up
+Fan on please yaar,fan_on
+sleep mode on karo,sleep_mode
+Switch off the heater!,heater_off
+Check the lights please,lights_status
+Party time mode!,party_mode
+Please open the door!,door_open
+Open the window please,window_open
+Enable away mode,away_mode
+door open karo,door_open
+Fan chal raha hai kya yaar,fans_status
+Turn on the light,light_on
+set home to away mode,away_mode
+Turn on the light,light_on
+"Hey, alarm on karo",alarm_on
+Please shut the door yaar,door_close
+Bhai light on kar,light_on
+Good morning please,good_morning
+AC chala do yaar,ac_on
+Check everything at home,home_status
+"Hey, ghar mein sab theek hai?",home_status
+Window ka status batao please,window_status
+Switch the TV on,tv_on
+"raat ho gayi, good night",good_night
+music band kar do,music_off
+Current temp batao,temperature_status
+Check the window!,window_status
+Set home to away mode,away_mode
+is the window closed,window_status
+Turn off the heater yaar,heater_off
+check the heater,heater_status
+Khidki kholo,window_open
+Current temp batao please,temperature_status
+Is the main door closed,door_status
+Room temperature check karo!,temperature_status
+what's the status of my home?,home_status
+ghar secure hai kya,security_status
+Gaane rok do yaar,music_off
+Turn off the fan,fan_off
+Check the window!,window_status
+"Hey, darwaza khol do",door_open
+Is the house secure? please,security_status
+"Hey, help, emergency at home",emergency
+"Hey, khidki kholo",window_open
+Fan on please!,fan_on
+"Something is wrong, emergency yaar",emergency
+check if music is playing,music_status
+"Hey, emergency mode activate karo",emergency
+Turn on the TV,tv_on
+Stop playing music yaar,music_off
+Humidity status kya hai yaar,humidity_status
+"Hey, window open karo",window_open
+Main ghar se ja raha hoon please,leaving_home
+Khidki khuli hai kya!,window_status
+Main door band karo!,door_close
+"help, emergency at home",emergency
+Check the humidity,humidity_status
+close the window,window_close
+"Morning, start the day!",good_morning
+Play music,music_on
+"Hey, current temp batao",temperature_status
+Turn off the light yaar,light_off
+I'm back home,welcome_home
+enable the alarm,alarm_on
+Increase the temperature yaar,temperature_up
+"Hey, check the fan",fans_status
+sone ka mode laga do,sleep_mode
+Is the window closed yaar,window_status
+Party time mode,party_mode
+Is heater running yaar,heater_status
+alarm laga do,alarm_on
+increase the temperature,temperature_up
+Start some music!,music_on
+Switch off the fan,fan_off
+switch off the fan,fan_off
+Open the door,door_open
+I'm leaving yaar,leaving_home
+Switch the AC on!,ac_on
+TV band kar do,tv_off
+Please shut the door!,door_close
+Window close karo please,window_close
+Good night yaar,good_night
+Door ko unlock karo please,unlock_door
+door ko unlock karo,unlock_door
+Heater ka status batao yaar,heater_status
+enable the alarm,alarm_on
+Fan band kar do yaar,fan_off
+Switch off the fan!,fan_off
+Ghar ka status batao please,home_status
+AC off please please,ac_off
+"Hey, switch the fan on",fan_on
+Turn off the TV!,tv_off
+Darwaza unlock kar do,unlock_door
+"Hey, what is the temperature?",temperature_status
+Heater chala do,heater_on
+We're heading out yaar,leaving_home
+"Hey, temp down karo",temperature_down
+bhai light on kar,light_on
+Security alarm activate karo please,alarm_on
+party ke liye setup karo,party_mode
+Security alarm deactivate karo!,alarm_off
+Temperature badha do please,temperature_up
+"Hey, good night everyone",good_night
+Bhai light on kar please,light_on
+"Hey, disable the alarm",alarm_off
+Main door lock kar,lock_door
+what is the humidity?,humidity_status
+check the fan,fans_status
+Alarm off karo,alarm_off
+ac off please,ac_off
+Switch the room light on please,light_on
+AC chal raha hai kya yaar,ac_status
+Lights ka status batao,lights_status
+"Hey, ac chal raha hai kya",ac_status
+Good night home yaar,good_night
+"Hey, fan chala do",fan_on
+is the tv on?,tv_status
+"Hey, main door lock kar",lock_door
+AC off please yaar,ac_off
+Gaane baja do,music_on
+Is music playing? please,music_status
+Darwaza khol do!,door_open
+suprabhat,good_morning
+turn on the light,light_on
+ac off please,ac_off
+humidity status kya hai,humidity_status
+"Hey, lights band kar do",light_off
+turn off the heater,heater_off
+Activate movie mode!,movie_mode
+Is anything playing!,music_status
+please open the door,door_open
+"Hey, humidity status kya hai",humidity_status
+Security check karo please,security_status
+Alarm off karo!,alarm_off
+"Hey, emergency!",emergency
+"Hey, lock the door",lock_door
+Switch the fan on,fan_on
+heater ka status batao,heater_status
+"Hey, khidki band karo",window_close
+Emergency mode activate karo!,emergency
+AC chala do,ac_on
+Bhai AC start kar yaar,ac_on
+Main door lock kar please,lock_door
+Gaane chal rahe hain kya,music_status
+AC band kar do,ac_off
+Check everything at home yaar,home_status
+ac on please,ac_on
+Thoda cool kar do yaar,temperature_down
+Music off please please,music_off
+Open the window please,window_open
+Main bahar ja raha hoon!,leaving_home
+"Hey, what is the humidity?",humidity_status
+Lights on please!,light_on
+Window close karo,window_close
+Party mode on karo please,party_mode
+"Hey, turn on the ac",ac_on
+Switch off the heater!,heater_off
+"Hey, turn on the heater",heater_on
+Set home to away mode please,away_mode
+I'm leaving yaar,leaving_home
+Party time mode yaar,party_mode
+Switch the heater on,heater_on
+Switch off the TV please,tv_off
+Unlock the door!,unlock_door
+Switch off the fan!,fan_off
+Movie time!,movie_mode
+Movie mode on karo!,movie_mode
+Heater stop karo,heater_off
+Window ka status batao,window_status
+We're home please,welcome_home
+Decrease the temperature!,temperature_down
+"Hey, i'm leaving",leaving_home
+Disable the alarm,alarm_off
+Gaane chal rahe hain kya please,music_status
+Suprabhat,good_morning
+AC off please!,ac_off
+"Hey, tv band kar do",tv_off
+Party time mode yaar,party_mode
+"Hey, turn on the light",light_on
+"Hey, window ka status batao",window_status
+Turn off the light!,light_off
+check home security,security_status
+check the heater,heater_status
+What is the humidity?!,humidity_status
+switch off the room light,light_off
+Close the window yaar,window_close
+AC off please!,ac_off
+check the door,door_status
+"Hey, tv band kar do",tv_off
+Check the lights,lights_status
+"Hey, are the lights on?",lights_status
+Bhai AC start kar yaar,ac_on
+AC ka status batao!,ac_status
+"Hey, switch off the fan",fan_off
+"Morning, start the day!",good_morning
+Music on please!,music_on
+Lock the door!,lock_door
+AC ko stop karo yaar,ac_off
+enable sleep mode,sleep_mode
+Music band kar do yaar,music_off
+"Hey, television stop karo",tv_off
+"Hey, temperature badha do",temperature_up
+Is the fan on? please,fans_status
+is the fan on?,fans_status
+"Hey, ghar secure hai kya",security_status
+Khidki khol do yaar,window_open
+"Hey, switch the ac on",ac_on
+Turn on the fan!,fan_on
+Activate movie mode!,movie_mode
+"Raat ho gayi, good night",good_night
+Darwaza lock kar do!,lock_door
+Party ke liye setup karo,party_mode
+Is heater running please,heater_status
+Set the house for sleeping please,sleep_mode
+Check if music is playing,music_status
+"Hey, main door kholna hai",door_open
+"Hey, main door lock kar",lock_door
+Switch the TV on please,tv_on
+television start karo,tv_on
+Away mode on karo yaar,away_mode
+AC ka status batao!,ac_status
+"Hey, check the ac",ac_status
+"Hey, check everything at home",home_status
+"Hey, turn off the fan",fan_off
+is the main door closed,door_status
+TV band kar do!,tv_off
+Set the house for a party,party_mode
+switch the room light on,light_on
+Temperature kam kar do yaar,temperature_down
+Activate party mode,party_mode
+Lights band kar do please,light_off
+Humidity kitni hai!,humidity_status
+I'm home yaar,welcome_home
+"Hey, enable away mode",away_mode
+Television stop karo!,tv_off
+Is the main door closed,door_status
+"Hey, switch off the room light",light_off
+Activate party mode yaar,party_mode
+door ko unlock karo,unlock_door
+switch the room light on,light_on
+AC band kar do yaar,ac_off
+TV on please yaar,tv_on
+Bhai light on kar!,light_on
+"Hey, sone ka mode laga do",sleep_mode
+Music on please please,music_on
+"Hey, is anything playing",music_status
+"Hey, suprabhat",good_morning
+Fan chal raha hai kya!,fans_status
+Check the AC!,ac_status
+Which lights are on yaar,lights_status
+Humidity kitni hai,humidity_status
+We're heading out yaar,leaving_home
+Party mode on karo yaar,party_mode
+light bujha do,light_off
+"Hey, please lock the main door",lock_door
+"Hey, stop playing music",music_off
+"Hey, night mode please",good_night
+Check everything at home,home_status
+Alarm laga do please,alarm_on
+"Hey, unlock the door",unlock_door
+"film dekhni hai, movie mode",movie_mode
+Fan chala do yaar,fan_on
+Turn off the TV!,tv_off
+Away mode on karo please,away_mode
+Good night everyone please,good_night
+Turn off the fan yaar,fan_off
+Emergency! please,emergency
+"Hey, music band kar do",music_off
+AC chal raha hai kya!,ac_status
+turn on the ac,ac_on
+Ghar ka status batao please,home_status
+"Hey, lights ka status batao",lights_status
+Ghar mein sab theek hai?,home_status
+Temperature badha do,temperature_up
+Sone ka mode laga do!,sleep_mode
+Check the TV yaar,tv_status
+Switch the TV on yaar,tv_on
+"Hey, darwaza unlock kar do",unlock_door
+TV chal raha hai kya,tv_status
+Alarm on karo please,alarm_on
+"Hey, music off please",music_off
+Check the TV,tv_status
+Music ka status batao please,music_status
+Is the house secure? please,security_status
+Turn off the AC,ac_off
+Check the humidity yaar,humidity_status
+Open the window,window_open
+Stop the music please,music_off
+activate party mode,party_mode
+"Hey, morning, start the day",good_morning
+Emergency mode activate karo,emergency
+"Hey, check the lights",lights_status
+television start karo,tv_on
+"Hey, suprabhat",good_morning
+Is the TV on? please,tv_status
+Home aa gaya hoon!,welcome_home
+Activate movie mode please,movie_mode
+"Help, emergency at home yaar",emergency
+Temperature badha do please,temperature_up
+is ac running,ac_status
+bhai ac start kar,ac_on
+"Hey, please shut the door",door_close
+turn on the tv,tv_on
+enable away mode,away_mode
+decrease the temperature,temperature_down
+"Hey, please unlock the main door",unlock_door
+Check the lights yaar,lights_status
+Turn on the heater yaar,heater_on
+Please unlock the main door yaar,unlock_door
+Khidki band kar do!,window_close
+Stop playing music please,music_off
+Khidki band karo,window_close
+Alarm off karo,alarm_off
+Check the window yaar,window_status
+"Hey, morning, start the day",good_morning
+Humidity status kya hai!,humidity_status
+How hot is it please,temperature_status
+Is the TV on?!,tv_status
+What's the status of my home?,home_status
+Security alarm activate karo yaar,alarm_on
+Good morning home please,good_morning
+"Hey, television start karo",tv_on
+"Hey, please open the window",window_open
+turn on the alarm,alarm_on
+Temperature kya hai please,temperature_status
+Open the door yaar,door_open
+Sone ka mode laga do,sleep_mode
+Main door kholna hai please,door_open
+Turn on the heater yaar,heater_on
+Good night home yaar,good_night
+Turn off the AC,ac_off
+Fan chal raha hai kya yaar,fans_status
+TV off please please,tv_off
+Set home to away mode yaar,away_mode
+Lights on hain kya!,lights_status
+"Hey, is the house secure?",security_status
+"Hey, turn on the light",light_on
+Good night home!,good_night
+Good night please,good_night
+Music on please yaar,music_on
+Please stop the fan please,fan_off
+AC on please yaar,ac_on
+Fan chala do yaar,fan_on
+please open the window,window_open
+"Hey, sone ka mode laga do",sleep_mode
+Switch off the room light,light_off
+Heater stop karo yaar,heater_off
+Music band kar do yaar,music_off
+tv band kar do,tv_off
+Main ghar aa gaya yaar,welcome_home
+Turn off the TV please,tv_off
+Sone ka mode laga do please,sleep_mode
+Turn off the alarm yaar,alarm_off
+close the door,door_close
+sleep mode on karo,sleep_mode
+Temperature thoda increase karo!,temperature_up
+Door ko lock karo yaar,lock_door
+"raat ho gayi, good night",good_night
+Sone ka mode laga do,sleep_mode
+Is the AC on?!,ac_status
+Check the lights please,lights_status
+"Morning, start the day",good_morning
+"Hey, party mode on karo",party_mode
+turn on the light,light_on
+Thoda cool kar do yaar,temperature_down
+Window close karo yaar,window_close
+is television running,tv_status
+Please open the window!,window_open
+"Hey, start some music",music_on
+"Hey, check the tv",tv_status
+Good morning please,good_morning
+switch off the heater,heater_off
+Yaar fan start kar!,fan_on
+Alarm laga do please,alarm_on
+"Hey, bhai ac start kar",ac_on
+Heater chala do!,heater_on
+Music on please please,music_on
+"Hey, stop playing music",music_off
+Enable the alarm,alarm_on
+"Hey, set the house for a party",party_mode
+Activate away mode please,away_mode
+Check the lights,lights_status
+Set home to away mode please,away_mode
+Current humidity batao!,humidity_status
+emergency!,emergency
+Start some music please,music_on
+Heater on please please,heater_on
+Switch off the heater!,heater_off
+Check home security,security_status
+Yaar fan start kar yaar,fan_on
+Please shut the door,door_close
+Emergency! please,emergency
+Heater chal raha hai kya yaar,heater_status
+Bhai light on kar,light_on
+"Hey, check the ac",ac_status
+Set the house for a party yaar,party_mode
+heater on please,heater_on
+"Hey, thoda warm kar do",temperature_up
+Turn off the alarm please,alarm_off
+Decrease the temperature yaar,temperature_down
+"Hey, please lock the main door",lock_door
+Increase the temperature yaar,temperature_up
+main ghar aa gaya,welcome_home
+Activate away mode yaar,away_mode
+TV chal raha hai kya,tv_status
+Ghar ka status batao yaar,home_status
+"Hey, how hot is it",temperature_status
+Turn on the light,light_on
+We're heading out yaar,leaving_home
+Window ka status batao!,window_status
+Turn off the fan,fan_off
+Enable away mode!,away_mode
+Which fans are on!,fans_status
+"Hey, tv band kar do",tv_off
+Heater stop karo please,heater_off
+Turn off the light yaar,light_off
+Play music,music_on
+Fan ko off karo,fan_off
+Fan on please,fan_on
+check the door,door_status
+Is the heater on?!,heater_status
+"Hey, check the humidity",humidity_status
+enable away mode,away_mode
+"Hey, thoda cool kar do",temperature_down
+"Hey, temp down karo",temperature_down
+Alarm on karo yaar,alarm_on
+Is the house secure? please,security_status
+Bhai light on kar!,light_on
+party ke liye setup karo,party_mode
+Party ke liye setup karo,party_mode
+decrease the temperature,temperature_down
+Please open the window yaar,window_open
+Alarm laga do,alarm_on
+Bhai AC start kar!,ac_on
+"Hey, fan chala do",fan_on
+start some music,music_on
+Music chala do!,music_on
+Check the door,door_status
+"Hey, check the ac",ac_status
+Play music!,music_on
+Turn on the AC,ac_on
+"Hey, check the tv",tv_status
+open the door,door_open
+Main door kholna hai please,door_open
+TV chala do yaar,tv_on
+set home to away mode,away_mode
+Home aa gaya hoon!,welcome_home
+"Hey, stop playing music",music_off
+Alarm band kar do yaar,alarm_off
+"Hey, enable sleep mode",sleep_mode
+Main bahar ja raha hoon!,leaving_home
+Check the lights please,lights_status
+this is an emergency,emergency
+Good night everyone please,good_night
+Heater chala do please,heater_on
+Security check karo,security_status
+Unlock the door yaar,unlock_door
+Main door lock kar!,lock_door
+Main bahar ja raha hoon please,leaving_home
+Darwaza khol do,door_open
+darwaza khol do,door_open
+khidki band kar do,window_close
+Home status kya hai!,home_status
+"Hey, i'm back home",welcome_home
+decrease the temperature,temperature_down
+"Hey, is the fan on?",fans_status
+"Hey, good morning home",good_morning
+Ghar mein sab theek hai? yaar,home_status
+Night mode please!,good_night
+Door close karo yaar,door_close
+Set the room for a movie yaar,movie_mode
+Start some music yaar,music_on
+TV on please please,tv_on
+Security check karo yaar,security_status
+is anything playing,music_status
+Khidki band kar do yaar,window_close
+check the lights,lights_status
+"Hey, close the window",window_close
+Is the heater on? please,heater_status
+Temp up karo!,temperature_up
+Turn off the heater,heater_off
+Fan ka status batao,fans_status
+"Hey, darwaza lock kar do",lock_door
+I'm home please,welcome_home
+Temp down karo please,temperature_down
+Open the window!,window_open
+Which lights are on yaar,lights_status
+Turn off the TV please,tv_off
+TV chal raha hai kya,tv_status
+Heater chala do!,heater_on
+"Hey, fan chala do",fan_on
+Temperature badha do,temperature_up
+What is the temperature?!,temperature_status
+We're home yaar,welcome_home
+Security check karo please,security_status
+Enable the alarm please,alarm_on
+Heater on please yaar,heater_on
+Is the window closed yaar,window_status
+activate movie mode,movie_mode
+turn off the alarm,alarm_off
+Light chala do,light_on
+Switch the TV on yaar,tv_on
+Home status kya hai,home_status
+I'm leaving!,leaving_home
+Turn off the light!,light_off
+Gaane baja do,music_on
+"Hey, heater start kar",heater_on
+Please lock the main door!,lock_door
+Humidity kitni hai!,humidity_status
+Switch off the heater,heater_off
+Temp down karo!,temperature_down
+AC chal raha hai kya please,ac_status
+Music ka status batao,music_status
+Play music please,music_on
+is the window open?,window_status
+Fan ka status batao yaar,fans_status
+Ghar mein sab theek hai?,home_status
+Check the TV yaar,tv_status
+"Hey, main ghar aa gaya",welcome_home
+Light bujha do please,light_off
+"Hey, door ka status batao",door_status
+Door ka status batao yaar,door_status
+Home status kya hai please,home_status
+Switch the AC on,ac_on
+"Hey, khidki kholo",window_open
+we're heading out,leaving_home
+Lights on please please,light_on
+Temp down karo,temperature_down
+heater chal raha hai kya,heater_status
+Is the fan on? please,fans_status
+Temp down karo yaar,temperature_down
+Check the humidity!,humidity_status
+ghar mein sab theek hai?,home_status
+Current temp batao,temperature_status
+Please open the window please,window_open
+Check the AC yaar,ac_status
+"Hey, please shut the door",door_close
+Heater ka status batao,heater_status
+Is the door open?!,door_status
+"Hey, heater off please",heater_off
+I'm home,welcome_home
+"Hey, is the heater on?",heater_status
+"Main bahar ja raha hoon, away mode!",away_mode
+Heater on please,heater_on
+"Hey, window ka status batao",window_status
+Is the AC on? yaar,ac_status
+Heater start kar,heater_on
+temperature badha do,temperature_up
+Leaving the house please,leaving_home
+Temperature thoda decrease karo please,temperature_down
+please open the window,window_open
+Movie time! please,movie_mode
+Lights band kar do yaar,light_off
+"Hey, music ka status batao",music_status
+Please turn the light off!,light_off
+Current temp batao yaar,temperature_status
+Unlock the door,unlock_door
+How hot is it yaar,temperature_status
+"Hey, check the ac",ac_status
+TV on please yaar,tv_on
+"Hey, check home security",security_status
+Sone ka mode laga do,sleep_mode
+Lights ka status batao!,lights_status
+Please shut the window please,window_close
+"Hey, door ko lock karo",lock_door
+Door ko unlock karo yaar,unlock_door
+"Hey, enable sleep mode",sleep_mode
+i'm home,welcome_home
+"Hey, turn off the ac",ac_off
+"Hey, check the heater",heater_status
+Check the heater!,heater_status
+Please open the door!,door_open
+Enable sleep mode!,sleep_mode
+Temp up karo please,temperature_up
+What is the temperature?!,temperature_status
+"Hey, main door kholne ke liye unlock karo",unlock_door
+I'm back home yaar,welcome_home
+please open the door,door_open
+Lights on hain kya yaar,lights_status
+Darwaza lock kar do,lock_door
+Turn on the TV,tv_on
+Ghar secure hai kya,security_status
+Is the fan on?!,fans_status
+switch the fan on,fan_on
+Please unlock the main door!,unlock_door
+Movie mode on karo,movie_mode
+music ka status batao,music_status
+door ko unlock karo,unlock_door
+Main door lock kar,lock_door
+Gaane rok do!,music_off
+AC ko stop karo,ac_off
+Alarm off karo,alarm_off
+turn on the ac,ac_on
+Lights on please yaar,light_on
+Check the humidity yaar,humidity_status
+Away mode on karo!,away_mode
+Temperature badha do please,temperature_up
+Music ka status batao yaar,music_status
+Music ka status batao!,music_status
+check the ac,ac_status
+Current temp batao please,temperature_status
+"Hey, darwaza khol do",door_open
+"Hey, is the window open?",window_status
+switch the fan on,fan_on
+"Something is wrong, emergency please",emergency
+"Hey, which fans are on",fans_status
+TV off please,tv_off
+music on please,music_on
+Temperature thoda increase karo,temperature_up
+Room temperature check karo,temperature_status
+"Hey, main door kholne ke liye unlock karo",unlock_door
+bhai ac start kar,ac_on
+Please turn the light off yaar,light_off
+"Hey, ghar ka status batao",home_status
+"Hey, darwaza band kar do",door_close
+Is the window open?!,window_status
+We're heading out!,leaving_home
+Is the house secure?,security_status
+How hot is it!,temperature_status
+Is the window closed yaar,window_status
+switch the tv on,tv_on
+Is the house secure?!,security_status
+fan chal raha hai kya,fans_status
+Temperature kam kar do!,temperature_down
+Party mode on karo yaar,party_mode
+"Hey, stop the music",music_off
+"Hey, alarm laga do",alarm_on
+Is heater running please,heater_status
+please unlock the main door,unlock_door
+"Hey, enable sleep mode",sleep_mode
+fan on please,fan_on
+"Hey, ac chala do",ac_on
+Heater on please please,heater_on
+"Hey, gaane rok do",music_off
+Home aa gaya hoon!,welcome_home
+"Hey, stop playing music",music_off
+away mode on karo,away_mode
+i'm home,welcome_home
+Start some music,music_on
+"Hey, emergency mode activate karo",emergency
+AC chala do,ac_on
+Enable away mode!,away_mode
+Current temp batao,temperature_status
+Movie mode on karo,movie_mode
+Switch off the AC!,ac_off
+main door kholne ke liye unlock karo,unlock_door
+"Hey, close the window",window_close
+Window open karo!,window_open
+Window ka status batao please,window_status
+close the door,door_close
+"Hey, heater start kar",heater_on
+Heater chal raha hai kya please,heater_status
+Please shut the window please,window_close
+Television stop karo yaar,tv_off
+Temp up karo,temperature_up
+Thoda cool kar do,temperature_down
+"Hey, turn on the alarm",alarm_on
+"Hey, security alarm deactivate karo",alarm_off
+Sleep mode on karo please,sleep_mode
+Turn on the fan,fan_on
+Door ka status batao please,door_status
+Fan band kar do!,fan_off
+increase the temperature,temperature_up
+door close karo,door_close
+"Something is wrong, emergency",emergency
+is the door open?,door_status
+Music chala do please,music_on
+Thoda cool kar do yaar,temperature_down
+door close karo,door_close
+"Hey, home aa gaya hoon",welcome_home
+"Hey, please open the door",door_open
+Lights ka status batao yaar,lights_status
+heater ka status batao,heater_status
+what is the temperature?,temperature_status
+Party time mode please,party_mode
+"Hey, this is an emergency",emergency
+Check the heater please,heater_status
+"Hey, security alarm activate karo",alarm_on
+Is the fan on?!,fans_status
+Turn off the TV please,tv_off
+"Hey, check the tv",tv_status
+Stop playing music!,music_off
+Check the fan please,fans_status
+good morning,good_morning
+Switch the fan on!,fan_on
+Please stop the fan yaar,fan_off
+Turn off the light,light_off
+"Hey, switch off the room light",light_off
+Which fans are on!,fans_status
+Khidki band kar do!,window_close
+Movie time!,movie_mode
+"Hey, security status batao",security_status
+"Hey, check the heater",heater_status
+Gaane chal rahe hain kya!,music_status
+Turn off the heater!,heater_off
+Set the room for a movie!,movie_mode
+fan ka status batao,fans_status
+Is the AC on?!,ac_status
+"Hey, heater band kar do",heater_off
+"Hey, is the tv on?",tv_status
+Night mode please,good_night
+AC chala do please,ac_on
+Check the humidity yaar,humidity_status
+Emergency! please,emergency
+Door close karo please,door_close
+Check the heater,heater_status
+I'm back home please,welcome_home
+Emergency! yaar,emergency
+We're home please,welcome_home
+"Hey, tv chal raha hai kya",tv_status
+switch the tv on,tv_on
+"Hey, gaane rok do",music_off
+Please stop the fan yaar,fan_off
+please open the door,door_open
+Humidity status kya hai,humidity_status
+Close the window,window_close
+Music chala do,music_on
+Sone ka mode laga do,sleep_mode
+Khidki khol do please,window_open
+Heater stop karo,heater_off
+Heater stop karo please,heater_off
+Door close karo yaar,door_close
+heater start kar,heater_on
+enable away mode,away_mode
+"Hey, ac off please",ac_off
+Yaar fan start kar!,fan_on
+What is the temperature? please,temperature_status
+Disable the alarm!,alarm_off
+I'm leaving!,leaving_home
+Suprabhat please,good_morning
+Television start karo,tv_on
+Check the AC!,ac_status
+is television running,tv_status
+"Hey, we're heading out",leaving_home
+Morning! please,good_morning
+ac off please,ac_off
+window close karo,window_close
+humidity status kya hai,humidity_status
+is the door open?,door_status
+"Hey, temperature thoda increase karo",temperature_up
+"Film dekhni hai, movie mode!",movie_mode
+we're home,welcome_home
+"Hey, tv chal raha hai kya",tv_status
+Please open the window!,window_open
+Switch off the AC,ac_off
+"Main bahar ja raha hoon, away mode yaar",away_mode
+Is the fan on? please,fans_status
+Home aa gaya hoon,welcome_home
+Security alarm activate karo please,alarm_on
+Morning! yaar,good_morning
+"Hey, enable the alarm",alarm_on
+Check the humidity!,humidity_status
+Temperature thoda decrease karo yaar,temperature_down
+Check home security please,security_status
+Which fans are on!,fans_status
+Set the room for a movie please,movie_mode
+Darwaza band kar do,door_close
+Fan on please yaar,fan_on
+Fan band kar do,fan_off
+Enable away mode please,away_mode
+ac off please,ac_off
+Lights ka status batao!,lights_status
+Night mode please!,good_night
+Temperature badha do!,temperature_up
+Door ko lock karo,lock_door
+"Hey, fan ka status batao",fans_status
+Which lights are on,lights_status
+Darwaza lock kar do,lock_door
+Movie time!,movie_mode
+Temp down karo,temperature_down
+Good night!,good_night
+"Hey, start some music",music_on
+turn on the heater,heater_on
+Good night please,good_night
+"Hey, turn on the tv",tv_on
+"Hey, ac off please",ac_off
+switch off the tv,tv_off
+Temperature kya hai yaar,temperature_status
+Party time mode yaar,party_mode
+Night mode please!,good_night
+heater stop karo,heater_off
+Is the TV on? yaar,tv_status
+Is the window open? please,window_status
+Enable sleep mode,sleep_mode
+"Hey, is the window closed",window_status
+Heater band kar do!,heater_off
+Leaving the house!,leaving_home
+Darwaza band kar do please,door_close
+Main door kholna hai yaar,door_open
+Lights on hain kya!,lights_status
+Check the lights!,lights_status
+Fan on please yaar,fan_on
+Window ka status batao,window_status
+khidki band kar do,window_close
+Is anything playing,music_status
+Please open the window yaar,window_open
+Main ghar se ja raha hoon,leaving_home
+Darwaza khula hai kya yaar,door_status
+i'm back home,welcome_home
+Fan band kar do yaar,fan_off
+Security alarm deactivate karo!,alarm_off
+window ka status batao,window_status
+Heater stop karo yaar,heater_off
+Temperature thoda increase karo yaar,temperature_up
+"Hey, turn off the fan",fan_off
+We're heading out,leaving_home
+turn on the heater,heater_on
+"Hey, turn off the ac",ac_off
+Turn on the TV,tv_on
+Temp down karo please,temperature_down
+Is the main door closed please,door_status
+Main door kholna hai!,door_open
+"Hey, heater ka status batao",heater_status
+tv band kar do,tv_off
+Door open karo please,door_open
+Check the window yaar,window_status
+Stop the music please,music_off
+Good morning home,good_morning
+Stop playing music yaar,music_off
+AC band kar do,ac_off
+"Hey, fan chal raha hai kya",fans_status
+Please unlock the main door please,unlock_door
+Humidity kitni hai please,humidity_status
+Current temp batao please,temperature_status
+"Hey, turn on the tv",tv_on
+security status batao,security_status
+"Hey, switch off the room light",light_off
+ac ko stop karo,ac_off
+Gaane rok do yaar,music_off
+main door kholna hai,door_open
+TV chal raha hai kya!,tv_status
+Please shut the door!,door_close
+Please unlock the main door!,unlock_door
+Set the house for a party,party_mode
+current humidity batao,humidity_status
+Heater on please!,heater_on
+Check the fan,fans_status
+"Hey, turn off the fan",fan_off
+"Hey, what's the status of my home?",home_status
+"help, emergency at home",emergency
+Please lock the main door!,lock_door
+Door ko lock karo,lock_door
+Thoda warm kar do yaar,temperature_up
+set the house for a party,party_mode
+Turn on the heater yaar,heater_on
+Is the AC on? yaar,ac_status
+Switch off the room light!,light_off
+Is the fan on? yaar,fans_status
+Unlock the door please,unlock_door
+"Hey, main door lock kar",lock_door
+Door ko lock karo yaar,lock_door
+TV ka status batao,tv_status
+good morning home,good_morning
+Music on please!,music_on
+Switch the fan on yaar,fan_on
+ac band kar do,ac_off
+Switch off the room light please,light_off
+Turn off the alarm!,alarm_off
+Good morning,good_morning
+check the door,door_status
+Heater ka status batao yaar,heater_status
+we're heading out,leaving_home
+"Hey, heater on please",heater_on
+turn off the light,light_off
+Heater band kar do yaar,heater_off
+"Hey, is the door open?",door_status
+ghar ka status batao,home_status
+Good night everyone,good_night
+room temperature check karo,temperature_status
+"Hey, door ko lock karo",lock_door
+Security alarm activate karo please,alarm_on
+TV ka status batao!,tv_status
+Is music playing? yaar,music_status
+Switch off the fan yaar,fan_off
+switch the fan on,fan_on
+Emergency mode activate karo please,emergency
+Good night!,good_night
+Is television running please,tv_status
+Open the door,door_open
+disable the alarm,alarm_off
+Heater chal raha hai kya,heater_status
+Window close karo please,window_close
+Movie mode on karo!,movie_mode
+Set the house for sleeping yaar,sleep_mode
+Security check karo yaar,security_status
+light bujha do,light_off
+security alarm deactivate karo,alarm_off
+Close the window yaar,window_close
+Alarm band kar do,alarm_off
+Is the main door closed yaar,door_status
+switch off the heater,heater_off
+security alarm activate karo,alarm_on
+Is the window open? please,window_status
+Check the AC,ac_status
+Security alarm deactivate karo yaar,alarm_off
+darwaza band kar do,door_close
+"Hey, darwaza band kar do",door_close
+"Hey, is music playing?",music_status
+Khidki khol do!,window_open
+fan band kar do,fan_off
+Switch the AC on,ac_on
+Khidki kholo yaar,window_open
+Main door band karo!,door_close

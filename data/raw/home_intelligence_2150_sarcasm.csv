@@ -1,0 +1,2151 @@
+Input,labels
+"yeah, leave everything running while I'm gone... activate away mode",away_mode
+apparently the AC can hide from me; tell me its status,ac_status
+"yaar, is the heater running",heater_status
+fan off please,fan_off
+door ka status batao before I walk into a surprise,door_status
+"bro, main ghar se ja rahi hoon",leaving_home
+"yaar, morning",good_morning
+"good night, because apparently sleep is finally allowed",good_night
+"bro, please lock the door",lock_door
+heater band kar do before it gets ridiculous,heater_off
+"hey, urgent emergency at home please",emergency
+heater chala do please,heater_on
+check the temperature please,temperature_status
+please khidki khuli hai kya bro,window_status
+please close the door,door_close
+"hey, i'm leaving home please",leaving_home
+AC band kar do before we need jackets indoors,ac_off
+"bro, music off please",music_off
+please lights on yaar,light_on
+what is the fan status,fans_status
+"main ghar aa gaya, finally",welcome_home
+apparently guessing the temperature is enough; tell me the current temperature,temperature_status
+please what is the humidity!,humidity_status
+heater chala do bro,heater_on
+"great, time to leave the comfort of home; I'm leaving",leaving_home
+sone ka mode laga do bro,sleep_mode
+please window close karo,window_close
+fan off,fan_off
+please morning everyone!,good_morning
+temp thoda decrease karo please,temperature_down
+"yaar, temperature kam kar do bro",temperature_down
+"yeah, I'll just guess which fans are running; check them",fans_status
+"great, another light nobody needs; turn it off",light_off
+decrease the temperature bro,temperature_down
+"TV chala do, unless the blank screen is tonight's entertainment",tv_on
+close the window,window_close
+apparently the TV should stay off forever; turn it on,tv_on
+apparently privacy is optional; door close karo,door_close
+"yaar, room light bujha do",light_off
+stop the TV,tv_off
+"yeah, I'll guess whether music is playing; check it",music_status
+night! time to stop pretending I'm productive,good_night
+"yeah, I'll magically know if the AC is running; check it",ac_status
+lock the main door,lock_door
+"TV band kar do, unless the empty screen has a show",tv_off
+apparently we're living in a freezer; temperature up,temperature_up
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+apparently I wanted a sauna; turn the AC on,ac_on
+"bro, room temperature batao",temperature_status
+"bro, check the music bro",music_status
+please open the door,door_open
+darwaza khula hai kya yaar,door_status
+"yeah, let's leave the door wide open... close it",door_close
+what is the window status,window_status
+"yeah, I'll just stare at the wall and guess; check the TV",tv_status
+"hey, temp thoda increase karo",temperature_up
+"hey, current humidity batao yaar",humidity_status
+apparently sleep mode is optional; turn it on,sleep_mode
+please alarm deactivate karo yaar,alarm_off
+please close the door,door_close
+"bro, sone ka mode laga do bro",sleep_mode
+"hey, check the security please",security_status
+"yeah, fresh air is clearly overrated... open the window",window_open
+please AC off yaar,ac_off
+"hey, emergency mode activate karo please",emergency
+"hey, heater off karo bro",heater_off
+switch the AC on,ac_on
+"yaar, open the room window bro",window_open
+"yaar, stop the fan",fan_off
+room light on karo yaar,light_on
+"hey, khidki khol do!",window_open
+please sleep mode on karo yaar,sleep_mode
+"fan band kar do, we're not powering the whole neighborhood",fan_off
+"hey, make the room cooler",temperature_down
+"bro, is the window open",window_status
+"alarm band kar do, enough drama",alarm_off
+"yeah, let's watch a blank screen all night... TV off",tv_off
+apparently sweating is the plan; temp down,temperature_down
+"hey, turn on sleep mode",sleep_mode
+"alarm band kar do, enough drama",alarm_off
+"yeah, let's let the alarm scream forever... turn it off",alarm_off
+"yaar, AC on kar do",ac_on
+"bro, turn on the TV please",tv_on
+apparently silence and music sound identical now; tell me the status,music_status
+decrease the temperature,temperature_down
+heater on kar do!,heater_on
+"yeah, being cold is fun... heater on please",heater_on
+TV on bro,tv_on
+please party mode on karo,party_mode
+please door open karo bro,door_open
+please TV off karo,tv_off
+"main ghar aa gaya, finally",welcome_home
+"yaar, unlock the main door",unlock_door
+lights off,light_off
+"hey, heater off",heater_off
+apparently the alarm needs the last word; alarm off,alarm_off
+"yaar, temperature up yaar",temperature_up
+"yaar, darwaza khula hai kya!",door_status
+"yaar, what is the home status please",home_status
+"fan ka status batao, no guessing",fans_status
+"yaar, what is the home status",home_status
+sleep mode on karo before I accidentally wake the whole house,sleep_mode
+"yeah, let's guess whether the window is open; check it",window_status
+"hey, what is the TV status",tv_status
+"yaar, close the main door",door_close
+apparently Antarctica is the goal; turn the AC off,ac_off
+lights ka status batao before I start checking every room,lights_status
+please turn off the AC yaar,ac_off
+door lock karo,lock_door
+"hey, prepare the house for a party yaar",party_mode
+start the fan please,fan_on
+"yeah, let's keep everyone outside forever... unlock the door",unlock_door
+good night home please,good_night
+"yaar, AC chal raha hai kya",ac_status
+"bro, turn off the heater!",heater_off
+"hey, heater on",heater_on
+"yeah, I'll magically know if the AC is running; check it",ac_status
+party mode on karo!,party_mode
+"hey, main door unlock karo yaar",unlock_door
+"hey, check the fans",fans_status
+turn on the heater please,heater_on
+deactivate the alarm please,alarm_off
+"yeah, let's just assume the house is secure; check security",security_status
+open the window yaar,window_open
+please humidity kitni hai bro,humidity_status
+heater off karo,heater_off
+apparently the house can look after itself; set away mode,away_mode
+door ka status batao before I walk into a surprise,door_status
+please stop the AC bro,ac_off
+apparently the house can look after itself; set away mode,away_mode
+check the AC,ac_status
+"yaar, darwaza lock kar do bro",lock_door
+"something is wrong, emergency!",emergency
+apparently we need a wind tunnel; window close karo,window_close
+TV on kar do please,tv_on
+"yeah, let's watch a blank screen all night... TV off",tv_off
+please check the home,home_status
+darwaza lock kar do before we forget again,lock_door
+please close the window bro,window_close
+please good night home,good_night
+"yaar, turn off the light",light_off
+"bro, please close the window",window_close
+turn on party mode yaar,party_mode
+please stop the TV!,tv_off
+"yaar, fan band kar do yaar",fan_off
+please set sleep mode bro,sleep_mode
+"yaar, open the room window bro",window_open
+apparently privacy is optional; door close karo,door_close
+please turn off the fan please,fan_off
+please switch the fan off bro,fan_off
+apparently the house can look after itself; set away mode,away_mode
+"yaar, party mode on karo",party_mode
+"yeah, let's watch a movie with every light blazing... movie mode on",movie_mode
+music ka status batao please,music_status
+khidki kholo bro,window_open
+"hey, main door ko lock karo!",lock_door
+darwaza unlock kar do please,unlock_door
+please activate sleep mode please,sleep_mode
+door open karo yaar,door_open
+"main ja raha hoon, house ko sambhal lena",leaving_home
+"yaar, suprabhat yaar",good_morning
+"bro, room light bujha do",light_off
+"yeah, obviously I want the light on",light_on
+"bro, i'm home!",welcome_home
+apparently the TV should stay off forever; turn it on,tv_on
+because apparently the room is supposed to stay dark — turn the light on,light_on
+prepare the house for sleep yaar,sleep_mode
+please party mode on karo!,party_mode
+"hey, heater on kar do",heater_on
+"hey, TV off yaar",tv_off
+"fan ka status batao, no guessing",fans_status
+AC off karo please,ac_off
+turn on movie mode!,movie_mode
+close the room window,window_close
+apparently nobody is watching; turn the TV off,tv_off
+are the fans on!,fans_status
+stop the fan bro,fan_off
+please switch the TV on,tv_on
+"yaar, how is everything at home",home_status
+humidity kitni hai? let's actually check,humidity_status
+"yeah, keep the fan running forever... turn it off",fan_off
+"good morning, because apparently it's morning again",good_morning
+heater band kar do before it gets ridiculous,heater_off
+"bro, stop the fan",fan_off
+"hey, check the heater",heater_status
+main door band karo yaar,door_close
+"fan ka status batao, no guessing",fans_status
+"bro, humidity kya hai please",humidity_status
+"yeah, freezing is my favorite; raise the temperature",temperature_up
+AC on,ac_on
+"yaar, activate movie mode yaar",movie_mode
+"TV band kar do, unless the empty screen has a show",tv_off
+"hey, check the home",home_status
+gaane band kar do before the whole building joins,music_off
+"hey, music off karo bro",music_off
+apparently the air is moving by magic; turn the fan on,fan_on
+apparently the house can look after itself; set away mode,away_mode
+"bro, urgent emergency at home!",emergency
+"yeah, freezing is my favorite; raise the temperature",temperature_up
+sleep mode on karo,sleep_mode
+apparently silence and music sound identical now; tell me the status,music_status
+please please unlock the door yaar,unlock_door
+"yaar, open the window!",window_open
+are the fans on please,fans_status
+"yaar, door unlock karo!",unlock_door
+"good night, house!",good_night
+please turn off the TV please,tv_off
+"yeah, let's guess whether the heater is on; check it",heater_status
+what is the fan status please,fans_status
+turn on away mode yaar,away_mode
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+i am leaving yaar,leaving_home
+"yeah, this is definitely not a time for jokes — emergency",emergency
+apparently the door should stay closed; open the door,door_open
+temperature down,temperature_down
+door unlock karo!,unlock_door
+"hey, lock the door bro",lock_door
+apparently doors don't have status; tell me if it's open,door_status
+"yaar, gaane chal rahe hain kya!",music_status
+are the lights on please,lights_status
+please TV ka status batao yaar,tv_status
+"hey, turn on away mode please",away_mode
+music chala do before this silence becomes dramatic,music_on
+fan chala do before I melt,fan_on
+"bro, AC chala do",ac_on
+check the home!,home_status
+humidity kitni hai? let's actually check,humidity_status
+"hey, suprabhat!",good_morning
+"bro, is the window open yaar",window_status
+"bro, turn on away mode yaar",away_mode
+"bro, set away mode",away_mode
+apparently I wanted stale air; window open karo,window_open
+"yaar, turn off the fan",fan_off
+apparently anyone should be able to walk in; lock it,lock_door
+please heater band kar do please,heater_off
+"TV ka status batao, no detective work from me",tv_status
+please TV chal raha hai kya bro,tv_status
+window ka status batao,window_status
+apparently we need a wind tunnel; window close karo,window_close
+"hey, night everyone",good_night
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+apparently we don't need a tropical climate indoors; heater off,heater_off
+"yaar, window close karo yaar",window_close
+AC band kar do before we need jackets indoors,ac_off
+which lights are on,lights_status
+"bro, turn on the TV",tv_on
+"hey, check the security please",security_status
+"hey, please unlock the door",unlock_door
+temp badha do before I become a snowman,temperature_up
+"yaar, disable the alarm!",alarm_off
+khidki band karo!,window_close
+"bro, is the window closed please",window_status
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+"yeah, I'll guess whether the door is open; check it",door_status
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+"bro, light band kar do yaar",light_off
+because apparently we love wasting electricity — light off,light_off
+"morning! yes, another day has arrived",good_morning
+heater off karo!,heater_off
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+fan off karo yaar,fan_off
+good morning home bro,good_morning
+please temp thoda decrease karo,temperature_down
+good morning please,good_morning
+please is the window closed,window_status
+"good night, because apparently sleep is finally allowed",good_night
+"hey, window ka status batao",window_status
+"hey, raise the temperature!",temperature_up
+lock the door yaar,lock_door
+"hey, temperature up",temperature_up
+please open the door please,door_open
+please alarm activate karo please,alarm_on
+"hey, fan off",fan_off
+heater chala do before I become an ice cube,heater_on
+"bro, check home security",security_status
+"bro, prepare the house for a movie!",movie_mode
+darwaza kholo before I start negotiating with it,door_open
+unlock the door please,unlock_door
+"hey, alarm band kar do!",alarm_off
+i am leaving please,leaving_home
+"bro, main ghar aa gayi!",welcome_home
+please heater off karo,heater_off
+"fan ka status batao, no guessing",fans_status
+"yaar, room light bujha do please",light_off
+please check the window bro,window_status
+window ka status batao before I check myself,window_status
+please lower the temperature,temperature_down
+"hey, humidity kya hai!",humidity_status
+"wow, what a surprise, light on please",light_on
+please set movie mode!,movie_mode
+"yeah, silence is overrated — play music",music_on
+heater band kar do before it gets ridiculous,heater_off
+"yaar, heater ka status batao please",heater_status
+"yaar, humidity kya hai!",humidity_status
+please fan chal raha hai kya,fans_status
+i'm leaving home bro,leaving_home
+"bro, set sleep mode please",sleep_mode
+"bro, main ghar aa gayi",welcome_home
+lights on hain kya bro,lights_status
+fan on kar do,fan_on
+apparently sweating is the plan; temp down,temperature_down
+prepare the house for when I leave yaar,away_mode
+AC off karo,ac_off
+"hey, room light bujha do!",light_off
+darwaza lock kar do before we forget again,lock_door
+"bro, ghar ko away mode par karo bro",away_mode
+music ka status batao before I start listening carefully,music_status
+please humidity kya hai yaar,humidity_status
+"yaar, put the light on please",light_on
+"bro, is the heater running please",heater_status
+please heater chal raha hai kya!,heater_status
+please start the TV please,tv_on
+"bro, please open the window!",window_open
+"hey, fans ka status batao yaar",fans_status
+"yeah, let's just assume the house is secure; check security",security_status
+please close the window please,window_close
+sleep mode on karo please,sleep_mode
+please what is the humidity yaar,humidity_status
+apparently I have time to check everything manually; home status please,home_status
+"bro, close the window bro",window_close
+"bro, TV chal raha hai kya!",tv_status
+apparently guessing the temperature is enough; tell me the current temperature,temperature_status
+khidki band kar do before everything starts flying,window_close
+"emergency hai, please treat this as urgent",emergency
+"bro, tell me the current temperature",temperature_status
+"bro, ghar mein sab theek hai kya bro",home_status
+"bro, main ghar aa gaya please",welcome_home
+heater band kar do before it gets ridiculous,heater_off
+"bro, room light on karo",light_on
+"yeah, let's roast the room... heater off please",heater_off
+stop the TV bro,tv_off
+"bro, set party mode",party_mode
+apparently we need a wind tunnel; window close karo,window_close
+"bro, is the heater running yaar",heater_status
+"yaar, is the AC on",ac_status
+please morning yaar,good_morning
+"great, time to leave the comfort of home; I'm leaving",leaving_home
+"yeah, silence is overrated — play music",music_on
+light chala do please,light_on
+"bro, heater on yaar",heater_on
+please heater chal raha hai kya!,heater_status
+darwaza kholo before I start negotiating with it,door_open
+"bro, tell me the current temperature bro",temperature_status
+turn off the fan yaar,fan_off
+"bro, door open karo",door_open
+please temperature up yaar,temperature_up
+"bro, music off karo",music_off
+"bro, alarm deactivate karo!",alarm_off
+please is the TV running!,tv_status
+"yaar, close the window yaar",window_close
+stop playing music,music_off
+"bro, ghar ko away mode par karo",away_mode
+check the humidity,humidity_status
+is music playing!,music_status
+apparently the AC can hide from me; tell me its status,ac_status
+"hey, fan chal raha hai kya",fans_status
+"bro, something is wrong, emergency please",emergency
+set movie mode yaar,movie_mode
+"yaar, turn on the heater",heater_on
+"yeah, leave everything running while I'm gone... activate away mode",away_mode
+sleep mode on karo before I accidentally wake the whole house,sleep_mode
+"hey, close the door",door_close
+"hey, emergency mode activate karo yaar",emergency
+"hey, turn off the TV bro",tv_off
+"yeah, waking up late sounds fantastic... set the alarm",alarm_on
+"bro, AC off karo",ac_off
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+humidity kya hai,humidity_status
+"yeah, waking up late sounds fantastic... set the alarm",alarm_on
+please AC off karo please,ac_off
+"help, emergency at home",emergency
+what is the security status bro,security_status
+please check the security,security_status
+"morning! yes, another day has arrived",good_morning
+please close the main door,door_close
+"hey, we are home please",welcome_home
+"yaar, close the room window yaar",window_close
+"bro, start the AC",ac_on
+"bro, switch the AC on yaar",ac_on
+apparently the heater has become invisible; tell me its status,heater_status
+music ka status batao before I start listening carefully,music_status
+increase the temperature,temperature_up
+please alarm laga do,alarm_on
+"yeah, obviously I want the light on",light_on
+"bro, raise the temperature please",temperature_up
+"hey, what is the humidity bro",humidity_status
+AC off karo yaar,ac_off
+TV off karo,tv_off
+AC off karo bro,ac_off
+decrease the temperature,temperature_down
+apparently I have to go outside again — leaving home,leaving_home
+alarm deactivate karo,alarm_off
+apparently nobody gets in today; unlock the door,unlock_door
+"yaar, music baja do yaar",music_on
+please party mode on karo,party_mode
+apparently I wanted stale air; window open karo,window_open
+"good morning, house",good_morning
+"hey, is the AC running!",ac_status
+alarm laga do before future-me complains,alarm_on
+apparently Antarctica is the goal; turn the AC off,ac_off
+door close karo!,door_close
+light off karo,light_off
+TV off,tv_off
+main door unlock karo yaar,unlock_door
+"fan band kar do, we're not powering the whole neighborhood",fan_off
+decrease the temperature!,temperature_down
+"hey, is the heater running",heater_status
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+"bro, ghar secure hai kya bro",security_status
+"yaar, current humidity batao bro",humidity_status
+"bro, open the window",window_open
+"yaar, what is the music status!",music_status
+"bro, disable the alarm",alarm_off
+please tell me the humidity yaar,humidity_status
+"alarm band kar do, enough drama",alarm_off
+tell me the humidity please,humidity_status
+please gaane band kar do,music_off
+"bro, AC chala do!",ac_on
+"yeah, let's just assume the house is secure; check security",security_status
+"bro, check the security bro",security_status
+"bro, temperature kya hai",temperature_status
+"hey, AC off",ac_off
+please close the door bro,door_close
+apparently movie night needs distractions; activate movie mode,movie_mode
+deactivate the alarm yaar,alarm_off
+apparently the air is moving by magic; turn the fan on,fan_on
+"yeah, tropical weather indoors sounds amazing... AC on",ac_on
+window ka status batao before I check myself,window_status
+what is the AC status please,ac_status
+"yaar, main ghar aa gaya please",welcome_home
+music ka status batao bro,music_status
+lights ka status batao before I start checking every room,lights_status
+"bro, check the humidity bro",humidity_status
+"bro, party mode on karo please",party_mode
+please alarm on,alarm_on
+gaane band kar do bro,music_off
+darwaza unlock kar do yaar,unlock_door
+"bro, temp thoda decrease karo yaar",temperature_down
+"bro, heater chala do!",heater_on
+"yaar, activate the alarm",alarm_on
+"hey, good morning home!",good_morning
+please music baja do please,music_on
+"bro, switch the TV on",tv_on
+please switch the fan off yaar,fan_off
+"bro, AC chala do please",ac_on
+turn on the TV please,tv_on
+"yaar, open the main door bro",door_open
+"hey, open the window",window_open
+"hey, light chala do yaar",light_on
+"yaar, temp thoda decrease karo",temperature_down
+apparently we need a wind tunnel; window close karo,window_close
+"please good night, house yaar",good_night
+"bro, start the AC please",ac_on
+temperature kam kar do before this becomes a sauna,temperature_down
+night! time to stop pretending I'm productive,good_night
+i am home bro,welcome_home
+khidki khuli hai kya please,window_status
+"bro, turn the music off bro",music_off
+temp kitna hai? I'd rather not guess,temperature_status
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+"hey, music start karo yaar",music_on
+"yaar, TV chal raha hai kya yaar",tv_status
+ghar secure hai kya!,security_status
+please alarm band kar do bro,alarm_off
+"hey, are the fans on!",fans_status
+"yaar, i am home",welcome_home
+activate sleep mode please,sleep_mode
+apparently anyone should be able to walk in; lock it,lock_door
+what is the temperature please,temperature_status
+"yeah, keep the fan running forever... turn it off",fan_off
+fans ka status batao please,fans_status
+apparently the room needs even more silence; music on,music_on
+fans ka status batao please,fans_status
+"yeah, let's guess whether the window is open; check it",window_status
+"yaar, activate movie mode",movie_mode
+"yeah, I'll guess whether the door is open; check it",door_status
+"yeah, this is definitely not a time for jokes — emergency",emergency
+"yaar, make the room cooler please",temperature_down
+"bro, unlock the main door yaar",unlock_door
+please TV off yaar,tv_off
+please main door band karo,door_close
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+apparently we can guess humidity; tell me the current humidity,humidity_status
+is the TV on yaar,tv_status
+please AC ka status batao,ac_status
+fan band kar do yaar,fan_off
+please are the fans on!,fans_status
+"hey, music rok do please",music_off
+apparently anyone should be able to walk in; lock it,lock_door
+please lock the door please,lock_door
+activate movie mode,movie_mode
+window open karo yaar,window_open
+alarm laga do before future-me complains,alarm_on
+"yaar, film dekhni hai, movie mode",movie_mode
+"yaar, switch the AC off",ac_off
+"bro, humidity kya hai bro",humidity_status
+fan band kar do!,fan_off
+temp kitna hai? I'd rather not guess,temperature_status
+fan on please,fan_on
+apparently everything is fine... it isn't. emergency,emergency
+"hey, temperature kam kar do bro",temperature_down
+please check the door yaar,door_status
+is the AC on!,ac_status
+temperature kya hai,temperature_status
+"yaar, heater off!",heater_off
+"bro, gaane band kar do",music_off
+AC band kar do,ac_off
+check the window bro,window_status
+please open the door!,door_open
+darwaza kholo before I start negotiating with it,door_open
+apparently nobody is watching; turn the TV off,tv_off
+"good night, because apparently sleep is finally allowed",good_night
+apparently I enjoy shivering; turn the heater on,heater_on
+"hey, good night home!",good_night
+"yeah, let's keep everything awake all night... activate sleep mode",sleep_mode
+"yaar, something is wrong, emergency",emergency
+"yaar, we're back home",welcome_home
+what is the temperature bro,temperature_status
+"bro, lights ka status batao bro",lights_status
+"bro, something is wrong, emergency!",emergency
+"hey, alarm on",alarm_on
+"yeah, let's guess whether the window is open; check it",window_status
+"bro, fan off karo!",fan_off
+please gaane chala do please,music_on
+apparently we need a wind tunnel; window close karo,window_close
+"hey, prepare the house for a movie",movie_mode
+"yaar, what is the temperature yaar",temperature_status
+door lock karo please,lock_door
+gaane band kar do,music_off
+"yaar, deactivate the alarm please",alarm_off
+gaane chal rahe hain kya please,music_status
+"yaar, door unlock karo",unlock_door
+turn on party mode bro,party_mode
+"bro, gaane chal rahe hain kya",music_status
+please prepare the house for sleep please,sleep_mode
+"bro, main door band karo",door_close
+alarm off,alarm_off
+"main ja raha hoon, house ko sambhal lena",leaving_home
+turn off the alarm bro,alarm_off
+"yaar, temperature kam kar do",temperature_down
+"yeah, tropical weather indoors sounds amazing... AC on",ac_on
+open the door bro,door_open
+enable the alarm!,alarm_on
+"yaar, main ghar aa gayi yaar",welcome_home
+turn on the fan!,fan_on
+"party hai bhai, party mode laga do",party_mode
+"yaar, raise the temperature",temperature_up
+is music playing!,music_status
+play music,music_on
+alarm laga do before future-me complains,alarm_on
+heater off karo please,heater_off
+enable the alarm yaar,alarm_on
+please what is the security status yaar,security_status
+please what is the fan status yaar,fans_status
+what is the TV status bro,tv_status
+"yaar, switch the heater off bro",heater_off
+"yaar, temperature badha do bro",temperature_up
+"hey, stop the heater please",heater_off
+apparently the door should stay closed; open the door,door_open
+please main ghar se ja rahi hoon!,leaving_home
+"yaar, activate movie mode",movie_mode
+lock the main door,lock_door
+please turn on away mode bro,away_mode
+"light on yaar, genius idea",light_on
+"hey, start the heater",heater_on
+"yaar, alarm off",alarm_off
+please music off karo please,music_off
+"hey, AC chala do",ac_on
+emergency mode activate karo please,emergency
+please set party mode,party_mode
+we are home,welcome_home
+apparently everything is fine... it isn't. emergency,emergency
+ghar mein sab theek hai kya!,home_status
+please is the TV on yaar,tv_status
+"yaar, music on please",music_on
+"hey, is the window open",window_status
+"bro, heater ka status batao please",heater_status
+please lights on hain kya bro,lights_status
+main door band karo yaar,door_close
+please TV band kar do bro,tv_off
+"wow, it's totally cool in here... fan on please",fan_on
+"yaar, khidki khuli hai kya",window_status
+"hey, check the security yaar",security_status
+"great, I'm finally home; hello house",welcome_home
+"bro, is the house secure bro",security_status
+"hey, please unlock the door",unlock_door
+"yeah, leave everything running while I'm gone... activate away mode",away_mode
+movie mode on karo,movie_mode
+AC off please,ac_off
+"hey, stop the music",music_off
+check the TV bro,tv_status
+"bro, start the music please",music_on
+TV chala do bro,tv_on
+"bro, fan chal raha hai kya!",fans_status
+apparently nobody gets in today; unlock the door,unlock_door
+"bro, room light on karo",light_on
+"bro, what is the door status",door_status
+please is the main door closed,door_status
+"bro, close the main door",door_close
+please main ghar se ja raha hoon yaar,leaving_home
+switch the TV off,tv_off
+tell me the current temperature,temperature_status
+please door open karo please,door_open
+apparently I wanted a sauna; turn the AC on,ac_on
+stop the heater,heater_off
+apparently privacy is optional; door close karo,door_close
+"bro, turn on the heater!",heater_on
+activate party mode,party_mode
+darwaza lock kar do before we forget again,lock_door
+"yaar, home status kya hai yaar",home_status
+i am leaving,leaving_home
+temp badha do before I become a snowman,temperature_up
+"yaar, activate party mode bro",party_mode
+good morning — let's pretend we're fully awake,good_morning
+"hey, turn on the TV!",tv_on
+"yeah, leave everything running while I'm gone... activate away mode",away_mode
+"film dekhni hai, movie mode yaar",movie_mode
+music start karo,music_on
+alarm deactivate karo yaar,alarm_off
+"bro, heater band kar do please",heater_off
+"yaar, khidki band karo",window_close
+please darwaza khol do,door_open
+humidity kitni hai? let's actually check,humidity_status
+"yeah, let's guess which lights are on; check the lights",lights_status
+"yeah, let's have a party in total silence... party mode on",party_mode
+because apparently the room is supposed to stay dark — turn the light on,light_on
+darwaza lock kar do bro,lock_door
+"hey, we are home please",welcome_home
+"yeah, waking up late sounds fantastic... set the alarm",alarm_on
+we are home,welcome_home
+darwaza kholo before I start negotiating with it,door_open
+"hey, alarm laga do!",alarm_on
+"bro, ghar mein sab theek hai kya!",home_status
+"yeah, silence is overrated — play music",music_on
+"yaar, AC chal raha hai kya yaar",ac_status
+please darwaza band kar do!,door_close
+AC off karo yaar,ac_off
+"yeah, let's have a party in total silence... party mode on",party_mode
+please light band kar do please,light_off
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+"yeah, tropical weather indoors sounds amazing... AC on",ac_on
+music ka status batao before I start listening carefully,music_status
+"bro, something is wrong, emergency!",emergency
+apparently nobody is watching; turn the TV off,tv_off
+"yeah, let's guess which lights are on; check the lights",lights_status
+"hey, switch the light on!",light_on
+"hey, close the door!",door_close
+please door ka status batao please,door_status
+"bro, prepare the house for sleep yaar",sleep_mode
+switch the TV off please,tv_off
+"hey, light on kar do",light_on
+please ghar ko away mode par karo,away_mode
+apparently everything is fine... it isn't. emergency,emergency
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+"main ghar aa gaya, finally",welcome_home
+"bro, temp kitna hai please",temperature_status
+"yeah, freezing is my favorite; raise the temperature",temperature_up
+ghar ka status batao before I do a full inspection,home_status
+"bro, stop the heater bro",heater_off
+"hey, we are home",welcome_home
+"yeah, let's guess which lights are on; check the lights",lights_status
+"yaar, darwaza lock kar do please",lock_door
+"hey, what is the temperature yaar",temperature_status
+"hey, khidki band karo bro",window_close
+"hey, room temperature batao yaar",temperature_status
+"hey, time for bed, good night!",good_night
+apparently the alarm needs the last word; alarm off,alarm_off
+please suprabhat bro,good_morning
+"yeah, let's freeze the room all day... AC off please",ac_off
+"yeah, fresh air is clearly overrated... open the window",window_open
+"yaar, is the door open yaar",door_status
+"hey, start the fan!",fan_on
+apparently the room needs even more silence; music on,music_on
+activate movie mode yaar,movie_mode
+"bro, activate movie mode bro",movie_mode
+"bro, stop the AC bro",ac_off
+"yaar, is the house secure",security_status
+music on yaar,music_on
+"yaar, turn on away mode please",away_mode
+"bro, heater chala do bro",heater_on
+"fan ka status batao, no guessing",fans_status
+check the window bro,window_status
+apparently the neighbors need a concert; music off,music_off
+"bro, fan band kar do",fan_off
+please open the door yaar,door_open
+alarm off bro,alarm_off
+please switch the fan on yaar,fan_on
+gaane band kar do before the whole building joins,music_off
+apparently the alarm needs the last word; alarm off,alarm_off
+apparently the heater has become invisible; tell me its status,heater_status
+heater ka status batao yaar,heater_status
+stop the music!,music_off
+"wow, it's totally cool in here... fan on please",fan_on
+"hey, TV on bro",tv_on
+switch the fan off bro,fan_off
+"yaar, i'm home please",welcome_home
+switch the TV on,tv_on
+"yaar, is the door open bro",door_status
+"bro, turn on the heater!",heater_on
+is the main door closed,door_status
+"security status batao, no guessing",security_status
+please door ka status batao,door_status
+"yaar, gaane chal rahe hain kya please",music_status
+"hey, humidity kya hai",humidity_status
+"light band kar do, unless we're trying to illuminate the whole planet",light_off
+apparently Antarctica is the goal; turn the AC off,ac_off
+AC band kar do before we need jackets indoors,ac_off
+fan on please,fan_on
+please alarm on please,alarm_on
+check the music,music_status
+"bro, switch the TV on bro",tv_on
+please switch the AC on bro,ac_on
+"hey, we're back home",welcome_home
+please close the window yaar,window_close
+please check the door!,door_status
+"yeah, security is totally unnecessary... lock the door",lock_door
+make the room warmer,temperature_up
+heater chala do before I become an ice cube,heater_on
+"yaar, alarm off please",alarm_off
+alarm laga do before future-me complains,alarm_on
+please main door band karo!,door_close
+tell me the humidity,humidity_status
+"yeah, I'll just stare at the wall and guess; check the TV",tv_status
+please lock the door!,lock_door
+please tell me the current temperature,temperature_status
+good night home please,good_night
+please set away mode!,away_mode
+make the room warmer,temperature_up
+"morning! yes, another day has arrived",good_morning
+TV on,tv_on
+"hey, which lights are on bro",lights_status
+"bro, lock the main door!",lock_door
+"yaar, darwaza khol do",door_open
+temp badha do before I become a snowman,temperature_up
+"hey, switch the light off!",light_off
+"bro, prepare the house for a party",party_mode
+"yeah, let's let the alarm scream forever... turn it off",alarm_off
+night! time to stop pretending I'm productive,good_night
+activate sleep mode,sleep_mode
+movie mode on karo please,movie_mode
+"yaar, fan off karo bro",fan_off
+activate away mode yaar,away_mode
+apparently we don't need a tropical climate indoors; heater off,heater_off
+please lights ka status batao,lights_status
+"bro, is anything playing",music_status
+"yaar, what is the security status!",security_status
+"hey, alarm deactivate karo",alarm_off
+"yeah, let's guess whether the window is open; check it",window_status
+"bro, what is the fan status yaar",fans_status
+please what is the heater status bro,heater_status
+are the lights on yaar,lights_status
+"yaar, shubh ratri bro",good_night
+apparently the house forgot it's a party; activate party mode,party_mode
+"yaar, turn on the TV!",tv_on
+heater on kar do,heater_on
+apparently I should trust luck; tell me the security status,security_status
+"yaar, prepare the house for a party",party_mode
+"main ghar aa gaya, finally",welcome_home
+please switch the light off please,light_off
+"yaar, is the TV on yaar",tv_status
+what is the AC status please,ac_status
+are the lights on!,lights_status
+please is the heater on please,heater_status
+"bro, check the window please",window_status
+temperature badha do!,temperature_up
+apparently everything is fine... it isn't. emergency,emergency
+"bro, heater band kar do yaar",heater_off
+"yeah, I'll just guess which fans are running; check them",fans_status
+"hey, switch the light on please",light_on
+light on kar do please,light_on
+"yeah, this is definitely not a time for jokes — emergency",emergency
+"yaar, is the AC on bro",ac_status
+please heater band kar do bro,heater_off
+"yaar, door lock karo!",lock_door
+"yeah, I'll magically know if the AC is running; check it",ac_status
+sleep mode on karo before I accidentally wake the whole house,sleep_mode
+"hey, tell me the current temperature yaar",temperature_status
+"yaar, how is everything at home please",home_status
+stop the TV,tv_off
+apparently I have to go outside again — leaving home,leaving_home
+apparently I have to go outside again — leaving home,leaving_home
+"bro, stop the music",music_off
+please good morning please,good_morning
+please is the window closed bro,window_status
+"bro, stop playing music",music_off
+"bro, time for bed, good night",good_night
+is the window closed!,window_status
+please close the window please,window_close
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+"yaar, stop the AC please",ac_off
+please TV chal raha hai kya,tv_status
+because apparently the fan has to work overtime — fan off,fan_off
+"bro, door open karo yaar",door_open
+apparently silence and music sound identical now; tell me the status,music_status
+"yeah, silence is overrated — play music",music_on
+"yeah, let's keep everyone outside forever... unlock the door",unlock_door
+"yeah, let's freeze the room all day... AC off please",ac_off
+"hey, raise the temperature yaar",temperature_up
+which lights are on yaar,lights_status
+"bro, switch the TV off yaar",tv_off
+"bro, window open karo yaar",window_open
+are the lights on yaar,lights_status
+apparently guessing the temperature is enough; tell me the current temperature,temperature_status
+please music start karo yaar,music_on
+"bro, main door kholo yaar",door_open
+"yeah, let's keep everything awake all night... activate sleep mode",sleep_mode
+"bro, main ghar se ja rahi hoon",leaving_home
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+"hey, heater off karo bro",heater_off
+apparently sleep mode is optional; turn it on,sleep_mode
+"yaar, is the AC running!",ac_status
+"hey, open the window bro",window_open
+"hey, darwaza band kar do please",door_close
+please music start karo!,music_on
+"hey, TV on kar do",tv_on
+"TV chala do, unless the blank screen is tonight's entertainment",tv_on
+"yeah, let's watch a blank screen all night... TV off",tv_off
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+"yeah, I'll just guess which fans are running; check them",fans_status
+apparently I have time to check everything manually; home status please,home_status
+what is the light status,lights_status
+apparently I have time to check everything manually; home status please,home_status
+turn off the AC please,ac_off
+apparently guessing the temperature is enough; tell me the current temperature,temperature_status
+"main ghar aa gaya, finally",welcome_home
+check the security,security_status
+"yaar, ghar ko away mode par karo",away_mode
+"yaar, check the lights bro",lights_status
+"yeah, let's watch a blank screen all night... TV off",tv_off
+which fans are running,fans_status
+"bro, fan chal raha hai kya please",fans_status
+"TV ka status batao, no detective work from me",tv_status
+switch the AC on bro,ac_on
+is anything playing,music_status
+close the window,window_close
+please good morning yaar,good_morning
+"yaar, darwaza khol do bro",door_open
+turn on party mode,party_mode
+door ka status batao before I walk into a surprise,door_status
+please check the AC yaar,ac_status
+"bro, we are leaving!",leaving_home
+prepare the house for a movie,movie_mode
+"hey, we're back home please",welcome_home
+apparently I have time to check everything manually; home status please,home_status
+TV off,tv_off
+"yaar, something is wrong, emergency",emergency
+enable the alarm yaar,alarm_on
+please morning everyone please,good_morning
+"hey, TV band kar do",tv_off
+"bro, i am home yaar",welcome_home
+gaane band kar do yaar,music_off
+"hey, turn on the heater yaar",heater_on
+music chala do before this silence becomes dramatic,music_on
+"hey, darwaza unlock kar do",unlock_door
+"bro, darwaza khol do!",door_open
+"help, emergency at home",emergency
+"hey, what is the heater status!",heater_status
+check the lights,lights_status
+"yaar, switch the light on!",light_on
+"yaar, is the TV running!",tv_status
+open the door please,door_open
+music baja do please,music_on
+window open karo bro,window_open
+"yaar, are the fans on",fans_status
+apparently the house can look after itself; set away mode,away_mode
+"yaar, TV ka status batao yaar",tv_status
+"yeah, let's roast the room... heater off please",heater_off
+temperature kam kar do yaar,temperature_down
+please TV chal raha hai kya!,tv_status
+"yeah, let's freeze the room all day... AC off please",ac_off
+please turn off the heater,heater_off
+"hey, what is the music status",music_status
+"hey, AC on kar do!",ac_on
+"hey, is the house secure please",security_status
+please khidki khol do yaar,window_open
+"yeah, let's guess which lights are on; check the lights",lights_status
+"bro, prepare the house for when I leave",away_mode
+"yeah, I'll magically know if the AC is running; check it",ac_status
+switch the fan off yaar,fan_off
+"yaar, heater off karo!",heater_off
+"yeah, let's turn the room into a furnace; lower the temperature",temperature_down
+apparently windows have secret modes; tell me its status,window_status
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+AC chala do before this room becomes an oven,ac_on
+"hey, start the heater",heater_on
+apparently silence and music sound identical now; tell me the status,music_status
+"bro, film dekhni hai, movie mode yaar",movie_mode
+please light on kar do,light_on
+"hey, play some music yaar",music_on
+"main ghar aa gaya, finally",welcome_home
+heater ka status batao yaar,heater_status
+"yaar, close the room window!",window_close
+please TV chala do please,tv_on
+please heater off bro,heater_off
+"yaar, AC chala do",ac_on
+"yaar, good morning!",good_morning
+"TV chala do, unless the blank screen is tonight's entertainment",tv_on
+movie mode on karo please,movie_mode
+"yeah, let's invite all the outside air in... close the window",window_close
+movie mode on karo bro,movie_mode
+make the room warmer bro,temperature_up
+"main ja raha hoon, house ko sambhal lena",leaving_home
+"hey, turn on the alarm please",alarm_on
+"hey, fan on",fan_on
+"yaar, main ghar aa gayi",welcome_home
+"yeah, being cold is fun... heater on please",heater_on
+"hey, temp thoda decrease karo yaar",temperature_down
+"hey, are the lights on",lights_status
+"yaar, fan on kar do please",fan_on
+"hey, what is the heater status",heater_status
+"bro, turn off the fan",fan_off
+temperature kam kar do before this becomes a sauna,temperature_down
+apparently nobody gets in today; unlock the door,unlock_door
+"yaar, is the heater on",heater_status
+"bro, door unlock karo",unlock_door
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+please switch the TV off bro,tv_off
+"hey, alarm off please",alarm_off
+"yaar, window close karo please",window_close
+lights on hain kya yaar,lights_status
+lights on hain kya please,lights_status
+"yeah, being cold is fun... heater on please",heater_on
+"yaar, lock the main door",lock_door
+turn on sleep mode!,sleep_mode
+is the heater on,heater_status
+"hey, turn the music off yaar",music_off
+please close the door bro,door_close
+apparently the alarm needs the last word; alarm off,alarm_off
+switch the heater off bro,heater_off
+"hey, main door kholo yaar",door_open
+is the house secure yaar,security_status
+"yaar, main ghar se ja raha hoon",leaving_home
+"yeah, I'll just stare at the wall and guess; check the TV",tv_status
+please open the window bro,window_open
+apparently privacy is optional; door close karo,door_close
+"hey, play some music",music_on
+window close karo please,window_close
+"heater ka status batao, please",heater_status
+please open the window,window_open
+"bro, humidity kitni hai",humidity_status
+AC band kar do before we need jackets indoors,ac_off
+khidki band kar do before everything starts flying,window_close
+music ka status batao!,music_status
+temp kitna hai? I'd rather not guess,temperature_status
+"fan ka status batao, no guessing",fans_status
+"hey, is the heater on",heater_status
+disable the alarm!,alarm_off
+"bro, i am leaving!",leaving_home
+"yaar, shubh ratri",good_night
+"yaar, away mode on karo",away_mode
+"yaar, is anything playing yaar",music_status
+"yaar, fan chala do",fan_on
+apparently sleep mode is optional; turn it on,sleep_mode
+apparently sweating is the plan; temp down,temperature_down
+please check the temperature please,temperature_status
+heater off karo bro,heater_off
+heater on kar do yaar,heater_on
+khidki kholo please,window_open
+apparently everything is fine... it isn't. emergency,emergency
+apparently I enjoy shivering; turn the heater on,heater_on
+please switch the TV off!,tv_off
+"sure, let's keep sitting in darkness... turn it on",light_on
+"fan ka status batao, no guessing",fans_status
+"hey, AC off please",ac_off
+apparently the heater has become invisible; tell me its status,heater_status
+door ka status batao before I walk into a surprise,door_status
+temperature kam kar do please,temperature_down
+darwaza band kar do before the whole world walks in,door_close
+fan off karo,fan_off
+"bro, put the light off!",light_off
+"bro, please close the door yaar",door_close
+"hey, AC off bro",ac_off
+please check the lights,lights_status
+please temperature kam kar do,temperature_down
+"hey, turn off the light",light_off
+apparently the heater has become invisible; tell me its status,heater_status
+"hey, we are leaving",leaving_home
+"bro, sone ka mode laga do",sleep_mode
+AC band kar do before we need jackets indoors,ac_off
+ghar ka status batao!,home_status
+TV off,tv_off
+open the door,door_open
+because apparently the fan has to work overtime — fan off,fan_off
+"hey, darwaza lock kar do",lock_door
+please tell me the current temperature bro,temperature_status
+"yeah, I'll just stare at the wall and guess; check the TV",tv_status
+lights ka status batao before I start checking every room,lights_status
+"yaar, good night, house",good_night
+"hey, is the heater running",heater_status
+"hey, is the main door closed",door_status
+play music,music_on
+please door close karo please,door_close
+please gaane chal rahe hain kya yaar,music_status
+temperature badha do,temperature_up
+apparently I wanted a sauna; turn the AC on,ac_on
+"yaar, morning please",good_morning
+switch the heater on yaar,heater_on
+disable the alarm bro,alarm_off
+"hey, ghar secure hai kya",security_status
+please sone ka mode laga do please,sleep_mode
+"yeah, let's watch a blank screen all night... TV off",tv_off
+start the fan please,fan_on
+"hey, set movie mode yaar",movie_mode
+main ghar aa gayi,welcome_home
+"yaar, is the TV on",tv_status
+"yeah, fresh air is clearly overrated... open the window",window_open
+darwaza kholo before I start negotiating with it,door_open
+turn on the TV,tv_on
+"yeah, let's guess whether the heater is on; check it",heater_status
+khidki band kar do bro,window_close
+"yaar, turn on the fan",fan_on
+apparently the fans have secret lives; tell me their status,fans_status
+"yeah, let's leave the door wide open... close it",door_close
+apparently the house forgot it's a party; activate party mode,party_mode
+good morning home bro,good_morning
+"bro, good morning please",good_morning
+apparently the heater has become invisible; tell me its status,heater_status
+"good morning, because apparently it's morning again",good_morning
+which fans are running yaar,fans_status
+"light band kar do, unless we're trying to illuminate the whole planet",light_off
+put the light off please,light_off
+apparently anyone should be able to walk in; lock it,lock_door
+"hey, room light on karo bro",light_on
+"yaar, start the TV",tv_on
+"yaar, khidki kholo please",window_open
+music baja do please,music_on
+"hey, open the room window",window_open
+"bro, turn on the alarm please",alarm_on
+door close karo yaar,door_close
+away mode on karo,away_mode
+"yeah, let's make the music louder forever... stop it",music_off
+is the main door closed bro,door_status
+is the heater running bro,heater_status
+please movie mode on karo,movie_mode
+"hey, lights off!",light_off
+is the window closed bro,window_status
+"bro, turn on the TV",tv_on
+"good night, house; we're done for today",good_night
+"yaar, main door band karo please",door_close
+close the door,door_close
+"great, I'm finally home; hello house",welcome_home
+please heater chala do please,heater_on
+"yaar, heater on kar do bro",heater_on
+please we are leaving please,leaving_home
+unlock the door bro,unlock_door
+"yaar, lights ka status batao please",lights_status
+"hey, music ka status batao please",music_status
+"yaar, TV chala do",tv_on
+"hey, door open karo",door_open
+"bro, is the door open yaar",door_status
+"yaar, window close karo",window_close
+alarm band kar do yaar,alarm_off
+"hey, turn off the alarm",alarm_off
+darwaza kholo before I start negotiating with it,door_open
+lights on bro,light_on
+please stop the music,music_off
+turn on the alarm please,alarm_on
+please music rok do bro,music_off
+"yaar, is the AC running please",ac_status
+"hey, TV ka status batao yaar",tv_status
+"bro, temperature kya hai",temperature_status
+"bro, window close karo please",window_close
+"yaar, check the heater bro",heater_status
+main ghar se ja rahi hoon yaar,leaving_home
+"hey, emergency mode activate karo please",emergency
+"yeah, let's make the music louder forever... stop it",music_off
+check the door yaar,door_status
+"yaar, TV chal raha hai kya bro",tv_status
+"yaar, how is everything at home",home_status
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+stop the heater,heater_off
+apparently the house can look after itself; set away mode,away_mode
+"yaar, window open karo please",window_open
+"hey, suprabhat",good_morning
+"bro, is the window closed!",window_status
+AC chala do before this room becomes an oven,ac_on
+"yaar, alarm off!",alarm_off
+"bro, music start karo please",music_on
+fans ka status batao!,fans_status
+please we're back home,welcome_home
+"bro, darwaza khol do!",door_open
+what is the home status!,home_status
+"yeah, let's have a party in total silence... party mode on",party_mode
+"yaar, check the home",home_status
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+"yaar, make the room cooler bro",temperature_down
+"yeah, freezing is my favorite; raise the temperature",temperature_up
+apparently windows have secret modes; tell me its status,window_status
+please door open karo please,door_open
+open the door!,door_open
+apparently I have time to check everything manually; home status please,home_status
+music off!,music_off
+please away mode on karo!,away_mode
+apparently windows have secret modes; tell me its status,window_status
+please good morning home!,good_morning
+"yaar, prepare the house for a movie",movie_mode
+apparently I have x-ray vision — tell me the light status,lights_status
+"great, another light nobody needs; turn it off",light_off
+TV on,tv_on
+music off karo!,music_off
+"hey, stop the fan",fan_off
+"great, another light nobody needs; turn it off",light_off
+"yaar, unlock the main door bro",unlock_door
+"hey, darwaza khol do bro",door_open
+"hey, darwaza unlock kar do please",unlock_door
+"yaar, suprabhat please",good_morning
+"yeah, I'll inspect every room myself; just tell me the home status",home_status
+"hey, gaane band kar do",music_off
+"yeah, I'll magically know if the AC is running; check it",ac_status
+please temperature kya hai!,temperature_status
+switch the light off bro,light_off
+"bro, open the door please",door_open
+"yeah, keep the fan running forever... turn it off",fan_off
+please switch the fan on,fan_on
+please stop the AC bro,ac_off
+party ke liye setup karo!,party_mode
+"yaar, check the humidity",humidity_status
+"bro, temp thoda increase karo",temperature_up
+please make the room cooler please,temperature_down
+apparently the alarm needs the last word; alarm off,alarm_off
+please AC on bro,ac_on
+"bro, music start karo please",music_on
+"hey, lights on yaar",light_on
+"yeah, I'll inspect every room myself; just tell me the home status",home_status
+"hey, unlock the door please",unlock_door
+"yaar, prepare the house for a movie",movie_mode
+"bro, set sleep mode!",sleep_mode
+please switch the fan off,fan_off
+"bro, is anything playing yaar",music_status
+temp thoda decrease karo,temperature_down
+"yeah, I'll magically know if the AC is running; check it",ac_status
+"yeah, let's have a party in total silence... party mode on",party_mode
+"yaar, lights off please",light_off
+"hey, main door kholo!",door_open
+emergency mode activate karo!,emergency
+please we are leaving!,leaving_home
+apparently sweating is the plan; temp down,temperature_down
+"bro, is the TV running bro",tv_status
+temp kitna hai? I'd rather not guess,temperature_status
+sleep mode on karo before I accidentally wake the whole house,sleep_mode
+turn on party mode yaar,party_mode
+room temperature batao yaar,temperature_status
+"yeah, let's turn the room into a furnace; lower the temperature",temperature_down
+start the AC,ac_on
+we are leaving!,leaving_home
+activate party mode bro,party_mode
+TV off,tv_off
+"yeah, I'll magically know if the AC is running; check it",ac_status
+tell me the humidity,humidity_status
+light on kar do!,light_on
+because apparently we love wasting electricity — light off,light_off
+"hey, we're heading out",leaving_home
+main ghar se ja raha hoon!,leaving_home
+"hey, set sleep mode please",sleep_mode
+apparently nobody is watching; turn the TV off,tv_off
+what is the home status!,home_status
+check the lights,lights_status
+khidki band karo bro,window_close
+ghar secure hai kya bro,security_status
+apparently windows have secret modes; tell me its status,window_status
+apparently I wanted a sauna; turn the AC on,ac_on
+"yaar, window close karo yaar",window_close
+"yeah, let's guess whether the heater is on; check it",heater_status
+please good morning yaar,good_morning
+"hey, start the heater yaar",heater_on
+"hey, heater on kar do yaar",heater_on
+turn off the AC please,ac_off
+please lock the door,lock_door
+"bro, turn off the TV!",tv_off
+"yaar, fans ka status batao",fans_status
+"bro, night everyone!",good_night
+"yeah, obviously I want the light on",light_on
+apparently the alarm needs the last word; alarm off,alarm_off
+AC ka status batao,ac_status
+temperature kam kar do before this becomes a sauna,temperature_down
+"hey, time for bed, good night",good_night
+activate away mode!,away_mode
+"bro, what is the security status",security_status
+"yaar, stop playing music!",music_off
+temperature kam kar do!,temperature_down
+is the AC on,ac_status
+apparently anyone should be able to walk in; lock it,lock_door
+"bro, lights off",light_off
+"yaar, main ghar se ja rahi hoon bro",leaving_home
+"yaar, fan on kar do yaar",fan_on
+door unlock karo please,unlock_door
+turn on away mode yaar,away_mode
+fan band kar do,fan_off
+please room light bujha do bro,light_off
+apparently everything is fine... it isn't. emergency,emergency
+"hey, alarm off bro",alarm_off
+"bro, start the fan!",fan_on
+tell me the humidity bro,humidity_status
+light chala do bro,light_on
+switch the AC on,ac_on
+please lock the door!,lock_door
+urgent emergency at home yaar,emergency
+we are leaving,leaving_home
+"yaar, is the TV on bro",tv_status
+"hey, light off karo!",light_off
+apparently the room needs even more silence; music on,music_on
+"bro, AC ka status batao!",ac_status
+"hey, disable the alarm please",alarm_off
+temperature kam kar do before this becomes a sauna,temperature_down
+please darwaza lock kar do,lock_door
+"bro, is anything playing please",music_status
+make the room warmer,temperature_up
+apparently I wanted stale air; window open karo,window_open
+switch the fan on please,fan_on
+please heater off!,heater_off
+"TV ka status batao, no detective work from me",tv_status
+please unlock the door,unlock_door
+"good morning, because apparently it's morning again",good_morning
+"bro, AC chala do!",ac_on
+"main ghar aa gaya, finally",welcome_home
+apparently tomorrow can start whenever it wants; alarm on,alarm_on
+please shubh ratri,good_night
+khidki band kar do before everything starts flying,window_close
+"yaar, humidity kitni hai yaar",humidity_status
+apparently privacy is optional; door close karo,door_close
+"yaar, is the AC on yaar",ac_status
+apparently the house forgot it's a party; activate party mode,party_mode
+"yaar, is the AC on",ac_status
+"hey, turn on the TV bro",tv_on
+"bro, something is wrong, emergency",emergency
+"back home, because apparently the outside world was enough",welcome_home
+alarm laga do before future-me complains,alarm_on
+we are home yaar,welcome_home
+"TV ka status batao, no detective work from me",tv_status
+"yaar, door lock karo!",lock_door
+please darwaza lock kar do,lock_door
+good morning — let's pretend we're fully awake,good_morning
+"bro, is the main door closed please",door_status
+make the room warmer,temperature_up
+"hey, close the main door yaar",door_close
+"bro, door unlock karo",unlock_door
+good morning — let's pretend we're fully awake,good_morning
+please temp thoda decrease karo yaar,temperature_down
+apparently I should trust luck; tell me the security status,security_status
+"emergency hai, please treat this as urgent",emergency
+please we are home,welcome_home
+"bro, please close the door please",door_close
+"yeah, I'll just stare at the wall and guess; check the TV",tv_status
+"bro, window close karo",window_close
+"bro, set party mode",party_mode
+please lock the door,lock_door
+which lights are on,lights_status
+put the light off bro,light_off
+"hey, light band kar do please",light_off
+what is the door status please,door_status
+"bro, TV off karo!",tv_off
+"yaar, light on kar do bro",light_on
+door ka status batao!,door_status
+humidity kitni hai? let's actually check,humidity_status
+"hey, check the home",home_status
+"yaar, room light bujha do please",light_off
+what is the AC status,ac_status
+please is anything playing,music_status
+"yaar, turn off the AC",ac_off
+"yaar, temperature down",temperature_down
+"bro, set sleep mode",sleep_mode
+"yaar, night everyone",good_night
+what is the humidity!,humidity_status
+alarm activate karo,alarm_on
+main ghar aa gaya please,welcome_home
+heater ka status batao,heater_status
+"hey, temperature up",temperature_up
+home status kya hai yaar,home_status
+"bro, ghar secure hai kya",security_status
+what is the fan status,fans_status
+"great, time to leave the comfort of home; I'm leaving",leaving_home
+turn off the AC yaar,ac_off
+temp kitna hai? I'd rather not guess,temperature_status
+stop playing music yaar,music_off
+apparently the room needs even more silence; music on,music_on
+please which fans are running,fans_status
+"yaar, temperature kam kar do yaar",temperature_down
+"hey, room temperature batao yaar",temperature_status
+"emergency hai, please treat this as urgent",emergency
+please khidki band karo!,window_close
+"bro, increase the temperature please",temperature_up
+"hey, music rok do",music_off
+apparently nobody is watching; turn the TV off,tv_off
+please turn off the TV yaar,tv_off
+"yeah, let's roast the room... heater off please",heater_off
+gaane band kar do,music_off
+music off karo,music_off
+gaane chala do bro,music_on
+"yeah, fresh air is clearly overrated... open the window",window_open
+turn on the light!,light_on
+"yaar, check the TV",tv_status
+"hey, turn on the heater please",heater_on
+"yaar, is the heater on bro",heater_status
+what is the fan status yaar,fans_status
+"bro, set party mode yaar",party_mode
+what is the fan status,fans_status
+"yaar, night everyone",good_night
+"bro, temperature kam kar do bro",temperature_down
+"yaar, heater off",heater_off
+"fan band kar do, we're not powering the whole neighborhood",fan_off
+"yaar, is the door open please",door_status
+please alarm band kar do,alarm_off
+"hey, main door unlock karo",unlock_door
+"heater ka status batao, please",heater_status
+please this is an emergency yaar,emergency
+apparently we can guess humidity; tell me the current humidity,humidity_status
+because apparently the fan has to work overtime — fan off,fan_off
+heater band kar do before it gets ridiculous,heater_off
+"bro, switch the light on bro",light_on
+main ghar se ja rahi hoon bro,leaving_home
+"yaar, activate movie mode",movie_mode
+apparently I have to go outside again — leaving home,leaving_home
+fan chala do before I melt,fan_on
+apparently I enjoy shivering; turn the heater on,heater_on
+temp badha do before I become a snowman,temperature_up
+"yeah, tropical weather indoors sounds amazing... AC on",ac_on
+emergency,emergency
+party mode on karo,party_mode
+please i'm home,welcome_home
+"darwaza unlock kar do, we're not running a fortress",unlock_door
+please unlock the door,unlock_door
+turn off the AC please,ac_off
+"hey, turn on sleep mode yaar",sleep_mode
+"yaar, temperature up",temperature_up
+"bro, music ka status batao yaar",music_status
+because apparently the fan has to work overtime — fan off,fan_off
+"hey, what is the fan status yaar",fans_status
+"yaar, fan off karo bro",fan_off
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+"hey, AC on kar do please",ac_on
+check the TV!,tv_status
+"TV ka status batao, no detective work from me",tv_status
+lights off,light_off
+apparently privacy is optional; door close karo,door_close
+please lights ka status batao,lights_status
+"good morning, house yaar",good_morning
+check the TV yaar,tv_status
+"yeah, obviously I want the light on",light_on
+darwaza lock kar do before we forget again,lock_door
+please ghar secure hai kya,security_status
+"hey, switch the light on yaar",light_on
+please gaane band kar do!,music_off
+"bro, something is wrong, emergency yaar",emergency
+please is music playing,music_status
+"bro, morning bro",good_morning
+"yeah, I'll guess whether the door is open; check it",door_status
+"hey, lights ka status batao",lights_status
+"hey, check the TV bro",tv_status
+music ka status batao!,music_status
+room light bujha do!,light_off
+apparently the door should stay closed; open the door,door_open
+please is the AC running!,ac_status
+music start karo,music_on
+"yaar, party mode on karo please",party_mode
+is the window closed!,window_status
+"party hai bhai, party mode laga do",party_mode
+"hey, is the window open!",window_status
+please open the door please,door_open
+"yaar, alarm laga do!",alarm_on
+"time for bed, good night",good_night
+check the lights yaar,lights_status
+AC band kar do before we need jackets indoors,ac_off
+"yeah, waking up late sounds fantastic... set the alarm",alarm_on
+deactivate the alarm please,alarm_off
+turn off the TV yaar,tv_off
+AC chal raha hai kya please,ac_status
+stop the AC bro,ac_off
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+"main bahar ja raha hoon, away mode laga do",away_mode
+apparently the room needs even more silence; music on,music_on
+please fan off!,fan_off
+"bro, what is the humidity please",humidity_status
+"hey, ghar mein sab theek hai kya bro",home_status
+fans ka status batao,fans_status
+what is the window status bro,window_status
+"yaar, check the heater",heater_status
+please music off karo bro,music_off
+please alarm off!,alarm_off
+"fan band kar do, we're not powering the whole neighborhood",fan_off
+please sleep mode on karo bro,sleep_mode
+"bro, is the TV running please",tv_status
+"yaar, what is the humidity",humidity_status
+"bro, party ke liye setup karo",party_mode
+"hey, how is everything at home!",home_status
+"yaar, start the music please",music_on
+"yaar, is music playing yaar",music_status
+"yaar, khidki band karo!",window_close
+"bro, please open the door",door_open
+apparently the alarm needs the last word; alarm off,alarm_off
+"hey, window open karo please",window_open
+good night home!,good_night
+shubh ratri,good_night
+"back home, because apparently the outside world was enough",welcome_home
+apparently we're living in a freezer; temperature up,temperature_up
+"help, emergency at home yaar",emergency
+"yaar, this is an emergency please",emergency
+apparently sweating is the plan; temp down,temperature_down
+"yaar, temp thoda increase karo please",temperature_up
+"yeah, obviously I want the light on",light_on
+apparently guessing the temperature is enough; tell me the current temperature,temperature_status
+"bro, temperature kya hai",temperature_status
+"hey, activate away mode",away_mode
+gaane band kar do bro,music_off
+"bro, is the heater running",heater_status
+"hey, emergency please",emergency
+door lock karo!,lock_door
+apparently the AC can hide from me; tell me its status,ac_status
+"yaar, turn on the fan please",fan_on
+"hey, what is the TV status please",tv_status
+"hey, enable the alarm",alarm_on
+"yaar, door unlock karo",unlock_door
+"great, I'm finally home; hello house",welcome_home
+"movie dekhni hai, distractions hatao — movie mode",movie_mode
+please light on kar do!,light_on
+"bro, home status kya hai yaar",home_status
+"bro, good night yaar",good_night
+"yaar, switch the AC on yaar",ac_on
+"bro, main door unlock karo bro",unlock_door
+"yaar, we are home yaar",welcome_home
+please we are home,welcome_home
+"yaar, lock the main door yaar",lock_door
+"yaar, fan on kar do",fan_on
+apparently we need a wind tunnel; window close karo,window_close
+"bro, is the heater on yaar",heater_status
+"bro, khidki khuli hai kya bro",window_status
+check the music bro,music_status
+"yeah, obviously I want the light on",light_on
+"hey, set party mode please",party_mode
+"bro, alarm off",alarm_off
+"yaar, which fans are running yaar",fans_status
+apparently I wanted stale air; window open karo,window_open
+"yeah, let's watch a movie with every light blazing... movie mode on",movie_mode
+please open the room window!,window_open
+"please time for bed, good night please",good_night
+"yeah, let's watch a movie with every light blazing... movie mode on",movie_mode
+"yeah, because I definitely know the temperature already — check it",temperature_status
+please door unlock karo yaar,unlock_door
+door ka status batao before I walk into a surprise,door_status
+check the AC yaar,ac_status
+"yaar, film dekhni hai, movie mode!",movie_mode
+"yeah, let's guess whether the window is open; check it",window_status
+"hey, AC on kar do please",ac_on
+apparently movie night needs distractions; activate movie mode,movie_mode
+"yeah, leave it blazing all night... NOT. turn it off",light_off
+apparently I should trust luck; tell me the security status,security_status
+apparently I wanted a sauna; turn the AC on,ac_on
+door ka status batao!,door_status
+"bro, switch the TV on please",tv_on
+apparently the neighbors need a concert; music off,music_off
+sone ka mode laga do yaar,sleep_mode
+lights on hain kya!,lights_status
+apparently privacy is optional; door close karo,door_close
+khidki band kar do before everything starts flying,window_close
+door open karo please,door_open
+"yeah, being cold is fun... heater on please",heater_on
+turn off the alarm please,alarm_off
+what is the music status please,music_status
+"yeah, fresh air is clearly overrated... open the window",window_open
+"yeah, let's guess which lights are on; check the lights",lights_status
+temp thoda decrease karo,temperature_down
+apparently the alarm needs the last word; alarm off,alarm_off
+"yeah, leave it blazing all night... NOT. turn it off",light_off
+raise the temperature,temperature_up
+humidity kitni hai? let's actually check,humidity_status
+"bro, activate the alarm!",alarm_on
+"yaar, TV ka status batao yaar",tv_status
+"yaar, door close karo bro",door_close
+"yaar, check the door yaar",door_status
+start the fan,fan_on
+music start karo please,music_on
+"yaar, TV chal raha hai kya please",tv_status
+"yaar, TV ka status batao please",tv_status
+"yaar, lower the temperature",temperature_down
+turn off the heater!,heater_off
+enable the alarm bro,alarm_on
+"yaar, turn on away mode please",away_mode
+"fan ka status batao, no guessing",fans_status
+please activate party mode bro,party_mode
+"yaar, movie mode on karo",movie_mode
+turn on party mode yaar,party_mode
+"hey, sone ka mode laga do please",sleep_mode
+home status kya hai bro,home_status
+apparently the neighbors need a concert; music off,music_off
+please lights on,light_on
+"please help, emergency at home yaar",emergency
+"yaar, turn on movie mode",movie_mode
+"bro, light on kar do bro",light_on
+"yaar, prepare the house for when I leave",away_mode
+lights ka status batao yaar,lights_status
+apparently the fans have secret lives; tell me their status,fans_status
+"hey, good morning",good_morning
+turn off the light bro,light_off
+"hey, is the heater on please",heater_status
+"hey, is the house secure bro",security_status
+"hey, sleep mode on karo",sleep_mode
+"hey, TV off karo bro",tv_off
+"bro, check the AC",ac_status
+"hey, movie mode on karo bro",movie_mode
+is the window open!,window_status
+"yaar, check the AC yaar",ac_status
+apparently the TV status is a mystery; tell me if it's on,tv_status
+apparently the TV should stay off forever; turn it on,tv_on
+apparently I wanted a sauna; turn the AC on,ac_on
+please what is the music status bro,music_status
+"yeah, I'll inspect every room myself; just tell me the home status",home_status
+please fan band kar do,fan_off
+"bro, turn on sleep mode please",sleep_mode
+temp kitna hai? I'd rather not guess,temperature_status
+"yeah, let's guess whether the window is open; check it",window_status
+music off,music_off
+please is the window closed please,window_status
+apparently the fans have secret lives; tell me their status,fans_status
+please open the window please,window_open
+check the security!,security_status
+switch the light on!,light_on
+darwaza kholo before I start negotiating with it,door_open
+"hey, ghar mein sab theek hai kya!",home_status
+"hey, check the lights",lights_status
+"good morning, house!",good_morning
+"yeah, let me keep sweating — just kidding, fan on",fan_on
+"yaar, humidity kitni hai",humidity_status
+turn off the fan,fan_off
+darwaza lock kar do yaar,lock_door
+"yaar, fan off karo",fan_off
+"good morning, because apparently it's morning again",good_morning
+please heater on kar do please,heater_on
+"hey, gaane chala do bro",music_on
+apparently the house forgot it's a party; activate party mode,party_mode
+"hey, put the light on yaar",light_on
+"yaar, good morning home please",good_morning
+please make the room warmer!,temperature_up
+"hey, close the door bro",door_close
+"hey, open the main door",door_open
+room temperature batao yaar,temperature_status
+apparently I have x-ray vision — tell me the light status,lights_status
+"yaar, heater chal raha hai kya!",heater_status
+"hey, turn on the AC bro",ac_on
+please fan on kar do bro,fan_on
+increase the temperature please,temperature_up
+please gaane chala do bro,music_on
+"yaar, i'm home bro",welcome_home
+AC off karo bro,ac_off
+"yeah, I'll guess whether music is playing; check it",music_status
+"main bahar ja raha hoon, away mode laga do",away_mode
+"yaar, stop the heater!",heater_off
+"yeah, let's make the music louder forever... stop it",music_off
+apparently I wanted a sauna; turn the AC on,ac_on
+darwaza band kar do before the whole world walks in,door_close
+"yaar, i am leaving",leaving_home
+"yaar, is the AC running",ac_status
+"hey, i am home please",welcome_home
+"bro, please close the door bro",door_close
+"sure, let's keep sitting in darkness... turn it on",light_on
+"hey, what is the security status yaar",security_status
+fan on kar do yaar,fan_on
+tell me the current temperature,temperature_status
+please check the fans,fans_status
+"yaar, is the main door closed bro",door_status
+music chala do before this silence becomes dramatic,music_on
+"bro, time for bed, good night please",good_night
+away mode on karo,away_mode
+apparently the house can look after itself; set away mode,away_mode
+switch the TV on!,tv_on
+door lock karo,lock_door
+AC ka status batao before I check manually,ac_status
+"hey, this is an emergency bro",emergency
+please AC ka status batao,ac_status
+"yaar, fan on kar do!",fan_on
+"heater ka status batao, please",heater_status
+"bro, darwaza khol do",door_open
+is the AC running yaar,ac_status
+"yeah, security is totally unnecessary... lock the door",lock_door
+"bro, please open the window",window_open
+"TV band kar do, unless the empty screen has a show",tv_off
+apparently Antarctica is the goal; turn the AC off,ac_off
+"good morning, because apparently it's morning again",good_morning
+"hey, heater chala do",heater_on
+"bro, heater off karo please",heater_off
+"yeah, let's guess whether the heater is on; check it",heater_status
+"yaar, darwaza khol do",door_open
+what is the window status bro,window_status
+"yaar, turn on the AC",ac_on
+"yeah, leave it blazing all night... NOT. turn it off",light_off
+"hey, make the room warmer bro",temperature_up
+window open karo yaar,window_open
+apparently I have to go outside again — leaving home,leaving_home
+"yeah, being cold is fun... heater on please",heater_on
+turn on sleep mode,sleep_mode
+apparently we can guess humidity; tell me the current humidity,humidity_status
+"bro, AC off karo please",ac_off
+main ghar se ja rahi hoon bro,leaving_home
+please is the TV on please,tv_status
+"yeah, let's guess whether the window is open; check it",window_status
+apparently everything is fine... it isn't. emergency,emergency
+please switch the TV on,tv_on
+"yaar, is anything playing please",music_status
+"bro, darwaza khula hai kya",door_status
+night! time to stop pretending I'm productive,good_night
+turn on the heater,heater_on
+"bro, close the window!",window_close
+apparently the AC can hide from me; tell me its status,ac_status
+apparently nobody is watching; turn the TV off,tv_off
+heater band kar do before it gets ridiculous,heater_off
+heater chala do before I become an ice cube,heater_on
+what is the humidity,humidity_status
+"yaar, night everyone please",good_night
+set away mode,away_mode
+"yaar, decrease the temperature yaar",temperature_down
+please away mode on karo,away_mode
+"yaar, khidki band kar do yaar",window_close
+apparently Antarctica is the goal; turn the AC off,ac_off
+"hey, fan band kar do",fan_off
+"hey, party ke liye setup karo please",party_mode
+apparently we need a wind tunnel; window close karo,window_close
+gaane band kar do before the whole building joins,music_off
+turn on the alarm,alarm_on
+"yaar, make the room warmer",temperature_up
+temperature kam kar do please,temperature_down
+"yaar, what is the door status!",door_status
+apparently I should trust luck; tell me the security status,security_status
+"yaar, i am leaving",leaving_home
+apparently I should trust luck; tell me the security status,security_status
+temp badha do before I become a snowman,temperature_up
+set sleep mode,sleep_mode
+please we are home yaar,welcome_home
+apparently the door should stay closed; open the door,door_open
+what is the music status!,music_status
+khidki kholo before this room becomes a box,window_open
+apparently the house can look after itself; set away mode,away_mode
+"bro, switch the light on please",light_on
+"yeah, security is totally unnecessary... lock the door",lock_door
+"good night, because apparently sleep is finally allowed",good_night
+"light on yaar, genius idea",light_on
+"bro, check the temperature!",temperature_status
+"hey, alarm activate karo please",alarm_on
+"bro, heater chala do please",heater_on
+please darwaza khol do!,door_open
+is the TV running please,tv_status
+"yaar, window ka status batao bro",window_status
+check the temperature yaar,temperature_status
+"yeah, let's leave the door wide open... close it",door_close
+AC ka status batao before I check manually,ac_status
+"bro, make the room warmer",temperature_up
+"hey, sone ka mode laga do bro",sleep_mode
+"yaar, we are leaving yaar",leaving_home
+increase the temperature,temperature_up
+apparently the TV should stay off forever; turn it on,tv_on
+ghar ka status batao before I do a full inspection,home_status
+AC on!,ac_on
+"yeah, I'll inspect every room myself; just tell me the home status",home_status
+urgent emergency at home,emergency
+alarm on yaar,alarm_on
+apparently doors don't have status; tell me if it's open,door_status
+please fan chala do bro,fan_on
+please alarm on bro,alarm_on
+what is the humidity please,humidity_status
+"hey, music on please",music_on
+"yaar, open the room window!",window_open
+please TV ka status batao please,tv_status
+"bro, security status batao",security_status
+"hey, check the fans please",fans_status
+apparently nobody is watching; turn the TV off,tv_off
+"yaar, ghar secure hai kya",security_status
+"bro, tell me the humidity!",humidity_status
+night! time to stop pretending I'm productive,good_night
+"main ghar aa gaya, finally",welcome_home
+"yeah, being cold is fun... heater on please",heater_on
+"hey, window open karo",window_open
+please room temperature batao please,temperature_status
+apparently anyone should be able to walk in; lock it,lock_door
+"hey, what is the humidity please",humidity_status
+"yaar, prepare the house for sleep",sleep_mode
+"yeah, freezing is my favorite; raise the temperature",temperature_up
+"darwaza unlock kar do, we're not running a fortress",unlock_door
+"hey, khidki khol do please",window_open
+apparently nobody gets in today; unlock the door,unlock_door
+"bro, home status kya hai",home_status
+start the AC please,ac_on
+"yeah, leave everything running while I'm gone... activate away mode",away_mode
+please activate away mode bro,away_mode
+check the humidity,humidity_status
+AC chala do before this room becomes an oven,ac_on
+please unlock the door,unlock_door
+"yaar, switch the fan on bro",fan_on
+door ka status batao before I walk into a surprise,door_status
+"great, another light nobody needs; turn it off",light_off
+please check the security please,security_status
+apparently guessing the temperature is enough; tell me the current temperature,temperature_status
+please what is the AC status please,ac_status
+room light bujha do please,light_off
+"bro, urgent emergency at home please",emergency
+"hey, lock the main door bro",lock_door
+"bro, urgent emergency at home",emergency
+we are home,welcome_home
+"hey, turn off the alarm!",alarm_off
+activate sleep mode!,sleep_mode
+"yeah, let's make the music louder forever... stop it",music_off
+"yaar, put the light off please",light_off
+apparently the air is moving by magic; turn the fan on,fan_on
+"bro, what is the door status",door_status
+"yeah, keep the fan running forever... turn it off",fan_off
+"bro, khidki band kar do please",window_close
+apparently I wanted stale air; window open karo,window_open
+"yaar, this is an emergency",emergency
+"bro, what is the window status!",window_status
+lights ka status batao before I start checking every room,lights_status
+"yeah, let's turn the room into a furnace; lower the temperature",temperature_down
+turn off the AC bro,ac_off
+"something is wrong, emergency please",emergency
+please switch the fan on!,fan_on
+check the door,door_status
+please temp thoda increase karo,temperature_up
+make the room cooler yaar,temperature_down
+TV off karo,tv_off
+apparently the neighbors need a concert; music off,music_off
+AC on kar do,ac_on
+please alarm on,alarm_on
+please stop the heater bro,heater_off
+"great, I'm finally home; hello house",welcome_home
+temp badha do before I become a snowman,temperature_up
+khidki khuli hai kya,window_status
+apparently anyone should be able to walk in; lock it,lock_door
+turn on away mode,away_mode
+home status kya hai please,home_status
+"bro, door lock karo",lock_door
+"yeah, let's guess whether the window is open; check it",window_status
+"bro, good night home!",good_night
+"yaar, khidki khuli hai kya please",window_status
+"yaar, what is the home status yaar",home_status
+gaane chala do bro,music_on
+"yeah, leave it blazing all night... NOT. turn it off",light_off
+"yeah, let's guess whether the heater is on; check it",heater_status
+"wow, what a surprise, light on please",light_on
+"bro, switch the heater on bro",heater_on
+"hey, check the heater",heater_status
+"yaar, close the door!",door_close
+"hey, good night bro",good_night
+"yaar, AC off",ac_off
+what is the home status please,home_status
+"bro, main door ko lock karo please",lock_door
+"hey, TV chal raha hai kya bro",tv_status
+close the door please,door_close
+"yeah, let's keep everyone outside forever... unlock the door",unlock_door
+"yaar, film dekhni hai, movie mode yaar",movie_mode
+"bro, fan on yaar",fan_on
+apparently the room needs even more silence; music on,music_on
+"bro, which lights are on",lights_status
+please light chala do please,light_on
+"bro, lights on hain kya",lights_status
+switch the heater on bro,heater_on
+please TV on,tv_on
+open the door!,door_open
+"yeah, let's watch a movie with every light blazing... movie mode on",movie_mode
+please TV on please,tv_on
+"yeah, let's leave the door wide open... close it",door_close
+sleep mode on karo before I accidentally wake the whole house,sleep_mode
+"back home, because apparently the outside world was enough",welcome_home
+"yaar, alarm laga do",alarm_on
+good night please,good_night
+"bro, lights on hain kya!",lights_status
+"party hai bhai, party mode laga do",party_mode
+"yaar, activate movie mode please",movie_mode
+"bro, room light bujha do",light_off
+turn on away mode,away_mode
+apparently I should trust luck; tell me the security status,security_status
+khidki band kar do bro,window_close
+we're back home,welcome_home
+"bro, gaane chala do",music_on
+prepare the house for when I leave,away_mode
+"yaar, turn on the heater yaar",heater_on
+lights ka status batao before I start checking every room,lights_status
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+"yaar, prepare the house for when I leave!",away_mode
+"hey, security status batao",security_status
+"yeah, let's have a party in total silence... party mode on",party_mode
+i am home please,welcome_home
+apparently I wanted a sauna; turn the AC on,ac_on
+please put the light off yaar,light_off
+good morning,good_morning
+"bro, this is an emergency",emergency
+"hey, alarm band kar do bro",alarm_off
+"bro, stop the TV yaar",tv_off
+"bro, AC on yaar",ac_on
+please light on kar do yaar,light_on
+activate party mode yaar,party_mode
+"hey, ghar ko away mode par karo",away_mode
+i'm leaving home bro,leaving_home
+check the temperature please,temperature_status
+"hey, party ke liye setup karo",party_mode
+"hey, we are leaving bro",leaving_home
+"yaar, main ghar se ja rahi hoon!",leaving_home
+please what is the AC status,ac_status
+darwaza lock kar do please,lock_door
+"hey, something is wrong, emergency bro",emergency
+please main ghar se ja rahi hoon!,leaving_home
+please security status batao yaar,security_status
+because apparently the room is supposed to stay dark — turn the light on,light_on
+"yeah, I'll guess whether music is playing; check it",music_status
+"hey, stop the TV bro",tv_off
+"yaar, window ka status batao!",window_status
+"yaar, gaane chal rahe hain kya please",music_status
+"hey, decrease the temperature!",temperature_down
+please set party mode,party_mode
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+"great, time to leave the comfort of home; I'm leaving",leaving_home
+"bro, main door kholo",door_open
+"bro, check the home please",home_status
+"yaar, activate the alarm",alarm_on
+apparently we don't need a tropical climate indoors; heater off,heater_off
+"yaar, is music playing",music_status
+is the heater on,heater_status
+"yaar, unlock the door",unlock_door
+please alarm laga do bro,alarm_on
+turn on sleep mode,sleep_mode
+darwaza kholo before I start negotiating with it,door_open
+please stop the music yaar,music_off
+"hey, raise the temperature bro",temperature_up
+stop the TV yaar,tv_off
+"bro, are the lights on!",lights_status
+night! time to stop pretending I'm productive,good_night
+"yeah, let's turn the room into a furnace; lower the temperature",temperature_down
+"security status batao, no guessing",security_status
+"hey, TV on kar do",tv_on
+play music!,music_on
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+"bro, deactivate the alarm!",alarm_off
+"bro, check home security yaar",security_status
+switch the heater off,heater_off
+apparently movie night needs distractions; activate movie mode,movie_mode
+"yeah, I'll guess whether music is playing; check it",music_status
+"hey, door lock karo",lock_door
+please what is the fan status yaar,fans_status
+apparently I should trust luck; tell me the security status,security_status
+please which lights are on!,lights_status
+"hey, check the AC",ac_status
+night everyone bro,good_night
+please security status batao please,security_status
+"yeah, let's keep everyone outside forever... unlock the door",unlock_door
+"bro, main door band karo",door_close
+apparently the neighbors need a concert; music off,music_off
+"yaar, prepare the house for a movie bro",movie_mode
+"hey, please close the window please",window_close
+"yaar, good night",good_night
+please good morning please,good_morning
+check the temperature please,temperature_status
+"morning! yes, another day has arrived",good_morning
+"hey, what is the door status",door_status
+switch the AC on yaar,ac_on
+"yaar, are the lights on yaar",lights_status
+"yeah, keep the fan running forever... turn it off",fan_off
+"yaar, what is the temperature yaar",temperature_status
+heater on yaar,heater_on
+"yeah, I'll inspect every room myself; just tell me the home status",home_status
+"yaar, activate party mode",party_mode
+"hey, what is the window status!",window_status
+door ka status batao bro,door_status
+start the AC yaar,ac_on
+lock the door please,lock_door
+i am leaving!,leaving_home
+"great, another light nobody needs; turn it off",light_off
+"hey, TV band kar do bro",tv_off
+"hey, heater ka status batao!",heater_status
+apparently the door should stay closed; open the door,door_open
+"bro, turn off the fan",fan_off
+AC band kar do before we need jackets indoors,ac_off
+"good night, house; we're done for today",good_night
+please AC band kar do!,ac_off
+urgent emergency at home!,emergency
+apparently we need a wind tunnel; window close karo,window_close
+"bro, good morning",good_morning
+enable the alarm yaar,alarm_on
+"yeah, let's guess which lights are on; check the lights",lights_status
+"hey, start the fan bro",fan_on
+"hey, temp thoda decrease karo please",temperature_down
+please AC ka status batao!,ac_status
+stop the fan,fan_off
+AC chal raha hai kya please,ac_status
+"main ja raha hoon, house ko sambhal lena",leaving_home
+"bro, TV off!",tv_off
+AC on yaar,ac_on
+"good night, house",good_night
+"yaar, turn on movie mode",movie_mode
+"bro, switch the heater off please",heater_off
+"bro, check the temperature!",temperature_status
+"hey, main door band karo!",door_close
+heater band kar do before it gets ridiculous,heater_off
+"bro, ghar ka status batao bro",home_status
+is the door open,door_status
+"yaar, khidki khuli hai kya yaar",window_status
+check the temperature,temperature_status
+please tell me the humidity!,humidity_status
+please heater off karo,heater_off
+"bro, alarm activate karo",alarm_on
+"morning! yes, another day has arrived",good_morning
+"hey, what is the security status!",security_status
+"hey, humidity kitni hai!",humidity_status
+"bro, alarm band kar do",alarm_off
+"help, emergency at home",emergency
+apparently the house forgot it's a party; activate party mode,party_mode
+please lights on please,light_on
+door ka status batao before I walk into a surprise,door_status
+"yaar, temperature badha do please",temperature_up
+please please unlock the door!,unlock_door
+gaane chal rahe hain kya,music_status
+what is the light status,lights_status
+"yaar, play some music!",music_on
+unlock the main door,unlock_door
+please please close the window bro,window_close
+"yaar, good morning home please",good_morning
+"hey, TV on!",tv_on
+apparently I should trust luck; tell me the security status,security_status
+please is the main door closed bro,door_status
+play music yaar,music_on
+"yaar, window open karo",window_open
+"yaar, close the window yaar",window_close
+music on please,music_on
+"hey, i am home yaar",welcome_home
+"hey, temp thoda increase karo please",temperature_up
+"yaar, switch the heater on please",heater_on
+temp badha do before I become a snowman,temperature_up
+apparently sleep mode is optional; turn it on,sleep_mode
+"emergency hai, please treat this as urgent",emergency
+"yaar, room light bujha do!",light_off
+"hey, film dekhni hai, movie mode!",movie_mode
+because apparently the fan has to work overtime — fan off,fan_off
+"hey, what is the security status",security_status
+apparently movie night needs distractions; activate movie mode,movie_mode
+heater on yaar,heater_on
+"bro, khidki kholo",window_open
+"please good morning, house",good_morning
+please TV on kar do!,tv_on
+apparently doors don't have status; tell me if it's open,door_status
+"bro, alarm laga do bro",alarm_on
+"hey, heater on yaar",heater_on
+"hey, alarm on",alarm_on
+"bro, suprabhat please",good_morning
+switch the heater off,heater_off
+apparently the house forgot it's a party; activate party mode,party_mode
+"bro, is anything playing",music_status
+"bro, turn on away mode yaar",away_mode
+"bro, set away mode!",away_mode
+night! time to stop pretending I'm productive,good_night
+switch the TV on,tv_on
+home status kya hai please,home_status
+please close the main door yaar,door_close
+"hey, set movie mode",movie_mode
+"yaar, how is everything at home yaar",home_status
+apparently I have time to check everything manually; home status please,home_status
+ghar ka status batao before I do a full inspection,home_status
+please please close the door,door_close
+"bro, stop playing music please",music_off
+apparently sleep mode is optional; turn it on,sleep_mode
+stop the AC please,ac_off
+"good night, house; we're done for today",good_night
+"yeah, let's guess whether the window is open; check it",window_status
+"yeah, fresh air is clearly overrated... open the window",window_open
+heater chala do bro,heater_on
+please AC band kar do please,ac_off
+"bro, AC band kar do",ac_off
+apparently tomorrow can start whenever it wants; alarm on,alarm_on
+"yeah, let's leave the door wide open... close it",door_close
+apparently I should trust luck; tell me the security status,security_status
+heater off karo bro,heater_off
+please khidki khuli hai kya,window_status
+prepare the house for a movie yaar,movie_mode
+please current humidity batao yaar,humidity_status
+AC ka status batao before I check manually,ac_status
+window open karo please,window_open
+suprabhat!,good_morning
+apparently the heater has become invisible; tell me its status,heater_status
+"yeah, let's keep everything awake all night... activate sleep mode",sleep_mode
+"yeah, I'll just stare at the wall and guess; check the TV",tv_status
+please turn on party mode please,party_mode
+apparently sweating is the plan; temp down,temperature_down
+"yeah, let's keep everyone outside forever... unlock the door",unlock_door
+"bro, set sleep mode",sleep_mode
+apparently I wanted stale air; window open karo,window_open
+apparently the room needs even more silence; music on,music_on
+"hey, darwaza khula hai kya please",door_status
+"yaar, fan chala do!",fan_on
+turn on the TV bro,tv_on
+"yeah, being cold is fun... heater on please",heater_on
+gaane band kar do before the whole building joins,music_off
+switch the AC on,ac_on
+please what is the AC status,ac_status
+what is the home status!,home_status
+is the window closed,window_status
+good night home bro,good_night
+"yeah, let's have a party in total silence... party mode on",party_mode
+apparently the TV status is a mystery; tell me if it's on,tv_status
+temp kitna hai yaar,temperature_status
+apparently I have time to check everything manually; home status please,home_status
+light off karo please,light_off
+"darwaza unlock kar do, we're not running a fortress",unlock_door
+turn on the fan!,fan_on
+good night home,good_night
+"bro, turn on the alarm please",alarm_on
+"darwaza unlock kar do, we're not running a fortress",unlock_door
+please alarm activate karo bro,alarm_on
+"yaar, fan chala do yaar",fan_on
+apparently I wanted stale air; window open karo,window_open
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+"yeah, security is totally unnecessary... lock the door",lock_door
+"yaar, what is the door status bro",door_status
+apparently we don't need a tropical climate indoors; heater off,heater_off
+"fan band kar do, we're not powering the whole neighborhood",fan_off
+please put the light on bro,light_on
+please temperature up please,temperature_up
+"yaar, AC chala do!",ac_on
+"yaar, turn on sleep mode yaar",sleep_mode
+temp kitna hai? I'd rather not guess,temperature_status
+music on please,music_on
+"good morning, because apparently it's morning again",good_morning
+"yeah, waking up late sounds fantastic... set the alarm",alarm_on
+check the heater yaar,heater_status
+"yeah, my imaginary humidity sensor is broken — check it",humidity_status
+"yeah, being cold is fun... heater on please",heater_on
+khidki kholo please,window_open
+fan off karo,fan_off
+fans ka status batao,fans_status
+apparently the neighbors need a concert; music off,music_off
+"bro, i'm leaving home yaar",leaving_home
+night! time to stop pretending I'm productive,good_night
+"bro, darwaza khula hai kya",door_status
+apparently the TV status is a mystery; tell me if it's on,tv_status
+apparently the alarm needs the last word; alarm off,alarm_off
+"yeah, let's guess whether the heater is on; check it",heater_status
+heater chal raha hai kya!,heater_status
+"fan ka status batao, no guessing",fans_status
+"main ja raha hoon, house ko sambhal lena",leaving_home
+morning,good_morning
+"yaar, check the home",home_status
+"yeah, because I definitely know the temperature already — check it",temperature_status
+"hey, heater ka status batao!",heater_status
+i'm leaving home please,leaving_home
+please is the AC running!,ac_status
+"hey, open the window bro",window_open
+"bro, fan on kar do!",fan_on
+"yeah, I'll magically know if the AC is running; check it",ac_status
+fan on bro,fan_on
+play some music yaar,music_on
+"yaar, check the fans!",fans_status
+"yaar, please lock the door bro",lock_door
+"yeah, staring at a blank screen is my hobby... TV on",tv_on
+sleep mode on karo before I accidentally wake the whole house,sleep_mode
+"hey, turn on the alarm yaar",alarm_on
+"morning! yes, another day has arrived",good_morning
+shubh ratri,good_night
+"bro, stop the AC",ac_off
+"yaar, good morning bro",good_morning
+darwaza unlock kar do yaar,unlock_door
+"bro, door ka status batao!",door_status
+"hey, i'm leaving home yaar",leaving_home
+please i'm home yaar,welcome_home
+khidki band kar do before everything starts flying,window_close
+please turn off the heater,heater_off
+"yaar, check home security",security_status
+"bro, unlock the door bro",unlock_door
+"bro, light chala do please",light_on
+"hey, check home security!",security_status
+apparently sleep mode is optional; turn it on,sleep_mode
+"hey, ghar ko away mode par karo",away_mode
+make the room warmer,temperature_up
+switch the fan on bro,fan_on
+alarm laga do before future-me complains,alarm_on
+"alarm band kar do, enough drama",alarm_off
+"yeah, silence is overrated — play music",music_on
+"bro, gaane chal rahe hain kya",music_status
+"yeah, let's invite all the outside air in... close the window",window_close
+"great, time to leave the comfort of home; I'm leaving",leaving_home
+turn on the AC please,ac_on
+"hey, light band kar do please",light_off
+apparently tomorrow can start whenever it wants; alarm on,alarm_on
+"security status batao, no guessing",security_status
+heater chala do before I become an ice cube,heater_on
+please turn off the AC please,ac_off
+please tell me the current temperature bro,temperature_status
+"yeah, I'll guess whether music is playing; check it",music_status
+"yaar, darwaza khula hai kya!",door_status
+fan on kar do yaar,fan_on
+"yeah, let's turn the room into a furnace; lower the temperature",temperature_down
+turn on party mode,party_mode
+"hey, music off karo please",music_off
+"yeah, leave it blazing all night... NOT. turn it off",light_off
+"bro, main ghar se ja rahi hoon",leaving_home
+please emergency mode activate karo bro,emergency
+"hey, how is everything at home yaar",home_status
+"yeah, I'll guess whether music is playing; check it",music_status
+"bro, close the room window",window_close
+what is the fan status please,fans_status
+TV off karo please,tv_off
+unlock the door!,unlock_door
+apparently silence and music sound identical now; tell me the status,music_status
+"bro, temperature kya hai",temperature_status
+"yaar, alarm deactivate karo bro",alarm_off
+please night everyone!,good_night
+"bro, prepare the house for sleep",sleep_mode
+open the room window bro,window_open
+"bro, switch the AC on please",ac_on
+"bro, is the heater on",heater_status
+"hey, turn on the light",light_on
+"yaar, unlock the door!",unlock_door
+apparently doors don't have status; tell me if it's open,door_status
+stop the fan yaar,fan_off
+"yeah, a closed door is exactly what I need... open it",door_open
+"TV ka status batao, no detective work from me",tv_status
+"yaar, close the door yaar",door_close
+alarm laga do before future-me complains,alarm_on
+please music rok do,music_off
+lights ka status batao before I start checking every room,lights_status
+"hey, music baja do",music_on
+"bro, main door ko lock karo bro",lock_door
+"yaar, temperature down yaar",temperature_down
+"hey, please close the door",door_close
+apparently silence and music sound identical now; tell me the status,music_status
+"yaar, lights off bro",light_off
+apparently privacy is optional; door close karo,door_close
+"hey, gaane chala do yaar",music_on
+door ka status batao before I walk into a surprise,door_status
+"yeah, this is definitely not a time for jokes — emergency",emergency
+"yaar, turn on the fan yaar",fan_on
+"bro, switch the TV on!",tv_on
+apparently I have x-ray vision — tell me the light status,lights_status
+"hey, AC on",ac_on
+khidki kholo before this room becomes a box,window_open
+"yaar, open the room window!",window_open
+"yeah, a closed door is exactly what I need... open it",door_open
+please turn on the TV!,tv_on
+"yeah, let's make the music louder forever... stop it",music_off
+which fans are running!,fans_status
+apparently nobody gets in today; unlock the door,unlock_door
+apparently the air is moving by magic; turn the fan on,fan_on
+heater band kar do before it gets ridiculous,heater_off
+apparently we're living in a freezer; temperature up,temperature_up
+"hey, what is the TV status bro",tv_status
+lights on hain kya!,lights_status
+alarm laga do yaar,alarm_on
+please night everyone please,good_night
+"bro, TV off!",tv_off
+TV band kar do,tv_off
+"yeah, let's keep everyone outside forever... unlock the door",unlock_door
+"light band kar do, unless we're trying to illuminate the whole planet",light_off
+ghar ko away mode par karo yaar,away_mode
+switch the light off!,light_off
+please check the home bro,home_status
+"yaar, activate party mode!",party_mode
+"yaar, check the TV",tv_status
+please enable the alarm,alarm_on
+AC chal raha hai kya please,ac_status
+"hey, switch the light on",light_on
